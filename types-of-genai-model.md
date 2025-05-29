@@ -1,12 +1,12 @@
-# Types of GenAI Model
+# 🟢 Types of GenAI Model
 
-**Unimodal:**
+<mark style="color:purple;background-color:purple;">**Unimodal:**</mark>
 
 * Input: Text or Image
 * Output: Text or Image
 * GAN was used for image to image
 
-**Multimodal:**
+<mark style="color:purple;background-color:purple;">**Multimodal:**</mark>
 
 * Input: Text as well as Image
 * Output: Text as well as Image

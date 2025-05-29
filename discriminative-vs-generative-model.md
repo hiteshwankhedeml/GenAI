@@ -1,4 +1,4 @@
-# Discriminative vs Generative Model
+# ✈️ Discriminative vs Generative Model
 
 
 
@@ -6,7 +6,7 @@
 * In Generative model we don't use Supervised / Unsupervised training
 *
 
-    <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 *
 
-    <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>

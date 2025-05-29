@@ -1,4 +1,4 @@
-# What is GenAI
+# 🟢 What is GenAI
 
 <mark style="color:purple;background-color:purple;">**AI:**</mark>&#x20;
 

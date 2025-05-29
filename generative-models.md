@@ -1,4 +1,4 @@
-# Generative Models
+# 🦋 Generative Models
 
 **GANs (Generative Adversarial Networks)**&#x20;
 
