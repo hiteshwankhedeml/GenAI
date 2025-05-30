@@ -1,8 +1,8 @@
-# BERT
+# 🟢 BERT
 
-* Bidirectional Encoder Representation from Transformer
-* Encoder based architecture
-* Bidirectional means it is going to process the data in both the directions to self attention layer
+* <mark style="color:purple;background-color:purple;">**Bidirectional Encoder Representation from Transformer**</mark>
+* <mark style="color:purple;background-color:purple;">**Encoder based architecture**</mark>
+* <mark style="color:purple;background-color:purple;">**Bidirectional means it is going to process the data in both the directions to self attention layer**</mark>
 * We have positional encoding also
 * Trained on massive wikipedia data
 * Layer Normalization and Feed Forward

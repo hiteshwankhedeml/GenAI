@@ -1,4 +1,4 @@
-# Mistral
+# 🟠 Mistral
 
 * Few models are open source, rest are paid
 * [https://mistral.i/](https://mistral.ai/)

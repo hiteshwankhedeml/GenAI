@@ -1,4 +1,4 @@
-# 🟢 Stages of Training ChatGPT
+# ✈️ Stages of Training ChatGPT
 
 *
 
