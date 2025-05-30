@@ -13,4 +13,4 @@
 * The reward model is like a binary classifier that uses standard cross-entropy as its loss function.
 *
 
-    <figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>

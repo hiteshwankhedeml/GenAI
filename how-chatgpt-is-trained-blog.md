@@ -6,6 +6,6 @@
 * <mark style="color:purple;background-color:purple;">**In ChatGPT we can give multiple request and response preserving the context**</mark>
 *
 
-    <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
     \
