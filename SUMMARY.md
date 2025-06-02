@@ -50,3 +50,6 @@
 * [HuggingFace - Pipeline](huggingface-pipeline.md)
 * [HuggingFace - Auto Class](huggingface-auto-class.md)
 * [HuggingFace - Inference API](huggingface-inference-api.md)
+* [Agentic AI](agentic-ai/README.md)
+  * [Generative AI](agentic-ai/generative-ai.md)
+  * [RAG](agentic-ai/rag.md)
