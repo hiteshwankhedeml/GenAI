@@ -7,4 +7,4 @@
 * Reward: If it collides with duck it will lose life, if it collides with ? then it gets reward
 *   Environment: Here the entire game is environment
 
-    <figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
