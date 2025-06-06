@@ -1,6 +1,6 @@
-# LLM Context Size - Popular LLMs
+# 🟢 LLM Context Size - Popular LLMs
 
-
+* <mark style="color:purple;background-color:purple;">**Varies from 4k till 1M (Gemini)**</mark>
 
 | **Model**                   | **Context Size (tokens)** | **Open Source / Paid**           | **Notes**                            |
 | --------------------------- | ------------------------- | -------------------------------- | ------------------------------------ |

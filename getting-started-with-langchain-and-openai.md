@@ -1,4 +1,4 @@
-# Getting Started with LangChain and OpenAI
+# 🟢 Getting Started with LangChain and OpenAI
 
 * Signup on langchain and langsmith
 * platform.openai.com ⇒ Login ⇒ API keys

@@ -1,4 +1,9 @@
-# Data Loader - MongoDB
+# 🟢 Data Loader - MongoDB
+
+<mark style="color:purple;background-color:purple;">**Steps:**</mark>
+
+* <mark style="color:purple;background-color:purple;">While initiating loader , we need to specify creddentials, connection string etc</mark>
+* <mark style="color:purple;background-color:purple;">loader.load()</mark>
 
 ```python
 from langchain_community.document_loaders.mongodb import MongodbLoader

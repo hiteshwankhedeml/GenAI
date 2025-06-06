@@ -1,16 +1,14 @@
-# Complete LangChain Ecosystem
+# 🟢 Complete LangChain Ecosystem
 
 **Why LangChain?**
 
 * <mark style="color:purple;background-color:purple;">**Most common framework for building GenAI**</mark>
 * OpenAI and hugging face 1st came up with LLM models
-* Open AI had different set of code&#x20;
+* Open AI had different set of code
 * Hugging face we used different libraries like transformer
 * Then more companies came in the race, different set of libraries were getting created for LLM models
 * <mark style="color:purple;background-color:purple;">**LangChain created common framework to develop GenAI apps**</mark>
 * <mark style="color:purple;background-color:purple;">**All the modules inside LangChain are opensource**</mark>
-
-
 
 **Ecosystem:**
 

@@ -1,11 +1,11 @@
-# Introduction to Basic components and modules in LangChain
+# 🟢 RAG - Introduction
 
 1. <mark style="color:purple;background-color:purple;">**RAG: Retrieval Augmented Generation**</mark>
 
 * Retrieval-Augmented Generation (RAG) is a framework that combines:
 
-1. **Information Retrieval**: Fetching relevant data or documents from an external knowledge base.
-2. **Generative AI Models**: Producing contextually relevant responses using retrieved information.
+1. <mark style="color:purple;background-color:purple;">**Information Retrieval: Fetching relevant data or documents from an external knowledge base.**</mark>
+2. <mark style="color:purple;background-color:purple;">**Generative AI Models: Producing contextually relevant responses using retrieved information.**</mark>
 
 * Data source is thousand of pdf and we want to make GenAI app to query the pdf and give response
 * <mark style="color:purple;background-color:purple;">**Load(Data Ingestion):**</mark>
@@ -30,4 +30,4 @@
 * <mark style="color:purple;background-color:purple;">**Retrieval chain is responsible in querying vector store DB**</mark>
 * <mark style="color:purple;background-color:purple;">**We will combine this context info with prompt and give it to LLM**</mark>
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>

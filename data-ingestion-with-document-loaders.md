@@ -1,8 +1,14 @@
-# Data Ingestion with Document Loaders
+# 🟢 Data Ingestion with Document Loaders
 
 * [https://python.langchain.com/v0.2/docs/integrations/document\_loaders/](https://python.langchain.com/v0.2/docs/integrations/document_loaders/)
 * <mark style="color:purple;background-color:purple;">**We use document\_loaders API for loading the data**</mark>
-* <mark style="color:purple;background-color:purple;">**In Web loader we pass class\_ if we want only specif info from page**</mark>
+* <mark style="color:purple;background-color:purple;">**In Web loader we pass class\_ if we want only specify info from page**</mark>
+* <mark style="color:purple;background-color:purple;">**Steps:**</mark>
+  * <mark style="color:purple;background-color:purple;">import the required loader</mark>
+  * <mark style="color:purple;background-color:purple;">instantiate the loader with the filepath</mark>&#x20;
+  * <mark style="color:purple;background-color:purple;">loader.load()</mark>
+  * <mark style="color:purple;background-color:purple;">This will give Document which will have source, page\_content</mark>
+  * <mark style="color:purple;background-color:purple;">If a pdf has multiple pages, then we will have multiple documents for each page</mark>
 
 ```python
 ## Reading from .txt file
