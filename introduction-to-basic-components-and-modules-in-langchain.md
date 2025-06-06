@@ -20,13 +20,13 @@
   * There are different vector store ⇒ FAISS, CHROMADB, ASTRADB
 *
 
-    <figure><img src=".gitbook/assets/{7058396E-3BC2-4D7B-B5C7-008C24709061}.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 2. **User Interaction:**
 
 * User will be able to ask any Question
 * We design a separate prompt
-* <mark style="color:purple;background-color:purple;">**As soon as we give question, it is queries to vector store**</mark>&#x20;
+* <mark style="color:purple;background-color:purple;">**As soon as we give question, it is queries to vector store**</mark>
 * <mark style="color:purple;background-color:purple;">**Retrieval chain is responsible in querying vector store DB**</mark>
 * <mark style="color:purple;background-color:purple;">**We will combine this context info with prompt and give it to LLM**</mark>
 
