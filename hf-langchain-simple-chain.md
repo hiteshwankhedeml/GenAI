@@ -1,4 +1,8 @@
-# HF - LangChain - Simple Chain
+# 🟢 HF - LangChain - Simple Chain
+
+* <mark style="color:purple;background-color:purple;">**We need to initiate huggingface pipeline**</mark>
+* <mark style="color:purple;background-color:purple;">**We can pass this pipeline to langchain-huggingface interface**</mark>
+* <mark style="color:purple;background-color:purple;">**After this we can use all the langchain components**</mark>
 
 ```python
 from langchain_huggingface import HuggingFacePipeline

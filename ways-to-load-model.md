@@ -1,8 +1,7 @@
-# Ways to Load Model
+# 🟢 Ways to Load Model
 
-**3 Ways:**
+<mark style="color:purple;background-color:purple;">**3 Ways:**</mark>
 
-1. Inferencing API
-2. In memory (RAM) — Bydefault when we use pipeline this will happen
-3. On Disk
-
+1. <mark style="color:purple;background-color:purple;">**Inferencing API**</mark>
+2. <mark style="color:purple;background-color:purple;">**In memory (RAM) — Bydefault when we use pipeline this will happen**</mark>
+3. <mark style="color:purple;background-color:purple;">**On Disk**</mark>

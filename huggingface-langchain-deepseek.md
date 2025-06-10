@@ -1,4 +1,4 @@
-# HuggingFace - LangChain - DeepSeek
+# ✈️ HuggingFace - LangChain - DeepSeek
 
 * This takes lot of memory and it can crash
 

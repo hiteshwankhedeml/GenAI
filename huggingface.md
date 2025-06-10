@@ -1,4 +1,4 @@
-# HuggingFace
+# 🟢 HuggingFace
 
 * [https://huggingface.co/](https://huggingface.co/)
 * In Docs
@@ -8,7 +8,7 @@
   * ChatUI
   * Huggingface.js....
 * More than 1 million models provided by HuggingFace
-* Profile ⇒ Access Tokens
-  * Fine grained - To provide specific permission like specific respository etc
-  * Read
-  * Write
+* <mark style="color:purple;background-color:purple;">**Profile ⇒ Access Tokens**</mark>
+  * <mark style="color:purple;background-color:purple;">**Fine grained - To provide specific permission like specific respository etc**</mark>
+  * <mark style="color:purple;background-color:purple;">**Read**</mark>
+  * <mark style="color:purple;background-color:purple;">**Write**</mark>

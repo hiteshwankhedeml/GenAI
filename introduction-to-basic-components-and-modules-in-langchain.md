@@ -4,8 +4,8 @@
 
 * Retrieval-Augmented Generation (RAG) is a framework that combines:
 
-1. <mark style="color:purple;background-color:purple;">**Information Retrieval: Fetching relevant data or documents from an external knowledge base.**</mark>
-2. <mark style="color:purple;background-color:purple;">**Generative AI Models: Producing contextually relevant responses using retrieved information.**</mark>
+1. <mark style="color:purple;background-color:purple;">**Information Retrieval: Fetching relevant data or documents from an external knowledge base**</mark>
+2. <mark style="color:purple;background-color:purple;">**Generative AI Models: Producing contextually relevant responses using retrieved information**</mark>
 
 * Data source is thousand of pdf and we want to make GenAI app to query the pdf and give response
 * <mark style="color:purple;background-color:purple;">**Load(Data Ingestion):**</mark>

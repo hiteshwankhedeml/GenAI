@@ -1,6 +1,7 @@
-# HuggingFace - Inference API
+# 🟢 HuggingFace - Inference API
 
 * [https://huggingface.co/docs/api-inference/en/index](https://huggingface.co/docs/api-inference/en/index)
+* <mark style="color:purple;background-color:purple;">**Can be done using requests or huggingface-inference client**</mark>
 
 ```python
 import requests

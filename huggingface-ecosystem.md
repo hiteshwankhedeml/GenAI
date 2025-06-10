@@ -1,4 +1,4 @@
-# HuggingFace Ecosystem
+# ✈️ HuggingFace Ecosystem
 
 HuggingFace Ecosystem:
 

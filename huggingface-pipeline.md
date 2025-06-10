@@ -1,5 +1,8 @@
-# HuggingFace - Pipeline
+# 🟢 HuggingFace - Pipeline
 
+* <mark style="color:purple;background-color:purple;">**When using pipeline, we just need to specify task and model**</mark>
+* <mark style="color:purple;background-color:purple;">**It loads the model in memory**</mark>
+* <mark style="color:purple;background-color:purple;">**Here also it's possible to get the model and tokenizer from pipeline, and then save it locally**</mark>
 * distilbert-base-uncases-finetuned-sst-2-english
   * BERT based
   * uncases means its not case sensitve
@@ -13,7 +16,7 @@ from transformers import pipeline
 #------------Classification----------------
 # This will download the model 
 #distilbert/distilbert-base-uncased-finetuned-sst-2-english
-# This is BER
+# This is BERT
 classifier=pipeline("sentiment-analysis") 
 classifier("i will learn AI throughout my entire life it is like a passion")
 # [{'label': 'POSITIVE', 'score': 0.9987781643867493}]

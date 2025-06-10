@@ -1,8 +1,10 @@
-# HuggingFace - Auto Class
+# 🟢 HuggingFace - Auto Class
 
-* Use AutoModelForSequenceClassification and AutoTokenizer to load the pretrained model and it’s associated tokenizer
-* For every pre-trained model, vocab will be different ⇒ So for every model tokenizer will be different
-* We need to use tokenizer which was used for pre-training the model, we cannot use normal tokenization
+* <mark style="color:purple;background-color:purple;">**Use AutoModelForSequenceClassification and AutoTokenizer to load the pretrained model and it’s associated tokenizer**</mark>
+* <mark style="color:purple;background-color:purple;">**For every pre-trained model, vocab will be different ⇒ So for every model tokenizer will be different**</mark>
+* <mark style="color:purple;background-color:purple;">**We need to use tokenizer which was used for pre-training the model, we cannot use normal tokenization**</mark>
+* <mark style="color:purple;background-color:purple;">**By default, it also loads the model in memory**</mark>
+* <mark style="color:purple;background-color:purple;">**We can also save and load the model locally**</mark>
 
 ```python
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
