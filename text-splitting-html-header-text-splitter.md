@@ -1,7 +1,7 @@
-# Text Splitting - HTML Header Text Splitter
+# ✈️ Text Splitting - HTML Header Text Splitter
 
-* HTMLHeaderTextSplitter is a "structure-aware" chunker that splits text at the HTML element level and adds metadata for each header "relevant" to any given chunk.&#x20;
-* It can return chunks element by element or combine elements with the same metadata, with the objectives of (a) keeping related text grouped (more or less) semantically and (b) preserving context-rich information encoded in document structures.&#x20;
+* HTMLHeaderTextSplitter is a "structure-aware" chunker that splits text at the HTML element level and adds metadata for each header "relevant" to any given chunk.
+* It can return chunks element by element or combine elements with the same metadata, with the objectives of (a) keeping related text grouped (more or less) semantically and (b) preserving context-rich information encoded in document structures.
 * It can be used with other text splitters as part of a chunking pipeline.
 
 ```python

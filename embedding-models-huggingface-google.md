@@ -1,4 +1,4 @@
-# Embedding Models - HuggingFace/Google
+# ✈️ Embedding Models - HuggingFace/Google
 
 ```python
 from langchain_huggingface import HuggingFaceEmbeddings

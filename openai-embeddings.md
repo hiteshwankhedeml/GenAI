@@ -1,4 +1,4 @@
-# OpenAI Embeddings
+# 🟢 OpenAI Embeddings
 
 * <mark style="color:purple;background-color:purple;">**This is paid API**</mark>
 * <mark style="color:purple;background-color:purple;">**OpenAI ⇒ Playground ⇒ Embedding ⇒ to see available embeddings**</mark>

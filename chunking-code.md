@@ -1,9 +1,9 @@
-# Chunking - Code
+# 🟢 Chunking - Code
 
-* &#x20;Character text splitter
-  * check on chatgpt actual working, its something weirs it seems
-* Recursive text splitter
-  * Check the working
+<mark style="color:purple;background-color:purple;">**Steps:**</mark>
+
+* <mark style="color:purple;background-color:purple;">Initialize the Chunker - specify chunk size, overlap</mark>
+* <mark style="color:purple;background-color:purple;">pass text to be chunked to the chunker</mark>
 
 ```python
 from langchain_text_splitters import CharacterTextSplitter
