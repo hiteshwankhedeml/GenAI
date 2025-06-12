@@ -1,4 +1,4 @@
-# Comparision of VectorDB
+# ✈️ Comparision of VectorDB
 
 
 

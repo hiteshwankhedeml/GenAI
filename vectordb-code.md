@@ -1,4 +1,4 @@
-# VectorDB - Code
+# ✈️ VectorDB - Code
 
 * &#x20;Their are different document loaders
 * If chunking is required then only do it

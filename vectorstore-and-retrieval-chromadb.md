@@ -1,4 +1,4 @@
-# VectorStore and Retrieval - ChromaDB
+# 🟢 VectorStore and Retrieval - ChromaDB
 
 * Chroma is a AI-native open-source vector database focused on developer productivity and happiness. Chroma is licensed under Apache 2.0.
 * <mark style="color:purple;background-color:purple;">**When we save it to the disk, it uses sqlite3**</mark>

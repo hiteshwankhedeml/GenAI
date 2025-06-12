@@ -1,4 +1,4 @@
-# Similarity Search Techniques
+# ✈️ Similarity Search Techniques
 
 1. Cosine similarity
 2. DOT product

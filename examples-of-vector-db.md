@@ -1,5 +1,6 @@
-# Examples of Vector DB
+# ✈️ Examples of Vector DB
 
-* FAISS -&#x20;
+* FAISS&#x20;
+* ChromaDB
 * Pinecone
 * WAVITE

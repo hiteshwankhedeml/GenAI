@@ -1,8 +1,8 @@
-# Pinecone - Code
+# 🟢 Pinecone - Code
 
-* API Key required, can be generated on pinecone site
-* In free plan, you can create only 1 project
-* Can be configured for any cloud
+* <mark style="color:purple;background-color:purple;">**API Key required, can be generated on pinecone site**</mark>
+* <mark style="color:purple;background-color:purple;">**In free plan, you can create only 1 project**</mark>
+* <mark style="color:purple;background-color:purple;">**Can be configured for any cloud**</mark>
 * Use langchain to add data
 * Specify filter for pre-filering
 * uuids are optionable

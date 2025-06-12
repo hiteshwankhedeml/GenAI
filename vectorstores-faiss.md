@@ -1,13 +1,13 @@
-# VectorStores - FAISS
+# 🟢 VectorStores - FAISS
 
-* <mark style="color:purple;background-color:purple;">**Facebook AI Similarity Search**</mark> (Faiss) is a library for efficient similarity search and clustering of dense vectors.&#x20;
+* <mark style="color:purple;background-color:purple;">**Facebook AI Similarity Search**</mark> (Faiss) is a library for efficient similarity search and clustering of dense vectors.
 * It contains algorithms that search in sets of vectors of any size, up to ones that possibly do not fit in RAM. It also contains supporting code for evaluation and parameter tuning.
 * <mark style="color:purple;background-color:purple;">**We can also store and load the vectors**</mark>
 * <mark style="color:purple;background-color:purple;">**We can do similairty search using db as well as retriever**</mark>
 
 <mark style="color:purple;background-color:purple;">**As a Retriever:**</mark>
 
-* <mark style="color:purple;background-color:purple;">**We can also convert the vectorstore into a Retriever class.  ⇒ db.as\_retriever()**</mark>
+* <mark style="color:purple;background-color:purple;">**We can also convert the vectorstore into a Retriever class. ⇒ db.as\_retriever()**</mark>
 * <mark style="color:purple;background-color:purple;">**This allows us to easily use it in other LangChain methods, which largely work with retrievers**</mark>
 * <mark style="color:purple;background-color:purple;">**VectorDB stores your embedded documents and does similarity search.**</mark>
 * <mark style="color:purple;background-color:purple;">**Retriever wraps the VectorDB to provide a clean, flexible interface for fetching relevant docs.**</mark>
@@ -15,8 +15,8 @@
 
 **Similarity Search with score:**
 
-* There are some FAISS specific methods. One of them is similarity\_search\_with\_score, which allows you to return not only the documents but also the distance score of the query to them.&#x20;
-* The returned distance score is L2 distance.&#x20;
+* There are some FAISS specific methods. One of them is similarity\_search\_with\_score, which allows you to return not only the documents but also the distance score of the query to them.
+* The returned distance score is L2 distance.
 * Therefore, a lower score is better.
 
 ```python

@@ -1,4 +1,4 @@
-# ChromaDB - Code
+# ✈️ ChromaDB - Code
 
 ```python
 from langchain_community.document_loaders import PyPDFDirectoryLoader

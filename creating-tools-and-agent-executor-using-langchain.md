@@ -79,6 +79,7 @@ agent_executor=AgentExecutor(agent=agent,tools=tools,verbose=True)
 agent_executor
 
 agent_executor.invoke({"input":"Tell me about Langsmith"})
+# This will invoke lang-smith retriever
 
 agent_executor.invoke({"input":"What is machine learning"})
 

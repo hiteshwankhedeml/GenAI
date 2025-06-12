@@ -1,8 +1,8 @@
-# Vector DB
+# 🟢 Vector DB
 
 * Backbone of RAG
 * We can configure on system, or over cloud as well
-* VectorDB holds the vector
+* <mark style="color:purple;background-color:purple;">**VectorDB holds the vector**</mark>
 * SQL based DB used for tabular data ⇒ We use SQL queries to get data
 * There are NoSQL DB like mongoDB
 * Vector is a set of number
@@ -15,7 +15,6 @@
 * If for a new image, we want to find similar images
 * But SQL DB does not support similarity search
 * VectorDB is optimized for search
-* VectorDB provides
-  * Indexing
-  * Searching
-*
+* <mark style="color:purple;background-color:purple;">**VectorDB provides**</mark>
+  * <mark style="color:purple;background-color:purple;">**Indexing**</mark>
+  * <mark style="color:purple;background-color:purple;">**Searching**</mark>
