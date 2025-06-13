@@ -1,4 +1,4 @@
-# Prompt
+# 🟢 Prompt
 
 * System Message - For the behaviour of the LLM
 * Human Message -&#x20;

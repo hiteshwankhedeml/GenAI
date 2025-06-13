@@ -1,4 +1,4 @@
-# Summary: VectorDB, Retriever, Document Chain, and RetrievalChain
+# 🟢 Summary: VectorDB, Retriever, Document Chain, and RetrievalChain
 
 * <mark style="color:purple;background-color:purple;">**VectorDB stores embeddings and performs similarity search on documents.**</mark>
 * <mark style="color:purple;background-color:purple;">**We convert VectorDB into a Retriever to get a flexible interface for fetching relevant documents.**</mark>
