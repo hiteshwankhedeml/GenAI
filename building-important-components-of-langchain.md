@@ -1,5 +1,6 @@
-# Building important Components of LangChain
+# 🟢 Building important Components of LangChain
 
+* <mark style="color:purple;background-color:purple;">**Notice how values of placeholders has been passed in invoke using chaining**</mark>
 * Since we have already set environment variables, so we dont need to explicity pass key for calling the API
 * In LangSmith, we will be able to see all the request, time etc
 * Prompt template is for what kind of role you want LLM app to play/behave

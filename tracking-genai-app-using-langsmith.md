@@ -1,2 +1,2 @@
-# Tracking GenAI App using LangSmith
+# ✈️ Tracking GenAI App using LangSmith
 

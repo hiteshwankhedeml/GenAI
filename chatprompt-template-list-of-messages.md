@@ -1,4 +1,7 @@
-# Prompt Template - List of Messages
+# 🟢 ChatPrompt Template - List of Messages
+
+* <mark style="color:purple;background-color:purple;">**In this we pass list of messages to chatprompt template**</mark>
+* <mark style="color:purple;background-color:purple;">**When we invoke the prompt we pass the values of the placeholders**</mark>
 
 ```python
 from langchain_core.prompts import ChatPromptTemplate

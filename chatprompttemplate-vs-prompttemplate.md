@@ -1,4 +1,4 @@
-# ChatPromptTemplate vs PromptTemplate
+# 🟢 ChatPromptTemplate vs PromptTemplate
 
 * **ChatPromptTemplate:**
   * <mark style="color:purple;background-color:purple;">**Designed specifically for chat-based LLMs that expect a sequence of messages with roles (system, user, assistant).**</mark>
