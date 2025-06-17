@@ -1,4 +1,4 @@
-# Building GENAI Apps
+# 🟢 Building GENAI Apps
 
 * We have a website and it has some content, we will extract that information
 * We will divide the contents into chunks, then embeddings
@@ -9,7 +9,7 @@
   * <mark style="color:purple;background-color:purple;">**Used to create a chat prompt from a single block of user content (implicitly as a human message).**</mark>
   * <mark style="color:purple;background-color:purple;">**Simpler and faster for one-shot user input, but doesn't support multiple roles.**</mark>
   * <mark style="color:purple;background-color:purple;">**Treats the entire content as a single human message.**</mark>
-* <mark style="color:purple;background-color:purple;">**Document Loader ⇒ Chunk ⇒ Embeddings ⇒ VectorDB ⇒ Retriever ⇒ Document chain(llm, prompt) ⇒ Rerieval chain(Retriever, Document chain) ⇒ retriever chain. invoke**</mark>
+* <mark style="color:red;background-color:purple;">**Document Loader ⇒ Chunk ⇒ Embeddings ⇒ VectorDB ⇒ Retriever ⇒ Document chain(llm, prompt) ⇒ Rerieval chain(Retriever, Document chain) ⇒ retriever chain. invoke**</mark>
 
 ```python
 import os

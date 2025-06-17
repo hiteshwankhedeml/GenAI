@@ -160,7 +160,7 @@
 * [🟢 ChatPrompt Template - List of Messages](chatprompt-template-list-of-messages.md)
 * [🟢 Building important Components of LangChain](building-important-components-of-langchain.md)
 * [🟢 Creating a Chatbot](creating-a-chatbot.md)
-* [Building GENAI Apps](building-genai-apps.md)
+* [🟢 Building GENAI Apps](building-genai-apps.md)
 * [Simple GenAI app using Ollama](simple-genai-app-using-ollama.md)
 * [✈️ Tracking GenAI App using LangSmith](tracking-genai-app-using-langsmith.md)
 * [Basic RAG](basic-rag.md)
