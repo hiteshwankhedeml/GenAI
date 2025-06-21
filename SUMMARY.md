@@ -253,6 +253,8 @@
 * [LangGraph Introduction - Code 2](langgraph-introduction-code-2.md)
 * [LangGraph Code - 3](langgraph-code-3.md)
 * [LangGraph Agents](langgraph-agents.md)
+* [Tools](tools.md)
+* [LangGraph Chains](langgraph-chains.md)
 * [Page 1](page-1-1.md)
 * [Page](page.md)
 * [Agentic AI](agentic-ai/README.md)
