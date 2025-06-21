@@ -1,9 +1,11 @@
 # Introduction to LangGraph
 
-Langchain:
+**Langchain Adcantages:**
 
 * Amazing library ⇒ for component, core, integration
 * Very easy to create applications
+
+
 
 **Complex workflow:**&#x20;
 
@@ -19,6 +21,8 @@ Langchain:
 
 
 
+**LangGraph:**
+
 * Used for building stateful, multi actor application with LLMs
 * Agents can also communicate with each other
 * Each agent can perform different tasks
@@ -29,7 +33,8 @@ Langchain:
 * Using LangGraph studio we can develop all this workflows using drag and drop
 * Using graphDB we can develop graph knowledge
 * Graph will be static here
-*
+
+
 
 **Why LangGraph?**
 
@@ -52,8 +57,12 @@ Langchain:
 * Between start to end it is one application and in between we can create any number of nodes
 * It shows the flow
 * Nodes can be any LLM or function calling it can also be tool calling function
+* Condtional nodes which node to go to
 * In graph on the right, when user gives query ⇒ Goes to Node 1 ⇒ Node 1 decides whether to go to Node 2 or Node 3 ⇒ We call this as conditional edges
 * Whenever we got from one node to another ⇒ State also changes
+* Basic Agentic AI will be having start node, then LLM which will be brain, and LLM will be deciding which tool to be used
+* If we make the tool response go back to LLM, then it means LLM is deciding who should do what and once it is done, it again decide what needs to be done next
+* So here LLM will be React(Reasoning and acting)
 *
 
     <figure><img src=".gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
