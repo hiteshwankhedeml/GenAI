@@ -1,7 +1,7 @@
 # Table of contents
 
 * [🟢 What is GenAI](README.md)
-* [What is LLM](what-is-llm.md)
+* [🟢 What is LLM](what-is-llm.md)
 * [Why we call it LLM](why-we-call-it-llm.md)
 * [Evolution of LLM](evolution-of-llm.md)
 * [All LLM model analysis](all-llm-model-analysis.md)
@@ -266,6 +266,8 @@
 * [Prompt Chaining](prompt-chaining.md)
 * [Parallelization](parallelization.md)
 * [Routing](routing.md)
+* [Orchestrator - Worker](orchestrator-worker.md)
+* [Orchestrator - Worker](orchestrator-worker-1.md)
 * [Page 1](page-1-1.md)
 * [Page](page.md)
 * [Agentic AI](agentic-ai/README.md)
