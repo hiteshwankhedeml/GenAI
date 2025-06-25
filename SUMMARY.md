@@ -273,7 +273,7 @@
 * [Edit Human Feedback](edit-human-feedback.md)
 * [Human in the loop - User input](human-in-the-loop-user-input.md)
 * [Page 1](page-1-1.md)
-* [Page](page.md)
+* [Query Resolver](page.md)
 * [Agentic AI](agentic-ai/README.md)
   * [Generative AI](agentic-ai/generative-ai.md)
   * [RAG](agentic-ai/rag.md)
