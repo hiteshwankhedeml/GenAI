@@ -4,6 +4,8 @@
 
 * <mark style="color:purple;background-color:purple;">Initialize the Chunker - specify chunk size, overlap</mark>
 * <mark style="color:purple;background-color:purple;">pass text to be chunked to the chunker</mark>
+* <mark style="color:purple;background-color:purple;">We use split\_text - If we want to chunk a text</mark>
+* <mark style="color:purple;background-color:purple;">We use split\_documents - To chunk documents</mark>
 
 ```python
 from langchain_text_splitters import CharacterTextSplitter
@@ -49,7 +51,4 @@ len(texts) # 15
 
 print(texts[0])
 print(texts[1])
-
-
-
 ```

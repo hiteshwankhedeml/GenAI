@@ -3,7 +3,7 @@
 * <mark style="color:purple;background-color:purple;">**This is paid API**</mark>
 * <mark style="color:purple;background-color:purple;">**OpenAI ⇒ Playground ⇒ Embedding ⇒ to see available embeddings**</mark>
 * <mark style="color:purple;background-color:purple;">**We use embeddings.embed\_query ⇒ to create embeddings**</mark>
-* <mark style="color:purple;background-color:purple;">**Chroma.from\_documents ⇒ to create from document chunks**</mark>
+* <mark style="color:purple;background-color:purple;">**Chroma.from\_documents ⇒ to create from document chunks, in this we need to pass embedding as well as chunks**</mark>
 
 ```python
 import os
