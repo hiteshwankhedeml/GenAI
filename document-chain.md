@@ -10,7 +10,11 @@
 * It will be using Chatprompt template, ChatOpenAI and StrOutputParser inside
 * Here since we using the function create stuff document so we don't need | symbol
 * Here we get a runnable binding ⇒ this allows us to pass documents on the run
-*
+
+<mark style="color:purple;background-color:purple;">**Steps:**</mark>
+
+* <mark style="color:purple;background-color:purple;">**Create stuff document chain by passing llm and prompt**</mark>
+* <mark style="color:purple;background-color:purple;">**Pass documents to chain**</mark>
 
 ```python
 # pip install -U langchain langchain-community
