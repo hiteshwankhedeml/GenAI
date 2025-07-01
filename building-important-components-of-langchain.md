@@ -6,6 +6,12 @@
 * Prompt template is for what kind of role you want LLM app to play/behave
 * Chain means to combine / design the flow
 
+<mark style="color:purple;background-color:purple;">**Steps:**</mark>
+
+* <mark style="color:purple;background-color:purple;">**Set the chatprompt template by passing system and human message with place holder**</mark>
+* <mark style="color:purple;background-color:purple;">**form chain = prompt | llm | output\_parser**</mark>
+* <mark style="color:purple;background-color:purple;">**Invoke chain by passing the placeholder**</mark>
+
 ```python
 import os
 from dotenv import load_dotenv

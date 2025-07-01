@@ -3,6 +3,12 @@
 * <mark style="color:purple;background-color:purple;">**We define template with {placeholders} and also specify this placeholders in input\_varoables**</mark>
 * <mark style="color:purple;background-color:purple;">**When invoking, we pass the values of this placeholders**</mark>
 
+<mark style="color:purple;background-color:purple;">**Steps:**</mark>
+
+* <mark style="color:purple;background-color:purple;">**Define the template**</mark>
+* <mark style="color:purple;background-color:purple;">**Invoke the template and pass the values of the placeholders**</mark>
+* <mark style="color:purple;background-color:purple;">**llm.invoke(prompt)**</mark>
+
 ```python
 from langchain_core.prompts import PromptTemplate
 

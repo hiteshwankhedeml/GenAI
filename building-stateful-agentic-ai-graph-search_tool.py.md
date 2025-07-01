@@ -2,6 +2,8 @@
 
 search\_tool.py
 
+* tavily is specialized search engine for LLM and AI agents
+
 ```python
 from langchain_community.tools.tavily_search import TavilySearchResults
 from langgraph.prebuilt import ToolNode

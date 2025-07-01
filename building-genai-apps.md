@@ -8,8 +8,18 @@
 * <mark style="color:purple;background-color:purple;">**`ChatPromptTemplate.from_template`**</mark>
   * <mark style="color:purple;background-color:purple;">**Used to create a chat prompt from a single block of user content (implicitly as a human message).**</mark>
   * <mark style="color:purple;background-color:purple;">**Simpler and faster for one-shot user input, but doesn't support multiple roles.**</mark>
-  * <mark style="color:purple;background-color:purple;">**Treats the entire content as a single human message.**</mark>
-* <mark style="color:red;background-color:purple;">**Document Loader ⇒ Chunk ⇒ Embeddings ⇒ VectorDB ⇒ Retriever ⇒ Document chain(llm, prompt) ⇒ Rerieval chain(Retriever, Document chain) ⇒ retriever chain. invoke**</mark>
+  * <mark style="color:purple;background-color:purple;">**Treats the entire content as a single human message**</mark>
+
+<mark style="color:red;background-color:red;">**Steps:**</mark>
+
+* <mark style="color:red;background-color:purple;">**Doc Loader**</mark>
+* <mark style="color:red;background-color:purple;">**Chunk**</mark>
+* <mark style="color:red;background-color:purple;">**Embeddings**</mark>
+* <mark style="color:red;background-color:purple;">**vectordb(documents, embeddings)**</mark>
+* <mark style="color:red;background-color:purple;">**Retriever = vectordb.as\_retriever()**</mark>
+* <mark style="color:red;background-color:purple;">**document\_chain = create\_stuff\_document\_chain(llm, prompt)**</mark>
+* <mark style="color:red;background-color:purple;">**retrieval\_chain = create\_retrieval\_chain(retriever, document\_chain)**</mark>
+* <mark style="color:red;background-color:purple;">**retrieval\_chain.invoke()**</mark>
 
 ```python
 import os

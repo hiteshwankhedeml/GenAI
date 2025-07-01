@@ -1,9 +1,13 @@
-# Simple GenAI app using Ollama
+# 🟢 Simple GenAI app using Ollama
 
 * <mark style="color:purple;background-color:purple;">**`ChatPromptTemplate.from_messages`**</mark>
   * <mark style="color:purple;background-color:purple;">**Used when you want to build a prompt from multiple role-based messages (system, user, assistant).**</mark>
   * <mark style="color:purple;background-color:purple;">**Accepts a list of message templates (e.g.,**</mark><mark style="color:purple;background-color:purple;">**&#x20;**</mark><mark style="color:purple;background-color:purple;">**`SystemMessagePromptTemplate`**</mark><mark style="color:purple;background-color:purple;">**,**</mark><mark style="color:purple;background-color:purple;">**&#x20;**</mark><mark style="color:purple;background-color:purple;">**`HumanMessagePromptTemplate`**</mark><mark style="color:purple;background-color:purple;">**,**</mark><mark style="color:purple;background-color:purple;">**&#x20;**</mark><mark style="color:purple;background-color:purple;">**`AIMessagePromptTemplate`**</mark><mark style="color:purple;background-color:purple;">**).**</mark>
   * <mark style="color:purple;background-color:purple;">**Suitable for multi-turn conversations or structured prompts with different roles.**</mark>
+* <mark style="color:purple;background-color:purple;">**Steps:**</mark>
+  * <mark style="color:purple;background-color:purple;">**Set system prompt message**</mark>
+  * <mark style="color:purple;background-color:purple;">**Form chain of llm, prompt, output parser**</mark>
+  * <mark style="color:purple;background-color:purple;">**Invoke**</mark>
 
 ```python
 import os

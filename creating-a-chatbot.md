@@ -2,6 +2,14 @@
 
 * <mark style="color:purple;background-color:purple;">**Notice how chathistory is getting saved here in list and also how entire history is being passed to LLM in invoke**</mark>
 
+<mark style="color:purple;background-color:purple;">**Steps:**</mark>
+
+* <mark style="color:purple;background-color:purple;">**list of messages - start with a system prompt**</mark>
+* <mark style="color:purple;background-color:purple;">**append human messages to list**</mark>
+* <mark style="color:purple;background-color:purple;">**pass the list of messages to the llm**</mark>
+* <mark style="color:purple;background-color:purple;">**append ai message to list**</mark>&#x20;
+* <mark style="color:purple;background-color:purple;">**Repeat**</mark>
+
 ```python
 chat_history = [
     SystemMessage(content="you are a helpful assistant")
