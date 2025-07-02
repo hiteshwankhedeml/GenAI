@@ -1,4 +1,4 @@
-# RAG Example
+# ✈️ RAG Example
 
 * Datasource: Webpage
 * DataLoader: To read the data from source

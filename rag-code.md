@@ -1,6 +1,6 @@
-# RAG - Code
+# 🔴 RAG - Code
 
-* RunnablePassThrough is for taking dynamic question from the user&#x20;
+* RunnablePassThrough is for taking dynamic question from the user
 
 ```python
 import langchain

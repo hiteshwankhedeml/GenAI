@@ -1,4 +1,4 @@
-# Parallel Chain
+# 🟢 Parallel Chain
 
 * &#x20;
 

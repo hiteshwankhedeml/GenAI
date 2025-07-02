@@ -1,6 +1,6 @@
-# Sequential Chain
+# 🟢 Sequential Chain
 
-* &#x20;Previously router was used but now we can use LCEL
+* Previously router was used but now we can use LCEL
 
 ```python
 prompt1=PromptTemplate(

@@ -1,7 +1,7 @@
-# Simple Chain
+# 🟢 Simple Chain
 
-* &#x20;For generating response we need - Prompt + LLM + Output Parser
-* pip install grandalf to visualize the chain
+* For generating response we need - Prompt + LLM + Output Parser
+* <mark style="color:purple;background-color:purple;">**pip install grandalf to visualize the chain**</mark>
 
 ```python
 from langchain_core.output_parsers import StrOutputParser

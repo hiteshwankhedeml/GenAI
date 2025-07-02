@@ -1,4 +1,4 @@
-# Types of RAG
+# 🟢 Types of RAG
 
 * Simple RAG
 * Multimodal RAG

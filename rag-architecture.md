@@ -1,6 +1,6 @@
-# RAG Architecture
+# ✈️ RAG Architecture
 
-* &#x20;If chunking is required, then we do it
+* If chunking is required, then we do it
 * We embed and store in vectorDB
 * When user asks we dont directly pass it to LLM
 * We embed and pass it to vectorDB and retrieve relevant information
@@ -9,4 +9,6 @@
 * Retrieval is done to provide relevant information to the LLM (Query + Embedding + Similarity search)
 *
 
-    <figure><img src=".gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+```
+<figure><img src=".gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+```

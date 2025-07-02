@@ -1,5 +1,5 @@
-# Components of RAG
+# 🟢 Components of RAG
 
-* Data ingestion
-* Data Retriever
-* Data generation
+* <mark style="color:purple;background-color:purple;">**Data ingestion**</mark>
+* <mark style="color:purple;background-color:purple;">**Data Retriever**</mark>
+* <mark style="color:purple;background-color:purple;">**Data generation**</mark>
