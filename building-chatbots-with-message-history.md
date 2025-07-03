@@ -1,18 +1,27 @@
-# Building Chatbots with Message History
+# 🟢 Building Chatbots with Message History
 
 * We will be using Groq API here
 * Human message means its a user message
-* When we send Human message ⇒ LLM will respond with AIMessage
+* When we send Human message ⇒ LLM will respond with AI Message
 * Runnable means it will help to run in the chain
-* BaseChatMessageHistory is abstract class for storing message history
-* We can save history in db also, here we are using in memory
+* <mark style="color:purple;background-color:purple;">**BaseChatMessageHistory is abstract class for storing message history**</mark>
+* <mark style="color:purple;background-color:purple;">**We can save history in db also, here we are using in memory**</mark>
 * Message History:
-  * We can use a Message History class to wrap our model and make it stateful.&#x20;
+  * We can use a Message History class to wrap our model and make it stateful.
   * This will keep track of inputs and outputs of the model, and store them in some datastore.
   * Future interactions will then load those messages and pass them into the chain as part of the input. Let's see how to use this!
   * ChatMessageHistory means a single message
   * BaseChatMessageHistory means entire history
   * Config is for session
+
+<mark style="color:purple;background-color:purple;">**Steps:**</mark>
+
+* <mark style="color:purple;background-color:purple;">**Keep a dictionary called state, it will elements as session\_id(key) and message\_history(value)**</mark>
+* <mark style="color:purple;background-color:purple;">**We will have a function in which if we pass session\_id, it will give us back message\_history for that session\_id**</mark>
+* <mark style="color:purple;background-color:purple;">**If not found in state, then it will create an element in state**</mark>
+* <mark style="color:purple;background-color:purple;">**We will create a runnable with the model and the function**</mark>
+* <mark style="color:purple;background-color:purple;">**in a config, pass session\_id**</mark>
+* <mark style="color:purple;background-color:purple;">**invoke the runnable with human message and config**</mark>
 
 ```python
 import os

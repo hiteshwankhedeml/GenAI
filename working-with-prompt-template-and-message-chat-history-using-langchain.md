@@ -1,11 +1,18 @@
-# Working with Prompt template and Message Chat History Using LangChain
+# 🟢 Working with Prompt template and Message Chat History Using LangChain
 
 Prompt Templates:
 
-* Help to turn raw user information into a format that the LLM can work with. In this case, the raw user input is just a message, which we are passing to the LLM.&#x20;
+* Help to turn raw user information into a format that the LLM can work with. In this case, the raw user input is just a message, which we are passing to the LLM.
+
+<mark style="color:purple;background-color:purple;">**Steps:**</mark>
+
+* <mark style="color:purple;background-color:purple;">**Create a chat prompt template**</mark>
+* <mark style="color:purple;background-color:purple;">**Create a chain of prompt and model**</mark>
+* <mark style="color:purple;background-color:purple;">**Create a runnable\_message\_history using chain and function to get message history**</mark>
+* <mark style="color:purple;background-color:purple;">**Invoke the runnable**</mark>
 
 ```python
-from langchain_core.prompts import ChatPromptTemplate,MessagesPlaceholder
+rom langchain_core.prompts import ChatPromptTemplate,MessagesPlaceholder
 prompt=ChatPromptTemplate.from_messages(
     [
         ("system","You are a helpful assistant.Amnswer all the question to the best of your ability"),

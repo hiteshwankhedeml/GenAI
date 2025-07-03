@@ -1,8 +1,14 @@
-# Managing the Chat Conversion History
+# 🟢 Managing the Chat Conversion History
 
-* If message history is left unmanaged, the list of messages will grow unbounded and potentially overflow the context window of the LLM.&#x20;
-* Therefore, it is important to add a step that limits the size of the messages you are passing in. 'trim\_messages' helper to reduce how many messages we're sending to the model.&#x20;
+* If message history is left unmanaged, the list of messages will grow unbounded and potentially overflow the context window of the LLM.
+* Therefore, it is important to add a step that limits the size of the messages you are passing in. 'trim\_messages' helper to reduce how many messages we're sending to the model.
 * The trimmer allows us to specify how many tokens we want to keep, along with other parameters like if we want to always keep the system message and whether to allow partial messages
+
+<mark style="color:purple;background-color:purple;">**Steps:**</mark>
+
+* <mark style="color:purple;background-color:purple;">**Create a trimmer ⇒ This has different parameters like no. of messages or no. of tokens etc**</mark>
+* <mark style="color:purple;background-color:purple;">**Create a chain of trimmer | model | prompt**</mark>
+* <mark style="color:purple;background-color:purple;">**Create a runnable\_chain\_history using the chain and function to get message history**</mark>
 
 ```python
 from langchain_core.messages import SystemMessage,trim_messages
