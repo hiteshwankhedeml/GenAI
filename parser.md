@@ -1,4 +1,4 @@
-# Parser
+# ✈️ Parser
 
 * Chain is used to connect different components like prompt, agent, parser
 * Parser means the data or convert the data as per the requirement

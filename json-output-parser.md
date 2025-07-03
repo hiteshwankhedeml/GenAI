@@ -1,4 +1,9 @@
-# Json output Parser
+# 🟢 Json output Parser
+
+<mark style="color:purple;background-color:purple;">**Steps:**</mark>
+
+* <mark style="color:purple;background-color:purple;">**Here in prompt template we are giving format instructions for JsonOutput Parser**</mark>
+* <mark style="color:purple;background-color:purple;">**When we run the chain, we get json output**</mark>
 
 ```python
 from langchain_core.output_parsers import JsonOutputParser

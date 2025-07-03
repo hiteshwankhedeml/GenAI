@@ -1,4 +1,4 @@
-# Pydantic - Multiple Nodes- Run time validation
+# ⚔️ Pydantic - Multiple Nodes- Run time validation
 
 * Run-time validation will also work in a multi-node graph. In the example below bad\_node updates a to an integer.
 * Because run-time validation occurs on inputs, the validation error will occur when ok\_node is called (not when bad\_node returns an update to the state which is inconsistent with the schema).

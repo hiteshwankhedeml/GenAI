@@ -1,6 +1,12 @@
-# Generate Structured Output
+# 🟢 Generate Structured Output
 
 * To have control over the generated output json structure
+
+<mark style="color:purple;background-color:purple;">**Steps:**</mark>
+
+* <mark style="color:purple;background-color:purple;">**Define schema**</mark>
+* <mark style="color:purple;background-color:purple;">**Define parser with the created schema**</mark>
+* <mark style="color:purple;background-color:purple;">**Use this parser in format instruction inside prompt template**</mark>
 
 ```python
 from langchain.output_parsers import StructuredOutputParser, ResponseSchema

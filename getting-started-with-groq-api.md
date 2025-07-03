@@ -1,11 +1,12 @@
-# Getting started with Groq API
+# 🟢 Getting started with Groq API
 
+* <mark style="color:purple;background-color:purple;">**Nothing much here, just we have used groq in this exercise**</mark>
 * LCEL is used to chain components together
 * [https://groq.com/about-us/](https://groq.com/about-us/) ⇒ To access open source models
 * They have used LPU inferencing engine
 * Why Groq?
-  * Deliver fast AI inference
-  * LPU is hardware and software platform, which is very fast
+  * <mark style="color:purple;background-color:purple;">**Deliver fast AI inference**</mark>
+  * <mark style="color:purple;background-color:purple;">**LPU is hardware and software platform, which is very fast**</mark>
 
 ```python
 ### Open AI API Key and Open Source models--Llama3,Gemma2,mistral--Groq

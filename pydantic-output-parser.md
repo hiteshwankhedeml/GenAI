@@ -1,8 +1,14 @@
-# Pydantic Output parser
+# 🟢 Pydantic Output parser
 
 * For Validation
-* We want to apply more structured output with conditions
-* we can also apply data types for each field, like int for age
+* <mark style="color:purple;background-color:purple;">**We want to apply more structured output with conditions**</mark>
+* <mark style="color:purple;background-color:purple;">**we can also apply data types for each field, like int for age**</mark>
+
+<mark style="color:purple;background-color:purple;">**Steps:**</mark>
+
+* <mark style="color:purple;background-color:purple;">**Create a schema using BaseModel of pydantic**</mark>
+* <mark style="color:purple;background-color:purple;">**Define a pydantic parser using the above schema**</mark>
+* <mark style="color:purple;background-color:purple;">**Pass this parser in prompt template in format instructions**</mark>
 
 ```python
 from pydantic import BaseModel, Field

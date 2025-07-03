@@ -30,4 +30,4 @@
 * <mark style="color:purple;background-color:purple;">**Retrieval chain is responsible in querying vector store DB**</mark>
 * <mark style="color:purple;background-color:purple;">**We will combine this context info with prompt and give it to LLM**</mark>
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
