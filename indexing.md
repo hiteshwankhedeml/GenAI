@@ -1,4 +1,4 @@
-# 🟢 Indexing
+# ✈️ Indexing
 
 * From document we extract data
 * Now we can create vector indexes in mongoDB, Postgres

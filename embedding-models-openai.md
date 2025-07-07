@@ -7,8 +7,8 @@
 <mark style="color:purple;background-color:purple;">**Steps:**</mark>
 
 * <mark style="color:purple;background-color:purple;">Initialize the embedding object ⇒ Pass model and can also pass dimensions optionally</mark>
-* <mark style="color:purple;background-color:purple;">embed\_query(text) ⇒ To embed text</mark>
-* <mark style="color:purple;background-color:purple;">embed\_documents(documents) ⇒ To embed documents</mark>
+* <mark style="color:purple;background-color:purple;">**embed\_query**</mark><mark style="color:purple;background-color:purple;">(text) ⇒ To embed text</mark>
+* <mark style="color:purple;background-color:purple;">**embed\_documents**</mark><mark style="color:purple;background-color:purple;">(documents) ⇒ To embed documents</mark>
 * <mark style="color:purple;background-color:purple;">Can use cosine similarity on embedded text as well</mark>
 
 ```python

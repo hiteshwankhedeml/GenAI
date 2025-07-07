@@ -1,4 +1,4 @@
-# 🟢 Text Splitting - Character text splitter
+# ⚔️ Text Splitting - Character text splitter
 
 * This is the simplest method. This splits based on a given character sequence, which defaults to "\n\n". Chunk length is measured by number of characters.
 

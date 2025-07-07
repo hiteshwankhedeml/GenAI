@@ -7,6 +7,13 @@
 * Specify filter for pre-filering
 * uuids are optionable
 
+<mark style="color:purple;background-color:purple;">**Steps:**</mark>
+
+* <mark style="color:purple;background-color:purple;">**Instantiate pinecone with api-key**</mark>
+* <mark style="color:purple;background-color:purple;">**Create index ⇒ specify embedding lenght, cloud, region etc**</mark>
+* <mark style="color:purple;background-color:purple;">**Instantiate vector store with index and embedding**</mark>
+* <mark style="color:purple;background-color:purple;">**add documents**</mark>
+
 ```python
 !pip install pinecone-client
 

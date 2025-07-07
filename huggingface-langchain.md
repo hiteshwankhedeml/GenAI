@@ -1,6 +1,6 @@
 # 🟢 HuggingFace - LangChain
 
-* <mark style="color:purple;background-color:purple;">**We can also use huggingface models using langchain, while loading model we need to specify huggingface repo id etc**</mark>
+* <mark style="color:purple;background-color:purple;">**We can also use huggingface models using langchain huggingfacehub, while loading model we need to specify huggingface repo id etc**</mark>
 * Access huggingface using langchain
 * In the below example, inference API is getting use
 * We also using simple chain here
