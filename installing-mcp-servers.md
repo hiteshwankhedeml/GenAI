@@ -1,9 +1,9 @@
 # Installing MCP servers
 
 * Install npx or nodejs
-*
 * Clause Desktop ⇒ Settings ⇒ Developer Options
 * In claude\_deskop\_config\_json ⇒ Add MCP server and API key
+*
 
 
 

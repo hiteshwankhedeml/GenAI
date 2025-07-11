@@ -1,12 +1,12 @@
-# Evolution of LLM
+# 🟢 Evolution of LLM
 
 * 1967 - Eliza
 * 1988 - Advancement started ⇒ RNN
-* 1997 ⇒ LSTM
-* 2014 ⇒ GRU
-* 2017 ⇒ Transformers
-* 2018 ⇒ BERT, GPT models
-* 2019 ⇒ GPT2, RoBERTa
+* <mark style="color:purple;background-color:purple;">**1997 ⇒ LSTM**</mark>
+* <mark style="color:purple;background-color:purple;">**2014 ⇒ GRU**</mark>
+* <mark style="color:purple;background-color:purple;">**2017 ⇒ Transformers**</mark>
+* <mark style="color:purple;background-color:purple;">**2018 ⇒ BERT, GPT models**</mark>
+* <mark style="color:purple;background-color:purple;">**2019 ⇒ GPT2, RoBERTa**</mark>
 * 2020 ⇒ GPT3 ⇒ OpenAI
 * 2021 ⇒ GPT3.5
 * 2022 ⇒ PaLM

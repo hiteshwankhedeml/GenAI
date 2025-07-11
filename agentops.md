@@ -1,0 +1,3 @@
+# AgentOps
+
+* Check some theory
