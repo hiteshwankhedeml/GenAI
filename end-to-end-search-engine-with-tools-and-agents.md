@@ -1,6 +1,8 @@
-# End to End search engine with tools and agents
+# 🟢 End to End search engine with tools and agents
 
+<mark style="color:purple;background-color:purple;">**Steps:**</mark>
 
+* <mark style="color:purple;background-color:purple;">Here we using tools - arxiv, wiki, duckduckgo</mark>
 
 ```python
 import streamlit as st

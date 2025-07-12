@@ -1,16 +1,19 @@
-# Introduction to Text Summarization with LangChain
+# 🟢 Introduction to Text Summarization with LangChain
 
 *
 
-    <figure><img src=".gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+```
+<figure><img src=".gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+```
+
 * Data source can be structured / unstructued
 * Files will be read and then summarization will be done
-* 3 approaches for summarization
-  * Stuff
-  * Map reduce
-  * Refine&#x20;
+* <mark style="color:purple;background-color:purple;">3 approaches for summarization</mark>
+  * <mark style="color:purple;background-color:purple;">Stuff</mark>
+  * <mark style="color:purple;background-color:purple;">Map reduce</mark>
+  * <mark style="color:purple;background-color:purple;">Refine</mark>
 * LLMChain - To combine LLM with prompt
-* If text is less then we can do using prompt, for large text we need to use text summarization technique
+* <mark style="color:purple;background-color:purple;">**If text is less then we can do using prompt, for large text we need to use text summarization technique**</mark>
 
 ```python
 from langchain_groq import ChatGroq
@@ -64,4 +67,3 @@ summary
 
 
 ```
-

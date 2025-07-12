@@ -1,6 +1,10 @@
-# Map Reduce
+# 🟢 Map Reduce
 
+<mark style="color:purple;background-color:purple;">**Steps:**</mark>
 
+* <mark style="color:purple;background-color:purple;">Create 2 different prompts ⇒ for chunks and map</mark>
+* <mark style="color:purple;background-color:purple;">Create chain using load\_summarize\_chain ⇒ pass llm, prompts, chain\_type="map\_reduce"</mark>
+* <mark style="color:purple;background-color:purple;">Invoke the chain by passing the docs</mark>
 
 ```python
 from langchain.text_splitter import RecursiveCharacterTextSplitter
@@ -40,4 +44,3 @@ summary_chain=load_summarize_chain(
 output=summary_chain.run(final_documents)
 output
 ```
-

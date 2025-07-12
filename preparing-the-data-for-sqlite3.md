@@ -1,4 +1,4 @@
-# Preparing the Data for SQLite3
+# ✈️ Preparing the Data for SQLite3
 
 ```python
 import sqlite3

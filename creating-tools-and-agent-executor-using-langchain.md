@@ -1,9 +1,20 @@
-# Creating tools and Agent Executor using LangChain
+# 🟢 Creating tools and Agent Executor using LangChain
 
 * Tool will be doing some functionality
 * When we want to use we need to use API wrapper
 * In hub we can get different prompts
 * [https://smith.langchain.com/hub/](https://smith.langchain.com/hub/)
+
+<mark style="color:purple;background-color:purple;">**Steps:**</mark>
+
+* <mark style="color:purple;background-color:purple;">Import utility and tools from langchain</mark>
+* <mark style="color:purple;background-color:purple;">Create API wrapper of utility</mark>
+* <mark style="color:purple;background-color:purple;">Create tool using API wrapper</mark>
+* <mark style="color:purple;background-color:purple;">create a list of tools</mark>
+* <mark style="color:purple;background-color:purple;">We can also create a tool using vectorDB - We will be creating a retriever and then create Retriever tool</mark>
+* <mark style="color:purple;background-color:purple;">Create an agent by passing - llm , tools, prompt</mark>
+* <mark style="color:purple;background-color:purple;">Instantiate agent executor using the agent created</mark>
+* <mark style="color:purple;background-color:purple;">Invoke the agent executor</mark>
 
 ```python
 ## Arxiv--Research

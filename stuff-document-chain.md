@@ -1,6 +1,10 @@
-# Stuff Document Chain
+# 🟢 Stuff Document Chain
 
+<mark style="color:purple;background-color:purple;">**Steps:**</mark>
 
+* <mark style="color:purple;background-color:purple;">Create a prompt for summarization</mark>
+* <mark style="color:purple;background-color:purple;">Create chain using load\_summarize\_chain ⇒ pass llm, prompt, and chain\_type='stuff'</mark>
+* <mark style="color:purple;background-color:purple;">Invoke the chain by passing the docs</mark>
 
 ```python
 from langchain_community.document_loaders import PyPDFLoader

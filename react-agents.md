@@ -1,3 +1,0 @@
-# ReACT Agents
-
-* Read documentation
