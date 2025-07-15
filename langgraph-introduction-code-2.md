@@ -118,4 +118,4 @@ for output in app2.stream({"messages":["what is a meaning of 'cancer from prolon
 
 *
 
-    <figure><img src=".gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>

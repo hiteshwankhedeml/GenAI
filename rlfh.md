@@ -12,7 +12,7 @@
 * Generate human preference response
 *
 
-    <figure><img src=".gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 * &#x20;To SFT model we are asking - How to make money
 * It might answer rob bank, take loan, hard work
 * Out of this not all are ethical answer
@@ -24,4 +24,4 @@
 * So here PPO is optimizer
 *   This was done to generate safe and helpful responses
 
-    <figure><img src=".gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>

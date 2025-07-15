@@ -92,7 +92,7 @@ display(Image(graph.get_graph().draw_mermaid_png()))
 
 *
 
-    <figure><img src=".gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 Graph Invocation:
 

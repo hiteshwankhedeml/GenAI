@@ -5,4 +5,4 @@
 * BERT is a model that broke several records for how well models can handle language-based tasks.
 *   You can download the model pre-trained in step 1 (trained on un-annotated data), and only worry about fine-tuning it for step 2.
 
-    <figure><img src=".gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>

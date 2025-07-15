@@ -7,5 +7,5 @@
 * This is done till LLM decides that it's done
 *
 
-    <figure><img src="../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 *

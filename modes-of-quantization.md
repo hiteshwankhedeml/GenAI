@@ -13,4 +13,4 @@
   * And then on this model we will be doing quantization
 *
 
-    <figure><img src=".gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>

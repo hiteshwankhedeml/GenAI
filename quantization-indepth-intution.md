@@ -15,7 +15,7 @@
 * We cannot fine tune such a model as RAM / memory will be limited
 *   We can also take a cloud instance and then try there ⇒ But here cost will be high
 
-    <figure><img src=".gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 * We can convert this 32 bit into 16 bit ⇒ This is known as Half precision ⇒ So inferencing will be possible here
 * This is known as Quantization
 * Its important, coz it will increase inference speed

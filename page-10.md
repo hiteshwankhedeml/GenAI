@@ -14,7 +14,7 @@
     * Labels ⇒ Specifies what kind of relationship is there
 *
 
-    <figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 * If we do google search on Virat Kohli, then it will also suggest rohit sharma as there is some relationship them
 *
 

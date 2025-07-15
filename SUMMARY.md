@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🟢 What is GenAI](README.md)
+* [🟢 What is GenAI?](README.md)
 * [🟢 What is LLM](what-is-llm.md)
 * [🟢 Why we call it LLM](why-we-call-it-llm.md)
 * [🟢 Evolution of LLM](evolution-of-llm.md)
