@@ -1,9 +1,9 @@
-# Implementation
+# ✈️ Implementation
 
 How to access the huggingface API:
 
 * There are also two ways to use this class. You can specify the model with the repo\_id parameter.
-* Those endpoints use the serverless API, which is particularly beneficial to people using pro accounts or enterprise hub.&#x20;
+* Those endpoints use the serverless API, which is particularly beneficial to people using pro accounts or enterprise hub.
 * Still, regular users can already have access to a fair amount of request by connecting with their HF token in the environment where they are executing the code
 
 ```python

@@ -1,4 +1,4 @@
-# Pdf Query RAG with Langchain and AstraDB
+# ✈️ Pdf Query RAG with Langchain and AstraDB
 
 * From Cassandra, open source no sql db
 * We will be using datastax where we will be able to store vector in DB

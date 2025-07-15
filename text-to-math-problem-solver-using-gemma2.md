@@ -1,6 +1,10 @@
 # Text to Math Problem Solver using Gemma2
 
+Steps:
 
+* Wikipedia tool - for searching the Internet to find the various information on the topics mentioned
+* Calculator tool - Using LLMMathChain
+*
 
 ```python
 import streamlit as st

@@ -1,6 +1,9 @@
-# Youtube video and Website URL Content Summarization
+# 🟢 Youtube video and Website URL Content Summarization
 
+<mark style="color:purple;background-color:purple;">**Steps:**</mark>
 
+* <mark style="color:purple;background-color:purple;">Use youtubeloader to get transcript from youtube</mark>
+* <mark style="color:purple;background-color:purple;">Use load\_summarize\_chain, type = "stuff" to get the summary</mark>
 
 ```python
 import validators,streamlit as st

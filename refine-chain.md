@@ -7,9 +7,7 @@
 * <mark style="color:purple;background-color:purple;">**chain\_type="refine"**</mark>
 *
 
-```
-<figure><img src=".gitbook/assets/{1F6CB6D7-57A0-4A61-B845-D8CAD9066BB0}.png" alt=""><figcaption></figcaption></figure>
-```
+    <figure><img src=".gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
 ```python
 chain=load_summarize_chain(

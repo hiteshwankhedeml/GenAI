@@ -1,4 +1,4 @@
-# Using Streamlit Cloud
+# 🟢 Using Streamlit Cloud
 
 * streamlit.io
 * Create App ⇒ Integrate from github ⇒ It will ask for repo details and authentication

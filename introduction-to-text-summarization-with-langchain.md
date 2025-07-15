@@ -2,10 +2,7 @@
 
 *
 
-```
-<figure><img src=".gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
-```
-
+    <figure><img src=".gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 * Data source can be structured / unstructued
 * Files will be read and then summarization will be done
 * <mark style="color:purple;background-color:purple;">3 approaches for summarization</mark>
