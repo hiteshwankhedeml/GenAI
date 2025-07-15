@@ -19,13 +19,13 @@ Llama ⇒ Trained on transformer architecture
 * r = low rank factor
 *
 
-    <figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 * Rank is calculated using algebra using SVD
 * LoRA is not taking subset of the weights of the transformers
 * We add additional weights
 *
 
-    <figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 * In self attention, we have 3 matrix - Query, Key and Value
 * Suppose we want to change on Qproj and Kproj
 * So on top of this we will add extra weights
@@ -36,7 +36,7 @@ Llama ⇒ Trained on transformer architecture
 *
 *
 
-    <figure><img src=".gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 
 

@@ -251,6 +251,8 @@
 * [Agentic Workflow](agentic-workflow.md)
 * [Introduction to LangGraph](introduction-to-langgraph.md)
 * [Simple Graph](simple-graph.md)
+* [Creating chatbot using LangGraph](creating-chatbot-using-langgraph.md)
+* [Creating chatbots with External Tools Workflow](creating-chatbots-with-external-tools-workflow.md)
 * [LangGraph Introduction - Code](langgraph-introduction-code.md)
 * [LangGraph Introduction - Code 2](langgraph-introduction-code-2.md)
 * [LangGraph Code - 3](langgraph-code-3.md)

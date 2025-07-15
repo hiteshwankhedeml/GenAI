@@ -21,4 +21,4 @@ chain.get_graph().print_ascii()
 
 *
 
-    <figure><img src=".gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>

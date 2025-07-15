@@ -65,4 +65,4 @@
 * So here LLM will be React(Reasoning and acting)
 *
 
-    <figure><img src=".gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>

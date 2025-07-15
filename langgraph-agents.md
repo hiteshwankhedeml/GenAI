@@ -1,5 +1,7 @@
 # LangGraph Agents
 
+
+
 * &#x20;messagestate is dict of messages
 * For creating tool we need tool decorator
 * If we only bind the tool, they it just tell that tool but we need to orchestrate tool calling
@@ -183,12 +185,12 @@ app.invoke({"messages": ["what is a weather in delhi?"]})
 
 *
 
-    <figure><img src=".gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
 
 *
 
-    <figure><img src=".gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 *
 
-    <figure><img src=".gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>

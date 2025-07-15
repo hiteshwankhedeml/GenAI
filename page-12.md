@@ -3,7 +3,7 @@
 * From dense vector we will get top K results... Doc1, Doc2.....
 *   Using keyword search we might get top k documents
 
-    <figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 * To calculate search
 * Semantic search is based on cosine similarity
 * c is constant here and depends on DB (Range 0 to 60)
