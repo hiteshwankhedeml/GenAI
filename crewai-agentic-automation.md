@@ -5,6 +5,6 @@
 * And so can be output
 *
 
-    <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 * Just like in chatgpt, there can be any input from the user
 *

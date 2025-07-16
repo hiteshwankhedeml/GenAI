@@ -24,4 +24,4 @@
 * Whenever user puts queries, it will be divided into 2 types(sparse and dense) and then we will semantic search and keyword search result
 *   Both of them are combined based on weightage
 
-    <figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
