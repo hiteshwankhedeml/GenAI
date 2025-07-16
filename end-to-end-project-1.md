@@ -1,5 +1,10 @@
 # 🟢 End to End Project
 
+<mark style="color:purple;background-color:purple;">**Steps:**</mark>
+
+* <mark style="color:purple;background-color:purple;">Used HF endpoint - llm=HuggingFaceEndpoint(repo\_id=repo\_id,max\_length=150,temperature=0.7,token=hf\_api\_key)</mark>
+* <mark style="color:purple;background-color:purple;">Remaining same</mark>
+
 ```python
 import validators,streamlit as st
 from langchain.prompts import PromptTemplate

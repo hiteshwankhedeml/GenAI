@@ -1,10 +1,13 @@
-# Text to Math Problem Solver using Gemma2
+# 🟢 Text to Math Problem Solver using Gemma2
 
-Steps:
+<mark style="color:purple;background-color:purple;">**Steps:**</mark>
 
-* Wikipedia tool - for searching the Internet to find the various information on the topics mentioned
-* Calculator tool - Using LLMMathChain
-*
+* <mark style="color:purple;background-color:purple;">Wikipedia tool - for searching the Internet to find the various information on the topics mentioned</mark>
+* <mark style="color:purple;background-color:purple;">Calculator tool - Using LLMMathChain</mark>
+* <mark style="color:purple;background-color:purple;">Reasoning tool -</mark>&#x20;
+  * <mark style="color:purple;background-color:purple;">Prompt ⇒ Prompt template ⇒ LLM ⇒ Tool with func = chain.run</mark>
+* <mark style="color:purple;background-color:purple;">Create agent</mark>
+* <mark style="color:purple;background-color:purple;">agent.run</mark>
 
 ```python
 import streamlit as st

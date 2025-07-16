@@ -1,11 +1,12 @@
-# RAG Document QnA with Nvidia NIM and LangChain
+# 🟢 RAG Document QnA with Nvidia NIM and LangChain
 
-* NVIDIA Nim is set of inference microservices for deploying AI models
+* <mark style="color:purple;background-color:purple;">**NVIDIA Nim is set of inference microservices for deploying AI models**</mark>
 * It offers multiple LLM/LIM models etc
 * It has almost all the open source models as well
 * Create Account ⇒ 1000 credits for new account
 * All the code will also be shown here
-* Click on Get API key ⇒ To get new key
+* <mark style="color:purple;background-color:purple;">**Click on Get API key ⇒ To get new key**</mark>
+* <mark style="color:purple;background-color:purple;">**Use Langchain NVIDIAEmbedding, ChatNVIDIA**</mark>
 
 ```python
 import streamlit as st

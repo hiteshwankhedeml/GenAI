@@ -1,4 +1,4 @@
-# AWS Lifecycle
+# ✈️ AWS Lifecycle
 
 * Defining the usecase
 * Choosing the right model

@@ -1,11 +1,11 @@
-# End to End Blog Generation using AWS Lambda and Bedrock
+# 🟢 End to End Blog Generation using AWS Lambda and Bedrock
 
-* Lambda for running the code based on event
-* It scales automatically
-* Pay as per request
-* Lambda ⇒ Function ⇒ Create Function ⇒ Select — From scratch, Blueprint, Container image
-* Give function name, python run time, architecture
-* The below code, we will copy and paste in lambda function&#x20;
+* <mark style="color:purple;background-color:purple;">**Lambda for running the code based on event**</mark>
+* <mark style="color:purple;background-color:purple;">**It scales automatically**</mark>
+* <mark style="color:purple;background-color:purple;">**Pay as per request**</mark>
+* <mark style="color:purple;background-color:purple;">**Lambda ⇒ Function ⇒ Create Function ⇒ Select — From scratch, Blueprint, Container image**</mark>
+* <mark style="color:purple;background-color:purple;">**Give function name, python run time, architecture**</mark>
+* <mark style="color:purple;background-color:purple;">**The below code, we will copy and paste in lambda function**</mark>&#x20;
 
 ```python
 import boto3

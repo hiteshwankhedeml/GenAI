@@ -1,4 +1,13 @@
-# Document QnA with Bedrock and Langchain
+# 🟢 Document QnA with Bedrock and Langchain
+
+<mark style="color:purple;background-color:purple;">Steps:</mark>
+
+* <mark style="color:purple;background-color:purple;">We can get the embeddings using BedRockEmbeddings</mark>
+  * <mark style="color:purple;background-color:purple;">bedrock\_embeddings=BedrockEmbeddings(model\_id="amazon.titan-embed-text-v1",client=bedrock)</mark>
+* <mark style="color:purple;background-color:purple;">We can get the model using langchain bedrock</mark>
+  * <mark style="color:purple;background-color:purple;">bedrock=boto3.client(service\_name="bedrock-runtime")</mark>
+  * <mark style="color:purple;background-color:purple;">llm=Bedrock(model\_id="ai21.j2-mid-v1",client=bedrock,model\_kwargs={'maxTokens':512})</mark>
+* <mark style="color:purple;background-color:purple;">After this we can invoke the same way as usual</mark>
 
 ```python
 import json
@@ -8,12 +17,10 @@ import boto3
 import streamlit as st
 
 ## We will be suing Titan Embeddings Model To generate Embedding
-
 from langchain_community.embeddings import BedrockEmbeddings
 from langchain.llms.bedrock import Bedrock
 
 ## Data Ingestion
-
 import numpy as np
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_community.document_loaders import PyPDFDirectoryLoader

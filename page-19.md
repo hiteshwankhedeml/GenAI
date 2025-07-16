@@ -1,13 +1,19 @@
-# AWS Bedrock
+# 🟢 AWS Bedrock
 
-* Bedrock is the easiest way to build and scale Gen AI applications in AWS
-* It provides platforms where all the models will be available, and using their APIs all can be used
+* Bedrock is the easiest way to <mark style="color:purple;background-color:purple;">**build and scale Gen AI applications in AWS**</mark>
+* <mark style="color:purple;background-color:purple;">**It provides platforms where all the models will be available, and using their APIs all can be used**</mark>
 * OpenAI is not available as of now
 * Different foundation models available&#x20;
 * This is paid service
-* In AWS ⇒ Create IAM user ⇒ Attach policies ⇒ Create awscli access key
-* Command prompt ⇒ aws configure ⇒ Enter key here
+* <mark style="color:purple;background-color:purple;">**In AWS ⇒ Create IAM user ⇒ Attach policies ⇒ Create awscli access key**</mark>
+* <mark style="color:purple;background-color:purple;">**Command prompt ⇒ aws configure ⇒ Enter key here**</mark>
 * If model access is not given, then in AWS request access
+
+<mark style="color:purple;background-color:purple;">**Steps:**</mark>
+
+* <mark style="color:purple;background-color:purple;">use boto3 package</mark>
+* <mark style="color:purple;background-color:purple;">Create client using bedrock=boto3.client(service\_name="bedrock-runtime")</mark>
+* <mark style="color:purple;background-color:purple;">Invoke LLM by passing payload, model, payload</mark>
 
 ```python
 import boto3
