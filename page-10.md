@@ -1,4 +1,4 @@
-# What is Knowledge Graph
+# ✈️ What is Knowledge Graph
 
 * Semantic network ⇒ Network of real world entities&#x20;
 * Example: Events, Situations, Concepts ⇒ Illustrates the relationship between them

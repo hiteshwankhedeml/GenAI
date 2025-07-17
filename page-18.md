@@ -1,7 +1,8 @@
 # 🟢 Document QnA with Bedrock and Langchain
 
-<mark style="color:purple;background-color:purple;">Steps:</mark>
+<mark style="color:purple;background-color:purple;">**Steps:**</mark>
 
+* <mark style="color:purple;background-color:purple;">Define client ⇒ bedrock=boto3.client(service\_name="bedrock-runtime")</mark>
 * <mark style="color:purple;background-color:purple;">We can get the embeddings using BedRockEmbeddings</mark>
   * <mark style="color:purple;background-color:purple;">bedrock\_embeddings=BedrockEmbeddings(model\_id="amazon.titan-embed-text-v1",client=bedrock)</mark>
 * <mark style="color:purple;background-color:purple;">We can get the model using langchain bedrock</mark>
