@@ -4,7 +4,7 @@
 
 * <mark style="color:purple;background-color:purple;">Initialize the Chunker - specify chunk size, overlap</mark>
 * <mark style="color:purple;background-color:purple;">pass text to be chunked to the chunker</mark>
-* <mark style="color:purple;background-color:purple;">We use split\_text - If we want to chunk a text</mark>
+* <mark style="color:purple;background-color:purple;">We use</mark> <mark style="color:purple;background-color:purple;"></mark><mark style="color:purple;background-color:purple;">**split\_text**</mark> <mark style="color:purple;background-color:purple;"></mark><mark style="color:purple;background-color:purple;">- If we want to chunk a text</mark>
 * <mark style="color:purple;background-color:purple;">We use</mark> <mark style="color:purple;background-color:purple;"></mark><mark style="color:purple;background-color:purple;">**split\_documents**</mark> <mark style="color:purple;background-color:purple;"></mark><mark style="color:purple;background-color:purple;">- To chunk documents</mark>
 
 ```python
