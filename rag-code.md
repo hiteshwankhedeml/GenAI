@@ -1,4 +1,4 @@
-# 🔴 RAG - Code
+# ✈️ RAG - Code
 
 * RunnablePassThrough is for taking dynamic question from the user
 
