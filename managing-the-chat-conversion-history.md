@@ -10,6 +10,7 @@
 * <mark style="color:purple;background-color:purple;">**Create a chain of trimmer | model | prompt**</mark>
 * <mark style="color:purple;background-color:purple;">**Create a runnable\_chain\_history using the chain and function to get message history**</mark>
 
+{% code fullWidth="false" %}
 ```python
 from langchain_core.messages import SystemMessage,trim_messages
 trimmer=trim_messages(
@@ -98,3 +99,4 @@ response.content
 # of past conversations. If you'd like to ask me a math problem, 
 # I'm happy to help! 😊  Just let me know what it is. \n\n"
 ```
+{% endcode %}

@@ -1,6 +1,6 @@
-# Working with VectorStore and Retriever
+# ✈️ Working with VectorStore and Retriever
 
-* These abstractions are designed to support retrieval of data-- from (vector) databases and other sources-- for integration with LLM workflows.&#x20;
+* These abstractions are designed to support retrieval of data-- from (vector) databases and other sources-- for integration with LLM workflows.
 * They are important for applications that fetch data to be reasoned over as part of model inference, as in the case of retrieval-augmented generation.
 
 **Document:**
@@ -14,11 +14,8 @@
 * LangChain VectorStore objects do not subclass Runnable, and so cannot immediately be integrated into LangChain Expression Language chains.
 * LangChain Retrievers are Runnables, so they implement a standard set of methods (e.g., synchronous and asynchronous invoke and batch operations) and are designed to be incorporated in LCEL chains.
 * We can create a simple version of this ourselves, without subclassing Retriever. If we choose what method we wish to use to retrieve documents, we can create a runnable easily. Below we will build one around the similarity\_search method:
-
-
-
-* Vectorstores implement an as\_retriever method that will generate a Retriever, specifically a VectorStoreRetriever.&#x20;
-* These retrievers include specific search\_type and search\_kwargs attributes that identify what methods of the underlying vector store to call, and how to parameterize them.&#x20;
+* Vectorstores implement an as\_retriever method that will generate a Retriever, specifically a VectorStoreRetriever.
+* These retrievers include specific search\_type and search\_kwargs attributes that identify what methods of the underlying vector store to call, and how to parameterize them.
 
 ```python
 from langchain_core.documents import Document
