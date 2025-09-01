@@ -11,7 +11,7 @@
   * Large model having 24 layers ⇒ Hidden layer size in Feed forward NN ⇒ 1024 ⇒ 340M parameters
 *
 
-    <figure><img src=".gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 * BERT was mainly trained for text classification
 * It was used for summarization also
 * Base model can be fine tuned for any task

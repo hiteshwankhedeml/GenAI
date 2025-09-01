@@ -10,4 +10,4 @@
 * In DPO, we will give preference data to SFT model and then do training again, but here loss function will be different, it will be a supervised loss function
 *
 
-    <figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>

@@ -21,4 +21,4 @@
 
 *   <mark style="color:purple;background-color:purple;">**ELMo comes up with the contextualized embedding through grouping together the hidden states (and initial embedding) in a certain way (concatenation followed by weighted summation).**</mark>
 
-    <figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
