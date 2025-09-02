@@ -1,6 +1,4 @@
-# RAG Document QnA with GROQ API and LLama3
-
-
+# ✈️ RAG Document QnA with GROQ API and LLama3
 
 ```python
 import streamlit as st

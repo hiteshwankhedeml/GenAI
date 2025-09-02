@@ -14,7 +14,7 @@
   *
   *
 
-      <figure><img src=".gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+      <figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -31,4 +31,4 @@
 * But we want 0 to 255
 *   So we add zero point also
 
-    <figure><img src=".gitbook/assets/{7E4006A5-C9A0-46BB-AEF0-469E6F6A32F2}.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/{7E4006A5-C9A0-46BB-AEF0-469E6F6A32F2}.png" alt=""><figcaption></figcaption></figure>

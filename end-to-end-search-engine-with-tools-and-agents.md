@@ -3,6 +3,7 @@
 <mark style="color:purple;background-color:purple;">**Steps:**</mark>
 
 * <mark style="color:purple;background-color:purple;">Here we using tools - arxiv, wiki, duckduckgo</mark>
+* <mark style="color:purple;background-color:purple;">`agent=AgentType.ZERO_SHOT_REACT_DESCRIPTION`</mark> <mark style="color:purple;background-color:purple;"></mark><mark style="color:purple;background-color:purple;">→ agent type that decides which tool to use based only on the description (no prior examples, "zero-shot").</mark>
 
 ```python
 import streamlit as st

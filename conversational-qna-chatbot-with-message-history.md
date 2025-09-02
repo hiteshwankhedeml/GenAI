@@ -1,9 +1,20 @@
-# Conversational QnA Chatbot with message history
+# 🟢 Conversational QnA Chatbot with message history
 
 * In many Q\&A applications we want to allow the user to have a back-and-forth conversation, meaning the application needs some sort of "memory" of past questions and answers, and some logic for incorporating those into its current thinking.
 * 2 approaches:
   * Chains, in which we always execute a retrieval step;
   * Agents, in which we give an LLM discretion over whether and how to execute a retrieval step (or multiple steps).
+
+<mark style="color:purple;background-color:purple;">**Steps:**</mark>
+
+* <mark style="color:purple;background-color:purple;">**Create a RAG**</mark>
+* <mark style="color:purple;background-color:purple;">**contextualize\_q\_system\_prompt ⇒  Create a contextualized system prompt, its job is rephrase rephrasing user questions if it depends on chat history, it does not answer the question**</mark>
+* <mark style="color:purple;background-color:purple;">**contextualize\_q\_prompt ⇒  Prompt template with above system prompt, message history and human input**</mark>
+* <mark style="color:purple;background-color:purple;">**history\_aware\_retriever = history-aware retriever which reformulates follow-up questions into standalone ones before retrieving documents.**</mark>
+* <mark style="color:purple;background-color:purple;">**qa\_prompt ⇒ Prompt template with system prompt, message holder and human input**</mark>
+* <mark style="color:purple;background-color:purple;">**question\_answer\_chain ⇒ Document chain using llm and qa\_prompt**</mark>
+* <mark style="color:purple;background-color:purple;">**rag\_chain ⇒ retriever using history\_aware\_retriever and question\_answer\_chain**</mark>
+* <mark style="color:purple;background-color:purple;">**For History we will be using session id and Runnable like before only**</mark>
 
 ```python
 import os

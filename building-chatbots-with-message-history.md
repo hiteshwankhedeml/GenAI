@@ -10,8 +10,8 @@
   * We can use a Message History class to wrap our model and make it stateful.
   * This will keep track of inputs and outputs of the model, and store them in some datastore.
   * Future interactions will then load those messages and pass them into the chain as part of the input. Let's see how to use this!
-  * ChatMessageHistory means a single message
-  * BaseChatMessageHistory means entire history
+  * <mark style="color:purple;background-color:purple;">**ChatMessageHistory means a single message**</mark>
+  * <mark style="color:purple;background-color:purple;">**BaseChatMessageHistory means entire history**</mark>
   * Config is for session
 
 <mark style="color:purple;background-color:purple;">**Steps:**</mark>

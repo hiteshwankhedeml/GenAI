@@ -1,6 +1,6 @@
 # 🟢 Working with Prompt template and Message Chat History Using LangChain
 
-Prompt Templates:
+**Prompt Templates:**
 
 * Help to turn raw user information into a format that the LLM can work with. In this case, the raw user input is just a message, which we are passing to the LLM.
 

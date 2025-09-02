@@ -1,6 +1,4 @@
-# Using OpenAI API
-
-
+# ✈️ Using OpenAI API
 
 ```python
 import streamlit as st

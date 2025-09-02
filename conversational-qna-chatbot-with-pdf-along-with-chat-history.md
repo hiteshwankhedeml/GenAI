@@ -1,6 +1,4 @@
-# Conversational QnA Chatbot with pdf along with chat history
-
-
+# ✈️ Conversational QnA Chatbot with pdf along with chat history
 
 ```python
 ## RAG Q&A Conversation With PDF Including Chat History

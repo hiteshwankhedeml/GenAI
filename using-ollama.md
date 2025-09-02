@@ -1,4 +1,4 @@
-# Using Ollama
+# ✈️ Using Ollama
 
 ```python
 import streamlit as st
