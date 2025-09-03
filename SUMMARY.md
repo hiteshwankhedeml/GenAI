@@ -101,7 +101,7 @@
 * [---------- 90 ----------](90.md)
 * [🟢 Managing the Chat Conversion History](managing-the-chat-conversion-history.md)
 * [✈️ Working with VectorStore and Retriever](working-with-vectorstore-and-retriever.md)
-* [🟢 Conversational QnA Chatbot with message history](conversational-qna-chatbot-with-message-history.md)
+* [🔴 Conversational QnA Chatbot with message history](conversational-qna-chatbot-with-message-history.md)
 * [✈️ Using OpenAI API](using-openai-api.md)
 * [✈️ Using Ollama](using-ollama.md)
 * [✈️ Groq](groq.md)

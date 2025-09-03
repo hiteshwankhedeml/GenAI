@@ -6,8 +6,8 @@
 
 <mark style="color:purple;background-color:purple;">**Steps:**</mark>
 
-* <mark style="color:purple;background-color:purple;">**Create a trimmer ⇒ This has different parameters like no. of messages or no. of tokens etc**</mark>
-* <mark style="color:purple;background-color:purple;">**Create a chain of trimmer | model | prompt**</mark>
+* <mark style="color:purple;background-color:purple;">**Create a trimmer ⇒ This has different parameters like no. of messages or no. of tokens etc.**</mark>
+* <mark style="color:purple;background-color:purple;">**Create a chain of trimmer | prompt | model**</mark>&#x20;
 * <mark style="color:purple;background-color:purple;">**Create a runnable\_chain\_history using the chain and function to get message history**</mark>
 
 {% code fullWidth="false" %}
