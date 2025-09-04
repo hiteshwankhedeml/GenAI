@@ -125,7 +125,7 @@
 * [🟢 Youtube video and Website URL Content Summarization](youtube-video-and-website-url-content-summarization.md)
 * [🟢 Text to Math Problem Solver using Gemma2](text-to-math-problem-solver-using-gemma2.md)
 * [✈️ Introduction to Huggingface and Langchain integration](introduction-to-huggingface-and-langchain-integration.md)
-* [🟢 How to use HuggingFace API](how-to-use-huggingface-api.md)
+* [✈️ How to use HuggingFace API](how-to-use-huggingface-api.md)
 * [✈️ Implementation](implementation.md)
 * [🟢 End to End Project](end-to-end-project-1.md)
 * [✈️ Pdf Query RAG with Langchain and AstraDB](pdf-query-rag-with-langchain-and-astradb.md)
