@@ -1,7 +1,13 @@
 # Pydantic model basics
 
-* &#x20;If input json contains more fields than present in pydantic model, then it won't give error
-*
+* We define a pydantic model class
+  * We define all the fields and their types&#x20;
+  * We can also define if any field is optional
+  * For int field we can also specify its range
+* If input json contains more fields than present in pydantic model, then it won't give error
+* it handles data coercion as well
+  * If a field has been defined as character in model , and if we pass it as int then it will give error
+  * If a field has been defined as int in model, and if pass it is character then it wont give error
 
 ```python
 # Import libraries needed for the lesson
@@ -110,7 +116,20 @@ user_input = validate_user_input(input_data)
 #  "purchase_date": null
 #}
 
-    
+{
+    "name": "Joe User",
+    "email": "joe.user@example.com",
+    "query": "I bought a keyboard and mouse and was overcharged.",
+    "order_id": 12345,
+    "purchase_date": "2025-12-31"
+}
+'''
+
+# Parse the JSON string into a Python dictionary
+input_data = json.loads(json_data)
+
+user_input = UserInput.model_validate_json(json_data)
+print(user_input.model_dump_json(indent=2))
 
 
 
