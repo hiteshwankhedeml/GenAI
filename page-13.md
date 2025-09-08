@@ -9,6 +9,7 @@
 * Algorithm like cosine similarity is used for matching exact vector search
 * Once we have response we combine it with our prompt template + LLM and then we get final output
 * <mark style="color:purple;background-color:purple;">**Normally for searching relevant document from vectorDB, semantic search is used**</mark>
+* <mark style="color:purple;background-color:purple;">**Semantic search = searching based on meaning, not just exact keyword matches.**</mark>
 * <mark style="color:purple;background-color:purple;">**In hybrid search we combine multiple search techniques**</mark>
   * <mark style="color:purple;background-color:purple;">**Semantic search ⇒ Dense vector search ⇒ Similar**</mark>
   * <mark style="color:purple;background-color:purple;">**Syntactic search ⇒ Exact search ⇒ Keyword search ⇒ Sparse vector**</mark>

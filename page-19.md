@@ -1,4 +1,4 @@
-# 🟢 AWS Bedrock
+# ✈️ AWS Bedrock
 
 * Bedrock is the easiest way to <mark style="color:purple;background-color:purple;">**build and scale Gen AI applications in AWS**</mark>
 * <mark style="color:purple;background-color:purple;">**It provides platforms where all the models will be available, and using their APIs all can be used**</mark>
@@ -13,7 +13,7 @@
 
 * <mark style="color:purple;background-color:purple;">use boto3 package</mark>
 * <mark style="color:purple;background-color:purple;">Create client using bedrock=boto3.client(service\_name="bedrock-runtime")</mark>
-* <mark style="color:purple;background-color:purple;">Invoke LLM by passing payload, model, payload</mark>
+* <mark style="color:purple;background-color:purple;">Invoke LLM by passing payload, model, payload to bedrock</mark>
 
 ```python
 import boto3

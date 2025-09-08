@@ -1,4 +1,4 @@
-# Graph
+# ✈️ Graph
 
 * We can also store data in graph database also
 * It stores the data in form of edges and nodes

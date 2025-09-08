@@ -1,4 +1,4 @@
-# End to End Project
+# ✈️ End to End Project
 
 * Create python 3.12 env
 * install neo4j 5.14

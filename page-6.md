@@ -1,4 +1,4 @@
-# Cypher Query Language
+# ✈️ Cypher Query Language
 
 * Open AuraDB
 * CREATE(Elon: CEO)  ⇒ Create node CEO with label as Elon

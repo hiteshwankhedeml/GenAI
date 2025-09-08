@@ -1,4 +1,4 @@
-# RDBMS vs Graph Databases
+# ✈️ RDBMS vs Graph Databases
 
 * RDBMS ⇒ MySQL, SQL server
 

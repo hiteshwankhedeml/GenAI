@@ -21,5 +21,5 @@
   * [**MCP Toolbox**](https://python.langchain.com/docs/integrations/tools/toolbox/)
   * [**SQLDatabase Toolkit**](https://python.langchain.com/docs/integrations/tools/sql_database/)
   * [**Spark SQL Toolkit**](https://python.langchain.com/docs/integrations/tools/spark_sql/)
-* **Finance**
+* <mark style="color:purple;background-color:purple;">**Finance**</mark>
   * [**GOAT**](https://python.langchain.com/docs/integrations/tools/goat/)

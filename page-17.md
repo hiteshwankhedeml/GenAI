@@ -1,4 +1,4 @@
-# 🟢 End to End Blog Generation using AWS Lambda and Bedrock
+# ✈️ End to End Blog Generation using AWS Lambda and Bedrock
 
 * <mark style="color:purple;background-color:purple;">**Lambda for running the code based on event**</mark>
 * <mark style="color:purple;background-color:purple;">**It scales automatically**</mark>

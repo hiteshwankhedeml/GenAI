@@ -5,9 +5,13 @@
 * <mark style="color:purple;background-color:purple;">Wikipedia tool - for searching the Internet to find the various information on the topics mentioned</mark>
 * <mark style="color:purple;background-color:purple;">Calculator tool - Using LLMMathChain</mark>
 * <mark style="color:purple;background-color:purple;">Reasoning tool -</mark>&#x20;
-  * <mark style="color:purple;background-color:purple;">Prompt ⇒ Prompt template ⇒ LLM ⇒ Tool with func = chain.run</mark>
+  * <mark style="color:purple;background-color:purple;">We create an LLM chain with prompt template, whose job is to logically explain the question asked</mark>
+  * <mark style="color:purple;background-color:purple;">We convert it to Tool with func = chain.run</mark>
 * <mark style="color:purple;background-color:purple;">Create agent</mark>
 * <mark style="color:purple;background-color:purple;">agent.run</mark>
+* <mark style="color:purple;background-color:purple;">The</mark> <mark style="color:purple;background-color:purple;"></mark><mark style="color:purple;background-color:purple;">**Reasoning Tool**</mark> <mark style="color:purple;background-color:purple;"></mark><mark style="color:purple;background-color:purple;">(custom prompt) makes the model explain logically in steps.</mark>
+* <mark style="color:purple;background-color:purple;">The</mark> <mark style="color:purple;background-color:purple;"></mark><mark style="color:purple;background-color:purple;">**Calculator Tool**</mark> <mark style="color:purple;background-color:purple;"></mark><mark style="color:purple;background-color:purple;">(</mark><mark style="color:purple;background-color:purple;">`LLMMathChain`</mark><mark style="color:purple;background-color:purple;">) ensures that arithmetic like</mark> <mark style="color:purple;background-color:purple;"></mark><mark style="color:purple;background-color:purple;">`2 × 25`</mark> <mark style="color:purple;background-color:purple;"></mark><mark style="color:purple;background-color:purple;">or</mark> <mark style="color:purple;background-color:purple;"></mark><mark style="color:purple;background-color:purple;">`19 + 50`</mark> <mark style="color:purple;background-color:purple;"></mark><mark style="color:purple;background-color:purple;">is computed correctly without LLM hallucination.</mark>
+* <mark style="color:purple;background-color:purple;">The</mark> <mark style="color:purple;background-color:purple;"></mark><mark style="color:purple;background-color:purple;">**Wikipedia Tool**</mark> <mark style="color:purple;background-color:purple;"></mark><mark style="color:purple;background-color:purple;">would be useful if the question involved a fact lookup (e.g., "How many calories in a banana?").</mark>
 
 ```python
 import streamlit as st
