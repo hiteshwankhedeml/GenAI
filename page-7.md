@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ✈️ Neo4j Property Graph Data Model
 
 * Used property graph model ⇒ Which is specially used to store and manage data

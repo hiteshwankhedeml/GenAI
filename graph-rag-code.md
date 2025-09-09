@@ -1,4 +1,8 @@
-# Graph RAG - Code
+---
+hidden: true
+---
+
+# ✈️ Graph RAG - Code
 
 * &#x20;Need to understand edges and strategy used here
 

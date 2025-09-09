@@ -1,4 +1,4 @@
-# What is CrewAI
+# ✈️ What is CrewAI
 
 * It is framework and platform
 * Breaks all the concepts into simple structures

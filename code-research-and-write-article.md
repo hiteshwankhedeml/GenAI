@@ -140,21 +140,4 @@ crew = Crew(
 # Run the crew
 result = crew.kickoff(inputs={"topic": "Artificial Intelligence"})
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ```

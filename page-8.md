@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ✈️ RDBMS vs Graph Databases
 
 * RDBMS ⇒ MySQL, SQL server

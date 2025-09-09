@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ✈️ Creating Neo4j in AuraDB instance
 
 * Signup

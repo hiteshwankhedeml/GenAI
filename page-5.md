@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ✈️ End to End Project
 
 * Create python 3.12 env

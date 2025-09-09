@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ✈️ Cypher Query Language
 
 * Open AuraDB

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ✈️ Graph
 
 * We can also store data in graph database also

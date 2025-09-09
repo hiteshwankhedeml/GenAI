@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ✈️ What is Knowledge Graph
 
 * Semantic network ⇒ Network of real world entities&#x20;

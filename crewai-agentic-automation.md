@@ -1,4 +1,4 @@
-# CrewAI - Agentic Automation
+# ✈️ CrewAI - Agentic Automation
 
 * In AI application, what the input will be
 * Transformations will also be fuzzy
