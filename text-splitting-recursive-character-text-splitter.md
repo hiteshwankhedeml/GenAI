@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ✈️ Text Splitting - Recursive Character Text Splitter
 
 * <mark style="color:purple;background-color:purple;">**Every LLM model has limitation of the context size, so we divide the document into smaller chunks**</mark>

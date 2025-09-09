@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ✈️ Similarity Search Techniques
 
 1. Cosine similarity

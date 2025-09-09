@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ✈️ RAG Architecture
 
 * If chunking is required, then we do it

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ✈️ Generative Models
 
 **GANs (Generative Adversarial Networks)**

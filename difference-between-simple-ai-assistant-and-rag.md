@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ✈️ Difference between simple AI assistant and RAG
 
 * We train model on lots of data ⇒ Pretrain ⇒ SFT ⇒ RLFH ⇒ Final LLM

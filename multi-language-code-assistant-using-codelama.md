@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ✈️ Multi Language Code Assistant using CodeLama
 
 Modelfile:

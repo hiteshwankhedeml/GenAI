@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ✈️ Chunking Approaches
 
 1. <mark style="color:purple;background-color:purple;">**Length Based:**</mark>

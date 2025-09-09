@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ✈️ AWS Bedrock
 
 * Bedrock is the easiest way to <mark style="color:purple;background-color:purple;">**build and scale Gen AI applications in AWS**</mark>

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ✈️ RAG Document QnA with Nvidia NIM and LangChain
 
 * <mark style="color:purple;background-color:purple;">**NVIDIA Nim is set of inference microservices for deploying AI models**</mark>

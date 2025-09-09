@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ✈️ Introduction to Huggingface and Langchain integration
 
 * Hugging face has lots of LLM models

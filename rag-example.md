@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ✈️ RAG Example
 
 * Datasource: Webpage

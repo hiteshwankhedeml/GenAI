@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ✈️ Text Splitting - Recursive json splitter
 
 * This json splitter splits json data while allowing control over chunk sizes. It traverses json data depth first and builds smaller json chunks. It attempts to keep nested json objects whole but will split them if needed to keep chunks between a min\_chunk\_size and the max\_chunk\_size.

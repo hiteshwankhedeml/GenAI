@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ✈️ How to use HuggingFace API
 
 <mark style="color:purple;background-color:purple;">**How to access the huggingface API:**</mark>

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ✈️ Document QnA with Bedrock and Langchain
 
 <mark style="color:purple;background-color:purple;">**Steps:**</mark>

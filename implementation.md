@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ✈️ Implementation
 
 How to access the huggingface API:

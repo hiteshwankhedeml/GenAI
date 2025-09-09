@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ✈️ Embedding Models - HuggingFace/Google
 
 ```python

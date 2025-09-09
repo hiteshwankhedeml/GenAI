@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ✈️ Text Splitting - HTML Header Text Splitter
 
 * HTMLHeaderTextSplitter is a "structure-aware" chunker that splits text at the HTML element level and adds metadata for each header "relevant" to any given chunk.

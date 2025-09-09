@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ✈️ Multimodal Transformer
 
 * Extends the transformer architecture to incorporate other modalities such as images and audio

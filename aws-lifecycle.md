@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ✈️ AWS Lifecycle
 
 * Defining the usecase

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ✈️ Indexing
 
 * From document we extract data
