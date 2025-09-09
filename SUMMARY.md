@@ -309,7 +309,7 @@
 * [✈️ Multiple Multi Agents](multiple-multi-agents.md)
 * [✈️ What is CrewAI](what-is-crewai.md)
 * [🟢 Initial Building Tasks](initial-building-tasks.md)
-* [Code - Research and write article](code-research-and-write-article.md)
+* [🟢 Code - Research and write article](code-research-and-write-article.md)
 * [Using other LLMs](using-other-llms.md)
 * [Passing multi strings](passing-multi-strings.md)
 * [Key Elements of AI Agents](key-elements-of-ai-agents.md)
