@@ -1,8 +1,8 @@
 # 🟢 Code - Research and write article
 
-* &#x20;We can use different LLM, bydefault it use openai gpt 4
+* &#x20;<mark style="color:purple;background-color:purple;">**We can use different LLM, bydefault it use openai gpt 4**</mark>
 * Crew puts agents and tasks together so that they operate as an unit
-* Bydefault crew executes tasks sequentially, so we need to give the correct order
+* <mark style="color:purple;background-color:purple;">**Bydefault crew executes tasks sequentially, so we need to give the correct order**</mark>
 * You should focus on goals and expectations
 * One agent can do multiple tasks
 * Tasks and agents should be granular

@@ -1,6 +1,7 @@
-# Using other LLMs
+# 🟢 Using other LLMs
 
-*   Can also be used with Ollama
+* Can also be used with Ollama
+*   <mark style="color:purple;background-color:purple;">**We initilaize LLM and passing to agent**</mark>
 
     ```python
     from langchain_community.llms import HuggingFaceHub

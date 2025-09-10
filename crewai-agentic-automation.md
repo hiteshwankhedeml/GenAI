@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ✈️ CrewAI - Agentic Automation
 
 * In AI application, what the input will be

@@ -1,4 +1,4 @@
-# Passing multi strings
+# 🟢 Passing multi strings
 
 *   The benefit of using _multiple strings_ :
 
@@ -15,4 +15,4 @@
               """
     ```
 
-    is that it can avoid adding those whitespaces and newline characters, making it better formatted to be passed to the LLM.
+    is that it can avoid adding those whitespaces and newline characters, <mark style="color:purple;background-color:purple;">**making it better formatted to be passed to the LLM.**</mark>

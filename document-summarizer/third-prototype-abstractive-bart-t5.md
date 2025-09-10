@@ -10,6 +10,7 @@
 * Overlap 50–100 tokens → prevents losing context at chunk boundaries
 * Summarize each chunk separately
 * Then **combine all summaries** → final summary
+* We used BERTScore for evaluation, we got about <mark style="color:purple;background-color:purple;">**0.4**</mark> score
 * It used to take lot of time, so had to summarize and mail to the users
 * We used UI using which user uploaded the document, node for API, mongoDB for storing document and summary
 * We even considered to provide it as a service using mail, but it was not approved

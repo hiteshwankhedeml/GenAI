@@ -5,6 +5,7 @@
 * &#x20;We use all-MiniLM-L6-v2 for embedding
 * Computing similarity for very long documents can be memory-intensive
 * Dimension 384
+* We had calculated ROGUE and had got around R1 \~ 25, R2 \~ 15, RL \~ 23
 
 ```python
 # 1️⃣ Import Libraries
