@@ -4,30 +4,31 @@
 
     <figure><img src=".gitbook/assets/{2411C40D-F999-4988-8410-AE52D24E2034}.png" alt=""><figcaption></figcaption></figure>
 
-Code:
+<mark style="color:purple;background-color:purple;">**Code:**</mark>
 
-* Typing and operator are used for agent state
-* Create a class for agent state
-* Create a class Agent:
-  * constructor:
-    * Initilize agent state
-    * Add llm node
-    * Add action node
-    * add condtional edge: if action exists ⇒ llm ⇒  action, else llm ⇒ END
-      * if llm response contains tools\_calls then it means action needs to be taken
-    * Regular edge : action ⇒ llm
-    * set entry point ⇒ llm
-    * graph.compile ⇒ This gives langchain runnable
-  * exists\_action:
-    * Checks if the llm response contains tool call
-  * call\_openai:
-    * Get messages from agent state
-    * Invoke llm with messages
-    * Get the response
-  * take\_action:
-    * Take the message of the agent state
-    * Make the tool call
-    * Get the response back
+* **Create a class for agent state**
+  * <mark style="color:purple;background-color:purple;">The State schema serves as the input schema for all Nodes and Edges in the graph.</mark>
+* **Create a class Agent:**
+  * **constructor:**
+    * **Initilize agent state**
+    * **Add llm node**
+    * **Add action node**
+    * **add condtional edge: if action exists ⇒ llm ⇒  action, else llm ⇒ END**
+      * **if llm response contains tools\_calls then it means action needs to be taken**
+    * **Regular edge : action ⇒ llm**
+    * **set entry point ⇒ llm**
+    * **graph.compile ⇒ This gives langchain runnable**
+    * **bind tools to the model**
+  * **exists\_action:**
+    * **Checks if the llm response contains tool call**
+  * **call\_openai:**
+    * **Get messages from agent state**
+    * **Invoke llm with messages**
+    * **Get the response**
+  * **take\_action:**
+    * **Take the message of the agent state**
+    * **Make the tool call**
+    * **Get the response back**
 
 ```python
 from dotenv import load_dotenv

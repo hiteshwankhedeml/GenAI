@@ -1,6 +1,11 @@
-# Creating chatbot using LangGraph
+# 🟢 Creating chatbot using LangGraph
 
+**Code:**
 
+* We define start, chatbot and end node
+* simple edge connections
+* inside chatbot node ⇒ llm will be invoked
+* We can call this graph inside a loop
 
 ```python
 from google.colab import userdata

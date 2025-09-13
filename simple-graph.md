@@ -1,9 +1,9 @@
-# Simple Graph
+# ✈️ Simple Graph
 
-**State:**
+<mark style="color:purple;background-color:purple;">**State:**</mark>
 
 * First, define the State of the graph.
-* The State schema serves as the input schema for all Nodes and Edges in the graph.
+* <mark style="color:purple;background-color:purple;">**The State schema serves as the input schema for all Nodes and Edges in the graph.**</mark>
 * Let's use the TypedDict class from python's typing module as our schema, which provides type hints for the keys.
 
 ```python
@@ -12,12 +12,12 @@ class State(TypedDict):
     graph_state:str
 ```
 
-**Nodes:**
+<mark style="color:purple;background-color:purple;">**Nodes:**</mark>
 
 * Nodes are just python functions.
 * The first positional argument is the state, as defined above.
 * Because the state is a TypedDict with schema as defined above, each node can access the key, graph\_state, with state\['graph\_state'].
-* Each node returns a new value of the state key graph\_state.
+* <mark style="color:purple;background-color:purple;">**Each node returns a new value of the state key graph\_state.**</mark>
 * By default, the new value returned by each node will override the prior state value.
 
 ```python

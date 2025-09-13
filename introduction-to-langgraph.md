@@ -1,27 +1,27 @@
-# Introduction to LangGraph
+# 🟢 Introduction to LangGraph
 
-**Langchain Adcantages:**
+**Langchain Advantages:**
 
 * Amazing library ⇒ for component, core, integration
 * Very easy to create applications
 
 
 
-**Complex workflow:**&#x20;
+<mark style="color:purple;background-color:purple;">**Complex workflow:**</mark>&#x20;
 
 * LLM calls tools (tools was converted to agents), this is how we did all tasks
 * In GenAI we are all able to create message history, RAG, tools, agents
-* For complex workflow like Plan a 5 days to paris ⇒ This is a complex workflow
-* Day 1 ⇒ Travelling
-* Day 2 ⇒ Sighseeing 1, 2
-* Day 5 ⇒ Flyback
+* <mark style="color:purple;background-color:purple;">**For complex workflow like Plan a 5 days to paris ⇒ This is a complex workflow**</mark>
+* <mark style="color:purple;background-color:purple;">**Day 1 ⇒ Travelling**</mark>
+* <mark style="color:purple;background-color:purple;">**Day 2 ⇒ Sighseeing 1, 2**</mark>
+* <mark style="color:purple;background-color:purple;">**Day 5 ⇒ Flyback**</mark>
 * Or if we ask Plan a 5 days trip to paris keeping price in mind ⇒ This is more complex workflow
 * In such task LLM will be brain and it will try to use different tools to come to decision
-* Here state management is also required ⇒ Whatever is planned on day 1, should also be communicated to next day and so on
+* <mark style="color:purple;background-color:purple;">**Here state management is also required ⇒ Whatever is planned on day 1, should also be communicated to next day and so on**</mark>
 
 
 
-**LangGraph:**
+LangGraph:
 
 * Used for building stateful, multi actor application with LLMs
 * Agents can also communicate with each other
