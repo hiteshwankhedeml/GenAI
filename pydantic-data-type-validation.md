@@ -1,4 +1,4 @@
-# ⚔️ Pydantic - Data Type Validation
+# 🔴 Pydantic - Data Type Validation
 
 * Here class state with return dictionary of 2 variables of str
 * If we initialize the class and don't give the string values then also it will work

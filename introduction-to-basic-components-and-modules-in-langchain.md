@@ -1,5 +1,15 @@
 # 🟢 RAG - Introduction
 
+<mark style="color:purple;background-color:purple;">**RAG:**</mark>
+
+* Powerful technique that combines AI language models by combining their generation capabilities with external knowledge retrieval
+* Augmentation means we are trying to enrich the retrieved content
+*
+
+    <figure><img src=".gitbook/assets/{CE311C5C-3F8A-42AA-AC22-F8C9FA3C6AC7}.png" alt=""><figcaption></figcaption></figure>
+
+
+
 1. <mark style="color:purple;background-color:purple;">**RAG: Retrieval Augmented Generation**</mark>
 
 * Retrieval-Augmented Generation (RAG) is a framework that combines:

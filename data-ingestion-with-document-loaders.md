@@ -7,8 +7,10 @@
   * <mark style="color:purple;background-color:purple;">import the required loader</mark>
   * <mark style="color:purple;background-color:purple;">instantiate the loader with the filepath</mark>&#x20;
   * <mark style="color:purple;background-color:purple;">loader.load()</mark>
-  * <mark style="color:purple;background-color:purple;">This will give Document which will have source, page\_content</mark>
+  * <mark style="color:purple;background-color:purple;">This will give Document which will have metdata like source, page number etc and page\_content</mark>
   * <mark style="color:purple;background-color:purple;">If a pdf has multiple pages, then we will have multiple documents for each page</mark>
+  * <mark style="color:purple;background-color:purple;">We can als use DirectoryLoader, in glob we can specify patterns like file types etc, we also need to provide document loader to it</mark>
+  * For word documents we can use <mark style="color:purple;background-color:purple;">Docx2txtLoader</mark>
 
 ```python
 ## Reading from .txt file

@@ -1,4 +1,4 @@
-# ✈️ Simple Graph
+# 🟢 Simple Graph
 
 <mark style="color:purple;background-color:purple;">**State:**</mark>
 
