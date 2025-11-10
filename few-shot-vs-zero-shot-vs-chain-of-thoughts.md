@@ -1,4 +1,8 @@
-# 🟢 Few Shot vs Zero Shot vs Chain of Thoughts
+---
+hidden: true
+---
+
+# ✈️ Few Shot vs Zero Shot vs Chain of Thoughts
 
 | Feature               | Zero-Shot                    | Few-Shot               | Chain-of-Thought               |
 | --------------------- | ---------------------------- | ---------------------- | ------------------------------ |
