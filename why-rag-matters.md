@@ -1,4 +1,8 @@
-# Why RAG Matters
+---
+hidden: true
+---
+
+# ✈️ Why RAG Matters
 
 *
 

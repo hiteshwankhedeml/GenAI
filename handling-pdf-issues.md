@@ -1,15 +1,15 @@
-# Handling PDF Issues
+# 🟢 Handling PDF Issues
 
 * Store text in complex ways (not just simple text)
 * Can have formatting issues
-* May contain scanned images (requiring OCR)
+* <mark style="color:purple;background-color:purple;">**May contain scanned images (requiring OCR)**</mark>
 * Often have extraction artifacts
 
 **Steps:**
 
-* &#x20;Load the pdf
-* Clean the text ⇒ if there are any known characters which are read wrong by OCR then replace it
-* If the page has less than 50 characters then remove it
+* Load the pdf
+* <mark style="color:purple;background-color:purple;">**Clean the text ⇒ if there are any known characters which are read wrong by OCR then replace it**</mark>
+* <mark style="color:purple;background-color:purple;">**If the page has less than 50 characters then remove it**</mark>
 * Chunk the page
 
 ```python

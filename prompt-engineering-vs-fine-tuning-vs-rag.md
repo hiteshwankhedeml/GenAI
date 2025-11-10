@@ -1,4 +1,4 @@
-# Prompt Engineering vs Fine Tuning vs RAG
+# 🟢 Prompt Engineering vs Fine Tuning vs RAG
 
 <figure><img src=".gitbook/assets/{027927BE-EEE1-4BAB-8A8B-B3B41DCD24B7}.png" alt=""><figcaption></figcaption></figure>
 
@@ -6,12 +6,12 @@
 
 * Prompt should be specific instruction, structured with clear context
 * Pros:
-  * No technical expertise needed
+  * <mark style="color:purple;background-color:purple;">**No technical expertise needed**</mark>
   * Instant results
   * No training required
   * Works with any LLM
 * Cons:
-  * Limited by models base knowledge
+  * <mark style="color:purple;background-color:purple;">**Limited by models base knowledge**</mark>
   * Inconsistent results
   * Every model has token limit restriction
   * Cant add new knowledge
@@ -22,19 +22,19 @@
 
 **Fine Tuning:**
 
-* For company specific use case
+* For company <mark style="color:purple;background-color:purple;">**specific use case**</mark>
 * We will get the company specific training data
-* Weights will be modified
+* <mark style="color:purple;background-color:purple;">**Weights will be modified**</mark>
 * Train model on company's data
 * Pros:
   * Deeply specialized knowledge
   * Consistent behavior
-  * No prompt engineering needed
-  * Better for specific domain
+  * <mark style="color:purple;background-color:purple;">**No prompt engineering needed**</mark>
+  * <mark style="color:purple;background-color:purple;">**Better for specific domain**</mark>
 * Cons:
-  * Expensive as GPU will be needed
+  * <mark style="color:purple;background-color:purple;">**Expensive as GPU will be needed**</mark>
   * Require ML expertise
-  * Regular retraining is required for updates
+  * <mark style="color:purple;background-color:purple;">**Regular retraining is required for updates**</mark>
 
 Best for:
 
@@ -50,15 +50,15 @@ Best for:
 * Retrieve relevant docs for each query
 * LLM generate answer from context
 * **Pros:**
-  * Always up to date info
-  * No training required
-  * Cost effective
+  * <mark style="color:purple;background-color:purple;">**Always up to date info**</mark>
+  * <mark style="color:purple;background-color:purple;">**No training required**</mark>
+  * <mark style="color:purple;background-color:purple;">**Cost effective**</mark>
   * Accuracy is high&#x20;
-  * Can also handle private / propriotory data
+  * Can also handle private / proprietary data
 * **Cons:**
   * Infrastructure setup needed
   * Retrieval quality affects answers
-  * Context window limitation
+  * <mark style="color:purple;background-color:purple;">**Context window limitation**</mark>
 *
 
 

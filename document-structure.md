@@ -1,6 +1,7 @@
-# Document Structure
+# 🟢 Document Structure
 
-*   Metadata is important for filtering search results, tracking document sources, providing context in responses, debugging and auditing
+* <mark style="color:purple;background-color:purple;">**Metadata is important for filtering search results, tracking document sources, providing context in responses, debugging and auditing**</mark>
+*   <mark style="color:purple;background-color:purple;">**Document(page\_content="" , metadata{"source":"",page:0,timestamp=""})**</mark>
 
     <figure><img src=".gitbook/assets/{407A3925-8858-41AB-9D2A-41174D82CD87}.png" alt=""><figcaption></figcaption></figure>
 *
