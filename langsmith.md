@@ -1,7 +1,7 @@
 # 🟢 LangSmith
 
 * We can specify project and langsmith key in our project and enable tracing
-* We can go into langsmith and see the entire trace like prompt, output etc
+* We can go into langsmith and see the <mark style="color:purple;background-color:purple;">**entire trace like prompt, output etc**</mark>
 
 ```python
 ## Langsmith Tracking and tracing
