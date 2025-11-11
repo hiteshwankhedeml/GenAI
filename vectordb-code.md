@@ -1,6 +1,10 @@
+---
+hidden: true
+---
+
 # ✈️ VectorDB - Code
 
-* &#x20;Their are different document loaders
+* Their are different document loaders
 * If chunking is required then only do it
 * Here since we are not doing chunking, so 77 vectors will be stored in vectorDB for each page
 
