@@ -11,7 +11,7 @@ coverY: 0
 
 <mark style="color:purple;background-color:purple;">**ML:**</mark>
 
-* Statstool to perform - Statistical analysis, visualization, prediction and forecasting
+* <mark style="color:purple;background-color:purple;">**Statstool**</mark> to perform - Statistical analysis, visualization, prediction and forecasting
 * We do this to understand the data
 
 <mark style="color:purple;background-color:purple;">**DL:**</mark>

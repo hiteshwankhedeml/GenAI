@@ -1,4 +1,8 @@
-# 🟢 What is LLM
+---
+hidden: true
+---
+
+# ✈️ What is LLM
 
 * Foundational that use deep learning models like <mark style="color:purple;background-color:purple;">**transformers**</mark> to process and understand natural data
 * These models are <mark style="color:purple;background-color:purple;">**trained on massive amounts of text data**</mark> to learn patterns and entity relationships in the language
