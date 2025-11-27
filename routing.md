@@ -121,7 +121,6 @@ print(state["output"])
 # Because they have two left feet!
 ```
 
-*   \
-
+*   <br>
 
     <figure><img src=".gitbook/assets/{6D3B6FF4-0854-417D-9976-86490DC85CDA}.png" alt=""><figcaption></figcaption></figure>
