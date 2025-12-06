@@ -5,7 +5,7 @@
 
 <mark style="color:purple;background-color:purple;">**Steps:**</mark>
 
-* <mark style="color:purple;background-color:purple;">**Define the template**</mark>
+* <mark style="color:purple;background-color:purple;">**Define the template ⇒ variables will be inside {}, and also their names will be specified in input\_variables**</mark>
 * <mark style="color:purple;background-color:purple;">**Invoke the template and pass the values of the placeholders**</mark>
 * <mark style="color:purple;background-color:purple;">**llm.invoke(prompt)**</mark>
 

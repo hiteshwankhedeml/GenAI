@@ -1,4 +1,8 @@
-# 🟢 Document Chains
+---
+hidden: true
+---
+
+# ✈️ Document Chains
 
 * <mark style="color:purple;background-color:purple;">**Document Chains are strategies for combining docs before sending to LLM.**</mark>
 * `create_stuff_documents_chain` is used in RAG pipelines.

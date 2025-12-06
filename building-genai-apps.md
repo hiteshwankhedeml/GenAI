@@ -2,6 +2,7 @@
 
 * <mark style="color:purple;background-color:purple;">**For all modern OpenAI models (GPT-4o, GPT-4o-mini, GPT-4-turbo, GPT-3.5-turbo), you must use ChatPromptTemplate.**</mark>
 * <mark style="color:purple;background-color:purple;">**These models are chat models, so they require message-based prompts.**</mark>
+* <mark style="color:purple;background-color:purple;">**Notice we have used ChatPromptTemplate.from\_template here**</mark>
 * We have a website and it has some content, we will extract that information
 * We will divide the contents into chunks, then embeddings
 * Document chain is runnable binding
