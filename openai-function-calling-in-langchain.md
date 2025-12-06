@@ -1,4 +1,8 @@
-# OpenAI Function Calling in LangChain
+---
+hidden: true
+---
+
+# ✈️ OpenAI Function Calling in LangChain
 
 Pydantic:
 

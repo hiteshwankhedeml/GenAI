@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ✈️ Working with VectorStore and Retriever
 
 * These abstractions are designed to support retrieval of data-- from (vector) databases and other sources-- for integration with LLM workflows.

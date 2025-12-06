@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ✈️ Parser
 
 * Chain is used to connect different components like prompt, agent, parser

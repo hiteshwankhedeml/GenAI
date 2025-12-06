@@ -1,4 +1,8 @@
-# Langchain Expression Language
+---
+hidden: true
+---
+
+# ✈️ Langchain Expression Language
 
 * Composes chains of components
 * It defines an allowed set of input types and corresponding output types

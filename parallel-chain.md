@@ -2,7 +2,7 @@
 
 <mark style="color:purple;background-color:purple;">**Steps:**</mark>
 
-* <mark style="color:purple;background-color:purple;">**We create a parallel chain**</mark>
+* <mark style="color:purple;background-color:purple;">**We create a parallel chain using RunnableParallel**</mark>
 * <mark style="color:purple;background-color:purple;">**It will be having key value form**</mark>
 * <mark style="color:purple;background-color:purple;">**Key will be output of the chain, value will have the chain to be run**</mark>
 * <mark style="color:purple;background-color:purple;">**We can even pass the output of the parallel to chain to another chain**</mark>

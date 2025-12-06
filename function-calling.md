@@ -1,4 +1,8 @@
-# Function Calling
+---
+hidden: true
+---
+
+# ✈️ Function Calling
 
 OpenAI has fine-tuned the gpt-3.5-turbo and gpt4 models to:
 

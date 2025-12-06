@@ -1,5 +1,7 @@
 # 🟢 Building GENAI Apps
 
+* <mark style="color:purple;background-color:purple;">**For all modern OpenAI models (GPT-4o, GPT-4o-mini, GPT-4-turbo, GPT-3.5-turbo), you must use ChatPromptTemplate.**</mark>
+* <mark style="color:purple;background-color:purple;">**These models are chat models, so they require message-based prompts.**</mark>
 * We have a website and it has some content, we will extract that information
 * We will divide the contents into chunks, then embeddings
 * Document chain is runnable binding
@@ -9,6 +11,13 @@
   * <mark style="color:purple;background-color:purple;">**Used to create a chat prompt from a single block of user content (implicitly as a human message).**</mark>
   * <mark style="color:purple;background-color:purple;">**Simpler and faster for one-shot user input, but doesn't support multiple roles.**</mark>
   * <mark style="color:purple;background-color:purple;">**Treats the entire content as a single human message**</mark>
+*   <mark style="color:purple;background-color:purple;">**The query (**</mark><mark style="color:purple;background-color:purple;">**`input`**</mark><mark style="color:purple;background-color:purple;">**) is used only by the retriever to fetch relevant chunks.**</mark>
+
+    <mark style="color:purple;background-color:purple;">**The LLM sees only**</mark><mark style="color:purple;background-color:purple;">**&#x20;**</mark><mark style="color:purple;background-color:purple;">**`{context}`**</mark><mark style="color:purple;background-color:purple;">**&#x20;**</mark><mark style="color:purple;background-color:purple;">**(the retrieved chunks).**</mark>
+* <mark style="color:purple;background-color:purple;">**Since all retrieved chunks contain the answer in textual form, the LLM simply restates or summarizes the content.**</mark>
+* <mark style="color:purple;background-color:purple;">**`input`**</mark><mark style="color:purple;background-color:purple;">**&#x20;**</mark><mark style="color:purple;background-color:purple;">**→ required by retrieval chain (for search).**</mark>
+* <mark style="color:purple;background-color:purple;">**`context`**</mark><mark style="color:purple;background-color:purple;">**&#x20;**</mark><mark style="color:purple;background-color:purple;">**→ required by document chain (for stuffing into prompt).**</mark>
+* <mark style="color:purple;background-color:purple;">**Only**</mark><mark style="color:purple;background-color:purple;">**&#x20;**</mark><mark style="color:purple;background-color:purple;">**`context`**</mark><mark style="color:purple;background-color:purple;">**&#x20;**</mark><mark style="color:purple;background-color:purple;">**must match an actual placeholder**</mark><mark style="color:purple;background-color:purple;">**&#x20;**</mark><mark style="color:purple;background-color:purple;">**`{context}`**</mark><mark style="color:purple;background-color:purple;">**&#x20;**</mark><mark style="color:purple;background-color:purple;">**in your prompt.**</mark>
 
 <mark style="color:red;background-color:red;">**Steps:**</mark>
 

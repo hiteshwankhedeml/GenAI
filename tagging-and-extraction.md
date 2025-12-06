@@ -1,4 +1,8 @@
-# Tagging and Extraction
+---
+hidden: true
+---
+
+# ✈️ Tagging and Extraction
 
 * Tagging helps us to extract structured data from unstructured data
 * Extraction helps us to extract specific entities from the text

@@ -1,4 +1,8 @@
-# OpenAI Functions
+---
+hidden: true
+---
+
+# ✈️ OpenAI Functions
 
 * Here we have hardcoded function current\_weather ⇒ in actual we will be calling API inside this
 * To define a function we need

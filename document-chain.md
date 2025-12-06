@@ -3,9 +3,11 @@
 * [https://api.python.langchain.com/en/latest/chains/langchain.chains.combine\_documents.stuff.create\_stuff\_documents\_chain.html](https://api.python.langchain.com/en/latest/chains/langchain.chains.combine_documents.stuff.create_stuff_documents_chain.html)
 * <mark style="color:purple;background-color:purple;">**Retriever queries the VectorDB to get the most relevant documents for your query.**</mark>
 * <mark style="color:purple;background-color:purple;">**These retrieved documents are then passed to a Document Chain.**</mark>
-* <mark style="color:purple;background-color:purple;">**The Document Chain feeds the documents (usually chunk by chunk) along with the query into the LLM.**</mark>
+* <mark style="color:purple;background-color:purple;">**The Document Chain feeds the documents along with the query into the LLM.**</mark>
 * <mark style="color:purple;background-color:purple;">**The LLM processes these inputs and generates the final answer or output.**</mark>
 * <mark style="color:purple;background-color:purple;">**Create stuff document chain creates a chain for passing a list of documents to a model**</mark>
+* <mark style="color:purple;background-color:purple;">**StuffDocumentsChain → sends ALL chunks together in ONE prompt**</mark>
+* <mark style="color:purple;background-color:purple;">**Map-Reduce / Refine chains → process chunks one by one**</mark>
 * System ⇒ Message to the LLM ⇒ Instruction to LLM
 * It will be using Chatprompt template, ChatOpenAI and StrOutputParser inside
 * Here since we using the function create stuff document so we don't need | symbol

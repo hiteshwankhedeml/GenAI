@@ -1,6 +1,7 @@
 # 🟢 Sequential Chain
 
 * Previously router was used but now we can use LCEL
+* <mark style="color:purple;background-color:purple;">**Here the output of parse1 is given to prompt 2**</mark>
 
 ```python
 prompt1=PromptTemplate(

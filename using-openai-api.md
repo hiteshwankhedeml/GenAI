@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ✈️ Using OpenAI API
 
 ```python

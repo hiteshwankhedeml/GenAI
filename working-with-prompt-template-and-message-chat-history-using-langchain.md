@@ -1,4 +1,8 @@
-# 🟢 Working with Prompt template and Message Chat History Using LangChain
+---
+hidden: true
+---
+
+# ✈️ Working with Prompt template and Message Chat History Using LangChain
 
 **Prompt Templates:**
 
