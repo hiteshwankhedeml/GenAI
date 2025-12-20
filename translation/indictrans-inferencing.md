@@ -1,17 +1,17 @@
-# IndicTrans Inferencing
+# 🟢 IndicTrans Inferencing
 
-* Download indic-en, en-indic, indic-indic models from google storage
-* initialize the model by selecting the correct directory path
-* pass the sentence to be converted&#x20;
-* IndicTrans is trained with a max sequence length of 200 tokens (subwords). If your sentence is too long (> 200 tokens), the sentence will be truncated to 200 tokens before translation.
-* We use smart chunking
-  * Split at . or break
-  * If still length is more than 200
-  * Then split at ⇒ and, but, however... (As per language we had to maintain different keywords)
-  * If that also fails then we split at 180 chars
-* For a sentence translation, it took 1 to 2 seconds
-* Apply rule-based corrections (specific words, phrasing, terminology).
-* Example: if the client wants “application” → “prarthana patra”, add it as a replacement rule.
+* <mark style="color:purple;background-color:purple;">**Download indic-en, en-indic, indic-indic models from google storage**</mark>
+* <mark style="color:purple;background-color:purple;">**initialize the model by selecting the correct directory path**</mark>
+* <mark style="color:purple;background-color:purple;">**pass the sentence to be converted**</mark>&#x20;
+* <mark style="color:purple;background-color:purple;">**IndicTrans is trained with a max sequence length of 200 tokens (subwords). If your sentence is too long (> 200 tokens), the sentence will be truncated to 200 tokens before translation.**</mark>
+* <mark style="color:purple;background-color:purple;">**We use smart chunking**</mark>
+  * <mark style="color:purple;background-color:purple;">**Split at . or break**</mark>
+  * <mark style="color:purple;background-color:purple;">**If still length is more than 200**</mark>
+  * <mark style="color:purple;background-color:purple;">**Then split at ⇒ and, but, however... (As per language we had to maintain different keywords)**</mark>
+  * <mark style="color:purple;background-color:purple;">**If that also fails then we split at 180 chars**</mark>
+* <mark style="color:purple;background-color:purple;">**For a sentence translation, it took 1 to 2 seconds**</mark>
+* <mark style="color:purple;background-color:purple;">**Apply rule-based corrections (specific words, phrasing, terminology).**</mark>
+* <mark style="color:purple;background-color:purple;">**Example: if the client wants “application” → “prarthana patra”, add it as a replacement rule.**</mark>
 
 ```python
 # downloading the indic-en model

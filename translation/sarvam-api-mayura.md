@@ -1,14 +1,14 @@
-# Sarvam API - Mayura
+# 🟢 Sarvam API - Mayura
 
-* Released in 2024
-* Accessed via API
-* Supported 11 languages
-* The maximum input is 1000 characters
+* <mark style="color:purple;background-color:purple;">**Released in 2024**</mark>
+* <mark style="color:purple;background-color:purple;">**Accessed via API**</mark>
+* <mark style="color:purple;background-color:purple;">**Supported 11 languages**</mark>
+* <mark style="color:purple;background-color:purple;">**The maximum input is 1000 characters**</mark>
 * It has script control with options for Roman, native, and spoken forms ⇒ Roman, Fully native, Spoken form
 * We used fully native script
-* We can also specify gender
-* We access it using sarvamai package by using key
-* **₹20/10K characters**
+* <mark style="color:purple;background-color:purple;">**We can also specify gender**</mark>
+* <mark style="color:purple;background-color:purple;">**We access it using sarvamai package by using key**</mark>
+* <mark style="color:purple;background-color:purple;">**₹20/10K characters**</mark>
 
 ```python
 from sarvamai import SarvamAI

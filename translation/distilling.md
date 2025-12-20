@@ -1,4 +1,4 @@
-# Distilling
+# 🟢 Distilling
 
 * Distillation is done by first running the large teacher model on a big set of sentences.
 * The teacher generates soft probabilities for every token (not just the final answer).

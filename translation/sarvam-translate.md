@@ -1,20 +1,20 @@
-# Sarvam Translate
+# 🟢 Sarvam Translate
 
-* Released mid 2025
-* Open source, available on hugging face
-* Supports 22 languages
-* Input limit is 2000 characters
-* 4 billion parameters
-* Trained by fine-tuning Gemma3-4B-IT
-* Can be used for
-  * Translating web pages without breaking the HTML structure
-  * Translating LaTex documents
+* <mark style="color:purple;background-color:purple;">**Released mid 2025**</mark>
+* <mark style="color:purple;background-color:purple;">**Open source, available on hugging face**</mark>
+* <mark style="color:purple;background-color:purple;">**Supports 22 languages**</mark>
+* <mark style="color:purple;background-color:purple;">**Input limit is 2000 characters**</mark>
+* <mark style="color:purple;background-color:purple;">**4 billion parameters**</mark>
+* <mark style="color:purple;background-color:purple;">**Trained by fine-tuning Gemma3-4B-IT**</mark>
+* <mark style="color:purple;background-color:purple;">**Can be used for**</mark>
+  * <mark style="color:purple;background-color:purple;">**Translating web pages without breaking the HTML structure**</mark>
+  * <mark style="color:purple;background-color:purple;">**Translating LaTex documents**</mark>
 * Trained on BPCC + scientific and historical content, conversational and modern text, and structurally complex formats such as code, LaTeX, HTML, and chemistry equations
 
-Training:
+<mark style="color:purple;background-color:purple;">**Training:**</mark>
 
-* In the first stage, we fine-tuned the full model on a larger dataset with broad coverage, including some noisier but domain-diverse data to establish wide-ranging translation capability.&#x20;
-* In the second stage, we used LoRA to fine-tune the model further on a smaller, highly curated, format-diverse dataset, paying careful attention to format preservation and style consistency
+* <mark style="color:purple;background-color:purple;">**In the first stage, we fine-tuned the full model on a larger dataset with broad coverage, including some noisier but domain-diverse data to establish wide-ranging translation capability.**</mark>&#x20;
+* <mark style="color:purple;background-color:purple;">**In the second stage, we used LoRA to fine-tune the model further on a smaller, highly curated, format-diverse dataset, paying careful attention to format preservation and style consistency**</mark>
 
 Inferencing:
 

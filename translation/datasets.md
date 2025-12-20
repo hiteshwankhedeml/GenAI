@@ -1,14 +1,14 @@
-# Datasets
+# 🟢 Datasets
 
-* We checked for parallel datasets
-* A parallel corpus is a dataset where each sentence in one language is paired with its exact translation in another language.
+* We checked for <mark style="color:purple;background-color:purple;">**parallel datasets**</mark>
+* A parallel corpus is a dataset where <mark style="color:purple;background-color:purple;">**each sentence in one language is paired with its exact translation in another language.**</mark>
 * [https://huggingface.co/datasets/ai4bharat/samanantar](https://huggingface.co/datasets/ai4bharat/samanantar)
-* Samantar
+* <mark style="color:purple;background-color:purple;">**Samantar**</mark> ⇒ Available for download on kaggle
   * It has data for 11 languages
-  * en <-> indic
-  * We can derive indic to indic by using english as pivot
+  * <mark style="color:purple;background-color:purple;">**en <-> indic**</mark>
+  * <mark style="color:purple;background-color:purple;">**We can derive indic to indic by using english as pivot**</mark>
   * Near to 50 million records
   * Around 7GB of data
-* IndicCorp
-  * Not parallel dataset
-  * Huge monolingal corpus
+* <mark style="color:purple;background-color:purple;">**IndicCorp**</mark>
+  * <mark style="color:purple;background-color:purple;">**Not parallel dataset**</mark>
+  * <mark style="color:purple;background-color:purple;">**Huge monolingal corpus**</mark>

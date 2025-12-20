@@ -1,4 +1,4 @@
-# IndicTrans vs IndicTrans2
+# ✈️ IndicTrans vs IndicTrans2
 
 | Feature                    | IndicTrans (v1)              | IndicTrans2                                 |
 | -------------------------- | ---------------------------- | ------------------------------------------- |

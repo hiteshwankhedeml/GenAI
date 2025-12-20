@@ -1,4 +1,4 @@
-# Distillation Steps
+# 🟢 Distillation Steps
 
 * **Get batch of parallel data** (src, tgt).
 * **Run teacher forward pass** → get teacher logits → convert to soft probabilities with temperature.
