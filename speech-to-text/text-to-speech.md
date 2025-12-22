@@ -1,4 +1,8 @@
-# Text to Speech
+---
+hidden: true
+---
+
+# 🟡 Text to Speech
 
 * Coqui TTS&#x20;
 * Sarvam Bulbul v2

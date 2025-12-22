@@ -1,4 +1,4 @@
-# LLM Evaluate - Correlation
+# 🟢 LLM Evaluate - Correlation
 
 * **Human scores:** 9, 8, 6, 3, 1
 * **Model-1 scores:** 5, 5, 5, 5, 5 → **correlation = 0** (model cannot distinguish good vs weak answers)

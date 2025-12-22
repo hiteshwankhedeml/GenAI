@@ -1,4 +1,8 @@
-# Scoring - Chunks
+---
+hidden: true
+---
+
+# ✈️ Scoring - Chunks
 
 * Candidate answers are long, so comparing the full answer to the expected answer gives weak or meaningless similarity.
 * We break the long answer into chunks, where each chunk contains 2–3 sentences.

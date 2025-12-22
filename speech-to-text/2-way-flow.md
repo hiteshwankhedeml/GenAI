@@ -1,4 +1,8 @@
-# 2 way - Flow
+---
+hidden: true
+---
+
+# 🟡 2 way - Flow
 
 * Input JSON looks like:\
   {\

@@ -1,4 +1,4 @@
-# LLM Shortlisted
+# 🟢 LLM Shortlisted
 
 * Llama-3 8B Instruct ⇒ Finalized this model
 * Mistral 7B Instruct

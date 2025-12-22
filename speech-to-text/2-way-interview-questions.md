@@ -1,4 +1,8 @@
-# 2 way - Interview Questions
+---
+hidden: true
+---
+
+# 🟡 2 way - Interview Questions
 
 * Extract exactly 4 evaluation areas (competencies) from the job description.
 * For each area, generate 2–3 main questions.

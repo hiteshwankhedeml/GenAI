@@ -1,4 +1,8 @@
-# 2 way - Video Analysis
+---
+hidden: true
+---
+
+# 🟡 2 way - Video Analysis
 
 * **Face Detection** to ensure exactly one person is present in the video.
 * **Liveness Detection** to confirm the candidate is a real human and not a photo/video replay.

@@ -1,10 +1,12 @@
-# Whisper - Code
+# 🟢 Whisper - Code
 
-* Whisper internally breaks audio into 30-second chunks
-* Then processes each chunk one by one
-* Finally merges them into a single transcript
-* We had used 32GB RAM CPU but it used to take a long time
-* We moved Whisper inference to an NVIDIA T4 GPU, which reduced transcription time for a 2-minute response from several minutes on CPU to roughly 20–40 seconds
+* <mark style="color:purple;background-color:purple;">**Whisper internally breaks audio into 30-second chunks**</mark>
+* <mark style="color:purple;background-color:purple;">**Then processes each chunk one by one**</mark>
+* <mark style="color:purple;background-color:purple;">**Finally merges them into a single transcript**</mark>
+* <mark style="color:purple;background-color:purple;">**We had used 32GB RAM CPU but it used to take a long time**</mark>
+* <mark style="color:purple;background-color:purple;">**We has used small model**</mark>
+* <mark style="color:purple;background-color:purple;">**We moved Whisper inference to an NVIDIA T4 GPU, which reduced transcription time for a 2-minute response from several minutes on CPU to roughly 20–40 seconds**</mark>
+* <mark style="color:purple;background-color:purple;">**We used huggingface pipeline, with task as "automatic-speech-recognition"**</mark>
 *
 
     | Hardware (2023)    | Approx response time | Comments              |

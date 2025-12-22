@@ -1,4 +1,8 @@
-# 2way - Code
+---
+hidden: true
+---
+
+# 🟡 2way - Code
 
 ```python
 import requests

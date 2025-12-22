@@ -1,4 +1,4 @@
-# Scoring - Advanced Algo
+# 🟢 Scoring - Advanced Algo
 
 * **Step 1 — Take the candidate answer (1–2 mins).**
 * **Step 2 — Split into sentences.**
@@ -17,7 +17,7 @@
 * **Step 7 — Take the highest similarity score.**
   * This represents the best part of the candidate’s answer.
   * We never average, because irrelevant sentences would reduce score.
-* **Step 8 — Apply length penalty based on number of sentences:**
+* **Step 8 — Apply length penalty based on number of sentences: ⇒ We changed it into no. of words**
   * 1 sentence → 0.3
   * 2 sentences → 0.5
   * 3–4 sentences → 0.7

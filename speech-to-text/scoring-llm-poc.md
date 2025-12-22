@@ -1,4 +1,15 @@
-# Scoring - LLM - PoC
+# 🟢 Scoring - LLM - PoC
+
+```python
+from langchain_community.llms import Ollama
+
+llm = Ollama(
+    model="mistral",
+    base_url="http://<VM_IP>:11434"
+)
+```
+
+
 
 * If expected answers are available, we pass them to the LLM so it can compare the candidate's response with our reference answers.
 * This makes the scoring objective, because the LLM knows exactly what a good answer should contain.

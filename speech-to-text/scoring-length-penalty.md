@@ -1,4 +1,8 @@
-# Scoring - Length Penalty
+---
+hidden: true
+---
+
+# ✈️ Scoring - Length Penalty
 
 * **Length penalty exists because short answers should not receive high scores**, even if the semantic match with the expected answer is strong.
 * **Reason:** A one-line answer shows low depth, low detail, low clarity — so its final score must be reduced.

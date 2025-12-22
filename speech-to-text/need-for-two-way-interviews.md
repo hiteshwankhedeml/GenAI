@@ -1,4 +1,8 @@
-# Need for Two Way Interviews
+---
+hidden: true
+---
+
+# 🟡 Need for Two Way Interviews
 
 * Ensures the candidate actually answers the question instead of going off-topic.
 * Detects silence, noise, or incomplete answers instantly and retries automatically.

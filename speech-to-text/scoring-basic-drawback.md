@@ -1,6 +1,6 @@
-# Scoring - Basic - Drawback
+# 🟢 Scoring - Basic - Drawback
 
-* Phase-2 depended only on keywords, so it failed when the candidate used different words that had the same meaning.
+* <mark style="color:purple;background-color:purple;">**Phase-2 depended only on keywords, so it failed when the candidate used different words that had the same meaning.**</mark>
 * Example:
   * Expected keyword: “customer handling”
   * Candidate says: “I deal with clients daily and solve their issues.”

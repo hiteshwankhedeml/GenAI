@@ -1,4 +1,8 @@
-# Scoring - Chunk Split
+---
+hidden: true
+---
+
+# ✈️ Scoring - Chunk Split
 
 * Split answer into sentences
 * Group sentences until chunk has 15–60 words

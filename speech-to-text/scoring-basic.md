@@ -1,15 +1,15 @@
-# Scoring - Basic
+# 🟢 Scoring - Basic
 
-* We scored only technical and role-based questions; personal questions were not scored.
-* Each technical question had a predefined keyword list created from job descriptions and SME inputs.
-* Whisper transcript text was cleaned and normalized before scoring.
-* For each question, we counted how many expected keywords appeared in the candidate’s answer.
-* Negation handling was applied using a ±3-word window, so keywords in negated sentences (e.g., “I don’t know C++”) were counted as negative, not positive.
-* Final question score = positive keyword count − negative keyword count, with a lower limit of zero.
-* Each question had its own keyword set, so scoring remained question-specific and explainable.
-* Final interview score was the weighted sum of all technical question scores, keeping the system transparent and easy to interpret.
-* We calculated overall score on a scale of 10
-* We also generated a pdf which had obe
+* <mark style="color:purple;background-color:purple;">**We scored only technical and role-based questions; personal questions were not scored.**</mark>
+* <mark style="color:purple;background-color:purple;">**Each technical question had a predefined keyword list created from job descriptions and SME inputs.**</mark>
+* <mark style="color:purple;background-color:purple;">**Whisper transcript text was cleaned and normalized before scoring.**</mark>
+* <mark style="color:purple;background-color:purple;">**For each question, we counted how many expected keywords appeared in the candidate’s answer.**</mark>
+* <mark style="color:purple;background-color:purple;">**Negation handling was applied using a ±3-word window, so keywords in negated sentences (e.g., “I don’t know C++”) were counted as negative, not positive.**</mark>
+* <mark style="color:purple;background-color:purple;">**Final question score = positive keyword count − negative keyword count, with a lower limit of zero.**</mark>
+* <mark style="color:purple;background-color:purple;">**Each question had its own keyword set, so scoring remained question-specific and explainable.**</mark>
+* <mark style="color:purple;background-color:purple;">**Final interview score was the weighted sum of all technical question scores, keeping the system transparent and easy to interpret.**</mark>
+* <mark style="color:purple;background-color:purple;">**We calculated overall score on a scale of 10**</mark>
+* <mark style="color:purple;background-color:purple;">**We also generated a pdf which had obe**</mark>
 
 ```python
 # ------------------------------------------

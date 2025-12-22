@@ -1,18 +1,20 @@
-# Pre Processing
+# 🟢 Pre Processing
 
 **Noise Removal:**
 
-* I used the first short segment of audio as a noise profile since most interview recordings begin with silence, making it a reliable and lightweight way to estimate background noise automatically.
-* Takes the first 0.5 seconds of the audio
-* Assumes this part mostly contains background noise / silence
-* Calculates the average loudness of the noise
-* Higher value → more background noise
-* Calculates the average loudness of the full audio
-* Represents the main speech signal
-* Compares noise vs actual speech
-* If noise is more than 30% of the signal → considered noisy
-* If noisy → apply light noise reduction
-* If no noise then don't do any noise reduction
+* <mark style="color:purple;background-color:purple;">**I used the first short segment of audio as a noise profile since most interview recordings begin with silence, making it a reliable and lightweight way to estimate background noise automatically.**</mark>
+* <mark style="color:purple;background-color:purple;">**Takes the first 0.5 seconds of the audio**</mark>
+* <mark style="color:purple;background-color:purple;">**Assumes this part mostly contains background noise / silence**</mark>
+* <mark style="color:purple;background-color:purple;">**Calculates the average loudness of the noise**</mark>
+* <mark style="color:purple;background-color:purple;">**Higher value → more background noise**</mark>
+* <mark style="color:purple;background-color:purple;">**Calculates the average loudness of the full audio**</mark>
+* <mark style="color:purple;background-color:purple;">**Represents the main speech signal**</mark>
+* <mark style="color:purple;background-color:purple;">**Compares noise vs actual speech**</mark>
+* <mark style="color:purple;background-color:purple;">**If noise is more than 30% of the signal → considered noisy**</mark>
+* <mark style="color:purple;background-color:purple;">**If noisy → apply light noise reduction**</mark>
+* <mark style="color:purple;background-color:purple;">**If no noise then don't do any noise reduction**</mark>
+* <mark style="color:purple;background-color:purple;">**For noise calculation, we took audio sample using librosa and then took mean of the frequencies**</mark>
+* <mark style="color:purple;background-color:purple;">**If noise found then using noisereduce library we reduced it**</mark>
 
 ```python
 import numpy as np

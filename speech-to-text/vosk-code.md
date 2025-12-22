@@ -1,19 +1,21 @@
-# VOSK - Code
+# 🟢 VOSK - Code
 
-* &#x20;Used io.BytesIO for inmemory
-* We get video in memory using requests
-* We convert Video to Audio using ffmpeg ⇒ wav format 16kHz, mono channel
-* We will pass this audio to KaldiRecognizer in chunks of 4000 frames (4000/ 16kHz = 0.25s)
-* We did this in loop as our video was of 2mins max
-* Not did any preprocessing as I was not aware of it also since it was interviews people used to give it in a silent background
+* <mark style="color:purple;background-color:purple;">**Used io.BytesIO for inmemory**</mark>
+* <mark style="color:purple;background-color:purple;">**We get video in memory using requests**</mark>
+* <mark style="color:purple;background-color:purple;">**We convert Video to Audio using ffmpeg ⇒ wav format 16kHz, mono channel**</mark>
+* <mark style="color:purple;background-color:purple;">**We will pass this audio to KaldiRecognizer in chunks of 4000 frames (4000/ 16kHz = 0.25s)**</mark>
+* <mark style="color:purple;background-color:purple;">**We did this in loop as our video was of 2mins max**</mark>
+* <mark style="color:purple;background-color:purple;">**Not did any preprocessing as I was not aware of it also since it was interviews people used to give it in a silent background**</mark>
+* <mark style="color:$danger;background-color:purple;">**Transcription time for 25-sec audio**</mark><mark style="color:$danger;background-color:purple;">: \~2 to 4 seconds</mark>
 
-**Post Processing:**
+<mark style="color:purple;background-color:purple;">**Post Processing:**</mark>
 
-* Zipf frequency = how common a word is in real English
-  * Higher number → word is very common
-  * Lower number → word is rare or possibly invalid
-  * Replace using dictionary if direct match found
-  * Replace it using nearest match from your dictionary using Levenshtein
+* <mark style="color:purple;background-color:purple;">**Zipf frequency = how common a word is in real English**</mark>
+  * <mark style="color:purple;background-color:purple;">**Higher number → word is very common**</mark>
+  * <mark style="color:purple;background-color:purple;">**Lower number → word is rare or possibly invalid (Cut off value is 2)**</mark>
+  * <mark style="color:purple;background-color:purple;">**If your domain words are missing in the corpus, they may get low Zipf scores**</mark>
+  * <mark style="color:purple;background-color:purple;">**Replace using dictionary if direct match found**</mark>
+  * <mark style="color:purple;background-color:purple;">**Replace it using nearest match from your dictionary using Levenshtein**</mark>
 
 ```python
 import requests
