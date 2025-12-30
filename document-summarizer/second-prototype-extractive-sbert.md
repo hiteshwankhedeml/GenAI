@@ -1,10 +1,10 @@
-# Second Prototype (Extractive - SBERT)
+# 🟢 Second Prototype (Extractive - SBERT)
 
 * 2019
-* We upgraded our extractive summarizer using SBERT, which was specifically designed to produce sentence embeddings suitable for semantic similarity.
-* &#x20;We use all-MiniLM-L6-v2 for embedding
-* Computing similarity for very long documents can be memory-intensive
-* Dimension 384
+* <mark style="color:purple;background-color:purple;">**We upgraded our extractive summarizer using SBERT, which was specifically designed to produce sentence embeddings suitable for semantic similarity.**</mark>
+* &#x20;<mark style="color:purple;background-color:purple;">**We use all-MiniLM-L6-v2 for embedding**</mark>
+* <mark style="color:purple;background-color:purple;">**Computing similarity for very long documents can be memory-intensive**</mark>
+* <mark style="color:purple;background-color:purple;">**Dimension 384**</mark>
 * We had calculated ROGUE and had got around R1 \~ 25, R2 \~ 15, RL \~ 23
 
 ```python

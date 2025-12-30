@@ -1,6 +1,6 @@
-# ROGUE - Code
+# 🟢 ROGUE - Code
 
-* &#x20;
+* &#x20;<mark style="color:purple;background-color:purple;">**Use rouge\_score for calculating scores**</mark>
 
 ```python
 from rouge_score import rouge_scorer

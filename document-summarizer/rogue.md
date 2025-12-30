@@ -1,21 +1,21 @@
-# ROGUE
+# 🟢 ROGUE
 
 * **Recall-Oriented Understudy for Gisting Evaluation**
 * Family of metrics to evaluate summarization by comparing **candidate summary** with **reference summary**
 * Focus: **recall** (how much important info is captured)
 * Variants: **ROUGE-1, ROUGE-2, ROUGE-L**
-* If we 10 documents, then we will calculate ROGUE for all 10 and then take average
-* Both **generated summary** and **reference summary** can have **multiple sentences** (say 10 each).
-* ROUGE does **not** compare sentence-by-sentence.
-* Instead, it treats the **entire summary as a single sequence of tokens (words)**.
+* <mark style="color:purple;background-color:purple;">**If we 10 documents, then we will calculate ROGUE for all 10 and then take average**</mark>
+* <mark style="color:purple;background-color:purple;">**Both generated summary and reference summary can have multiple sentences (say 10 each).**</mark>
+* <mark style="color:purple;background-color:purple;">**ROUGE does not compare sentence-by-sentence.**</mark>
+* <mark style="color:purple;background-color:purple;">**Instead, it treats the entire summary as a single sequence of tokens (words).**</mark>
 
 ***
 
 #### 🔹 Variants
 
-* **ROUGE-1** → unigram (single word) overlap
-* **ROUGE-2** → bigram (two consecutive words) overlap
-* **ROUGE-L** → longest common subsequence
+* <mark style="color:purple;background-color:purple;">**ROUGE-1**</mark> <mark style="color:purple;background-color:purple;"></mark><mark style="color:purple;background-color:purple;">→ unigram (single word) overlap</mark>
+* <mark style="color:purple;background-color:purple;">**ROUGE-2**</mark> <mark style="color:purple;background-color:purple;"></mark><mark style="color:purple;background-color:purple;">→ bigram (two consecutive words) overlap</mark>
+* <mark style="color:purple;background-color:purple;">**ROUGE-L**</mark> <mark style="color:purple;background-color:purple;"></mark><mark style="color:purple;background-color:purple;">→ longest common subsequence</mark>
 * ROUGE-1 shows recall of important words
 * ROUGE-2 shows how well phrases are preserved
 * ROUGE-L captures fluency through sequence overlap.

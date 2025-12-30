@@ -1,13 +1,13 @@
-# First Prototype (Extractive - Tf-IDF)
+# 🟢 First Prototype (Extractive - Tf-IDF)
 
 * Used nltk sent\_tokenize, it splits based on punctuations like ! , .
 * It knows not to split at Mr. / e.g. / a.m. etc
 * Started with extractive summarization
-* We calculated tf-idf of sentences
-* We find cosine similarity among sentences
-* Then using centrality we found importance of each sentence
-* We pick top n important sentences
-* When we applied TF-IDF to legal contracts, we realized critical clauses like ‘penalty’ or ‘deadline’ often appeared only once, so TF-IDF would undervalue them. To fix this, we introduced a hybrid approach — TF-IDF scoring combined with domain-specific keyword boosting
+* <mark style="color:purple;background-color:purple;">**We calculated tf-idf of sentences**</mark>
+* <mark style="color:purple;background-color:purple;">**We find cosine similarity among sentences**</mark>
+* <mark style="color:purple;background-color:purple;">**Then using centrality we found importance of each sentence**</mark>
+* <mark style="color:purple;background-color:purple;">**We pick top n important sentences**</mark>
+* <mark style="color:purple;background-color:purple;">**When we applied TF-IDF to legal contracts, we realized critical clauses like ‘penalty’ or ‘deadline’ often appeared only once, so TF-IDF would undervalue them. To fix this, we introduced a hybrid approach — TF-IDF scoring combined with domain-specific keyword boosting**</mark>
 *
 
 ```python
@@ -36,7 +36,7 @@ summary = " ".join([sentences[i] for i in sorted(top_n_sentences)])
 
 **Centrality:**
 
-*   The more a sentence is similar to other, the more it means it's talking about the central topic of the document
+*   <mark style="color:purple;background-color:purple;">**The more a sentence is similar to other, the more it means it's talking about the central topic of the document**</mark>
 
     | Sentences | S1   | S2   | S3   | S4   | S5   | S6   | S7   | S8   | S9   | S10  |
     | --------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -64,25 +64,25 @@ summary = " ".join([sentences[i] for i in sorted(top_n_sentences)])
 
 
 
-**Domain Boosting:**
+<mark style="color:purple;background-color:purple;">**Domain Boosting:**</mark>
 
-* We calculated centrality
-* After that for each sentence we also calculated domain boosting score
-* As per the no. of important keywords it contains, for each sentence we will find a score
-* Then we will do weighted average of centrality and domain boosting
-* Final Score (0.7C + 0.3D)
-
-
-
-**Handling single words:**
-
-* In resumes sometimes, single words appear on multiple lines
-* We checked if there are consecutive single words, then we showed it as single line in summary
+* <mark style="color:purple;background-color:purple;">**We calculated centrality**</mark>
+* <mark style="color:purple;background-color:purple;">**After that for each sentence we also calculated domain boosting score**</mark>
+* <mark style="color:purple;background-color:purple;">**As per the no. of important keywords it contains, for each sentence we will find a score**</mark>
+* <mark style="color:purple;background-color:purple;">**Then we will do weighted average of centrality and domain boosting**</mark>
+* <mark style="color:purple;background-color:purple;">**Final Score (0.7C + 0.3D)**</mark>
 
 
 
-**Issues:**
+<mark style="color:purple;background-color:purple;">**Handling single words:**</mark>
 
-* This approach not worked for resumes, as each sentence carry different information
-* If document is scanned, then OCR not used to be correct
-* Did not take meaning into account
+* <mark style="color:purple;background-color:purple;">**In resumes sometimes, single words appear on multiple lines**</mark>
+* <mark style="color:purple;background-color:purple;">**We checked if there are consecutive single words, then we showed it as single line in summary**</mark>
+
+
+
+<mark style="color:purple;background-color:purple;">**Issues:**</mark>
+
+* <mark style="color:purple;background-color:purple;">**This approach not worked for resumes, as each sentence carry different information**</mark>
+* <mark style="color:purple;background-color:purple;">**If document is scanned, then OCR not used to be correct**</mark>
+* <mark style="color:purple;background-color:purple;">**Did not take meaning into account**</mark>
