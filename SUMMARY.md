@@ -500,6 +500,8 @@
   * [🟡 Text to Speech](speech-to-text/text-to-speech.md)
   * [🟡 2 way - Flow](speech-to-text/2-way-flow.md)
   * [🟡 2way - Code](speech-to-text/2way-code.md)
+* [JD Generation](jd-generation.md)
+* [Question Generation](question-generation.md)
 * [Document Summarizer](document-summarizer/README.md)
   * [🟢 Motivation & Problem Statement](document-summarizer/motivation-and-problem-statement.md)
   * [🟢 First Prototype (Extractive - Tf-IDF)](document-summarizer/first-prototype-extractive-tf-idf.md)
