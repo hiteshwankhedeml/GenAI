@@ -2,8 +2,8 @@
 
 <mark style="color:purple;background-color:purple;">**Steps:**</mark>
 
-* <mark style="color:purple;background-color:purple;">While initiating loader , we need to specify credentials, connection string, filtering condition etc.</mark>
-* <mark style="color:purple;background-color:purple;">loader.load()</mark>
+* <mark style="color:purple;background-color:purple;">**While initiating loader , we need to specify credentials, connection string, filtering condition etc.**</mark>
+* <mark style="color:purple;background-color:purple;">**loader.load()**</mark>
 
 ```python
 from langchain_community.document_loaders.mongodb import MongodbLoader

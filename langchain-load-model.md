@@ -4,8 +4,8 @@
 * GoogleAIstudio to get key for gemini
 * [https://python.langchain.com/docs/integrations/providers/all/](https://python.langchain.com/docs/integrations/providers/all/)
 * <mark style="color:purple;background-color:purple;">**Steps:**</mark>
-  * <mark style="color:purple;background-color:purple;">Instantiate the model - Also specify the model here</mark>
-  * <mark style="color:purple;background-color:purple;">model.invoke(prompt)</mark>
+  * <mark style="color:purple;background-color:purple;">**Instantiate the model - Also specify the model here**</mark>
+  * <mark style="color:purple;background-color:purple;">**model.invoke(prompt)**</mark>
 
 ```python
 from langchain_google_genai import ChatGoogleGenerativeAI

@@ -4,8 +4,8 @@
 
 <mark style="color:purple;background-color:purple;">**Steps:**</mark>
 
-* &#x20;<mark style="color:purple;background-color:purple;">from langchain\_huggingface import HuggingFaceEmbeddings</mark>
-* <mark style="color:purple;background-color:purple;">Remaining will be same as other</mark>
+* <mark style="color:purple;background-color:purple;">**from langchain\_huggingface import HuggingFaceEmbeddings**</mark>
+* <mark style="color:purple;background-color:purple;">**Remaining will be same as other**</mark>
 * Hugging Face sentence-transformers is a Python framework for state-of-the-art sentence, text and image embeddings.
 * One of the embedding models is used in the HuggingFaceEmbeddings class.
 * We have also added an alias for SentenceTransformerEmbeddings for users who are more familiar with directly using that package.
