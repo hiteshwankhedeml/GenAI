@@ -4,20 +4,20 @@ coverY: 0
 
 # 🟢 What is GenAI?
 
-<mark style="color:purple;background-color:purple;">**AI:**</mark>
+AI:
 
-* <mark style="color:purple;background-color:purple;">**Build application that can perform its task without human intervention**</mark>
+* Build application that can perform its task without human intervention
 * Netflix recommendation system, Self driving car
 
-<mark style="color:purple;background-color:purple;">**ML:**</mark>
+ML:
 
-* <mark style="color:purple;background-color:purple;">**Statstool**</mark> to perform - Statistical analysis, visualization, prediction and forecasting
+* Statstool to perform - Statistical analysis, visualization, prediction and forecasting
 * We do this to understand the data
 
-<mark style="color:purple;background-color:purple;">**DL:**</mark>
+DL:
 
 * Subset of ML
-* <mark style="color:purple;background-color:purple;">**Was built to mimic human brain using multilayered neural network**</mark>
+* Was built to mimic human brain using multilayered neural network
   * ANN
   * CNN and object detection ⇒ Computer vision
   * RNN and its variants ⇒ Text related use cases / time series
