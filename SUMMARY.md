@@ -502,6 +502,7 @@
   * [🟡 2way - Code](speech-to-text/2way-code.md)
 * [JD Generation](jd-generation.md)
 * [Question Generation](question-generation.md)
+* [Keyword Extraction](keyword-extraction.md)
 * [Document Summarizer](document-summarizer/README.md)
   * [🟢 Motivation & Problem Statement](document-summarizer/motivation-and-problem-statement.md)
   * [🟢 First Prototype (Extractive - Tf-IDF)](document-summarizer/first-prototype-extractive-tf-idf.md)
