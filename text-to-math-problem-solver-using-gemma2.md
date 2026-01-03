@@ -113,13 +113,4 @@ if st.button("find my answer"):
     else:
         st.warning("Please enter the question")
 
-
-
-
-
-
-
-
-
-
 ```

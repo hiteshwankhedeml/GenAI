@@ -1,4 +1,4 @@
-# LangGraph - Code
+# 🟢 LangGraph - Code
 
 *   &#x20;
 
@@ -6,29 +6,30 @@
 
 <mark style="color:purple;background-color:purple;">**Code:**</mark>
 
-* **Create a class for agent state**
+* <mark style="color:purple;background-color:purple;">**Whenever we create a node, we also bind it will with a function which needs to be executed for that node**</mark>
+* <mark style="color:purple;background-color:purple;">**Create a class for agent state**</mark>
   * <mark style="color:purple;background-color:purple;">The State schema serves as the input schema for all Nodes and Edges in the graph.</mark>
-* **Create a class Agent:**
-  * **constructor:**
-    * **Initilize agent state**
-    * **Add llm node**
-    * **Add action node**
-    * **add condtional edge: if action exists ⇒ llm ⇒  action, else llm ⇒ END**
-      * **if llm response contains tools\_calls then it means action needs to be taken**
-    * **Regular edge : action ⇒ llm**
-    * **set entry point ⇒ llm**
-    * **graph.compile ⇒ This gives langchain runnable**
-    * **bind tools to the model**
-  * **exists\_action:**
-    * **Checks if the llm response contains tool call**
-  * **call\_openai:**
-    * **Get messages from agent state**
-    * **Invoke llm with messages**
-    * **Get the response**
-  * **take\_action:**
-    * **Take the message of the agent state**
-    * **Make the tool call**
-    * **Get the response back**
+* <mark style="color:purple;background-color:purple;">**Create a class Agent:**</mark>
+  * <mark style="color:purple;background-color:purple;">**constructor:**</mark>
+    * <mark style="color:purple;background-color:purple;">**Initilize graph state using agent state**</mark>
+    * <mark style="color:purple;background-color:purple;">**Add llm node**</mark>
+    * <mark style="color:purple;background-color:purple;">**Add action node**</mark>
+    * <mark style="color:purple;background-color:purple;">**add condtional edge: if action exists ⇒ llm ⇒  action, else llm ⇒ END**</mark>
+      * <mark style="color:purple;background-color:purple;">**if llm response contains tools\_calls then it means action needs to be taken**</mark>
+    * <mark style="color:purple;background-color:purple;">**Regular edge : action ⇒ llm**</mark>
+    * <mark style="color:purple;background-color:purple;">**set entry point ⇒ llm**</mark>
+    * <mark style="color:purple;background-color:purple;">**graph.compile ⇒ This gives langchain runnable**</mark>
+    * <mark style="color:purple;background-color:purple;">**bind tools to the model**</mark>
+  * <mark style="color:purple;background-color:purple;">**exists\_action:**</mark>
+    * <mark style="color:purple;background-color:purple;">**Checks if the llm response contains tool call**</mark>
+  * <mark style="color:purple;background-color:purple;">**call\_openai:**</mark>
+    * <mark style="color:purple;background-color:purple;">**Get messages from agent state**</mark>
+    * <mark style="color:purple;background-color:purple;">**Invoke llm with messages**</mark>
+    * <mark style="color:purple;background-color:purple;">**Get the response**</mark>
+  * <mark style="color:purple;background-color:purple;">**take\_action:**</mark>
+    * <mark style="color:purple;background-color:purple;">**Take the message of the agent state**</mark>
+    * <mark style="color:purple;background-color:purple;">**Make the tool call**</mark>
+    * <mark style="color:purple;background-color:purple;">**Get the response back**</mark>
 
 ```python
 from dotenv import load_dotenv

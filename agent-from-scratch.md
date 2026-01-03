@@ -1,6 +1,10 @@
 # 🟢 Agent From Scratch
 
 * <mark style="color:purple;background-color:purple;">**React = Reasoning + Action**</mark>
+  * <mark style="color:purple;background-color:purple;">**Reasoning**</mark>
+  * <mark style="color:purple;background-color:purple;">**Tool use**</mark>
+  * <mark style="color:purple;background-color:purple;">**Observation**</mark>
+  * <mark style="color:purple;background-color:purple;">**Iteration**</mark>
 * <mark style="color:purple;background-color:purple;">**LLM thinks about what to do and then takes action**</mark>
 * <mark style="color:purple;background-color:purple;">**Action is executed and observation is returned**</mark>&#x20;
 * <mark style="color:purple;background-color:purple;">**With that observation the LLM then repeats**</mark>

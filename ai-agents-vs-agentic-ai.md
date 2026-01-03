@@ -1,4 +1,11 @@
-# AI Agents vs Agentic AI
+# 🟢 AI Agents vs Agentic AI
+
+* <mark style="color:purple;background-color:purple;">**While the terms "agentic AI" and "AI agents" are often used together, there is a subtle difference.**</mark>&#x20;
+* [<mark style="color:purple;background-color:purple;">**AI agents**</mark>](https://cloud.google.com/discover/what-are-ai-agents) <mark style="color:purple;background-color:purple;">**are the building blocks of agentic AI. Think of AI agents as individual tools in a toolbox, while agentic AI is the coordinated use of those tools to build an entire house.**</mark>&#x20;
+* <mark style="color:purple;background-color:purple;">**While an AI agent might focus on a specific task, agentic AI employs multiple agents to handle complex workflows.**</mark>&#x20;
+* <mark style="color:purple;background-color:purple;">**Agentic AI acts as an overarching system that coordinates and manages these agents to achieve broader objectives.**</mark>
+
+
 
 **AI Agents:**
 

@@ -1,6 +1,11 @@
-# Human in the Loop
+# 🟢 Human in the Loop
 
 * To keep a tab on what agent is doing
+* We need to use checkpointer in this
+* During compile we can specify interrupt\_before or interrupt\_after which node
+* Graph will invoked with a thread it and it will interrupt for human input
+* Human input will be taken outside the system
+* After the input we will again invoke the graph with the same thread\_id and human input, and it will continue the process
 
 Code:
 

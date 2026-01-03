@@ -1,12 +1,12 @@
-# Agentic Search Tools
+# 🟢 Agentic Search Tools
 
-* If the agent sends a query to search tool, it would first understand the question and divide it into sub questions if needed
-* For each subquery, search tool will have to find the best source
-* It will get the results, rank and filter the results and result top-k results
+* <mark style="color:purple;background-color:purple;">**If the agent sends a query to search tool, it would first understand the question and divide it into sub questions if needed**</mark>
+* <mark style="color:purple;background-color:purple;">**For each subquery, search tool will have to find the best source**</mark>
+* <mark style="color:purple;background-color:purple;">**It will get the results, rank and filter the results and result top-k results**</mark>
 
-Code:
+<mark style="color:purple;background-color:purple;">**Code:**</mark>
 
-* The result returned is now how human would want it but its exactly how agents needs it
+* <mark style="color:purple;background-color:purple;">**The result returned is not how human would want it but its exactly how agents needs it**</mark>
 
 ```python
 ### Agentic Search

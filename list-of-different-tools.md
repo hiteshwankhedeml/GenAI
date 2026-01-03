@@ -1,5 +1,15 @@
 # 🟢 List of different tools
 
+<mark style="color:purple;background-color:purple;">**There are 100s of different tools for search, database, finance, productivity**</mark>
+
+
+
+<mark style="color:purple;background-color:purple;">**Built-in tools → description is implicit**</mark>
+
+<mark style="color:purple;background-color:purple;">**Custom tools → description is explicit and mandatory**</mark>
+
+
+
 **There are different types of Tools:**
 
 * <mark style="color:purple;background-color:purple;">**Search**</mark>

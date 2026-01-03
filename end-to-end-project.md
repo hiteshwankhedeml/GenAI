@@ -1,11 +1,11 @@
-# 🟢 End to End project
+# 🟢 End to End project - SQL
 
 * We can add instruction for vulnerability for SQL injection
 
 <mark style="color:purple;background-color:purple;">**Steps:**</mark>
 
 * <mark style="color:purple;background-color:purple;">Create sql db config</mark>
-* <mark style="color:purple;background-color:purple;">Initialize tool using SQLDatabaseToolkit by passing db and llm</mark>
+* <mark style="color:purple;background-color:purple;">Initialize tool using SQLDatabaseToolkit by passing</mark> <mark style="color:red;background-color:purple;">**db and llm**</mark>
 * <mark style="color:purple;background-color:purple;">Create agent using create\_sql\_agent</mark>
 
 ```python
