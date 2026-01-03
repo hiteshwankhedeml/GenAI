@@ -1,4 +1,8 @@
-# MultiModal RAG
+---
+hidden: true
+---
+
+# ✈️ MultiModal RAG
 
 * MultiModal ⇒ Text + Image
 * MultiModal LLM ⇒ Trained on text + images
