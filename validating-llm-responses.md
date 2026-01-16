@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ✈️ Validating LLM Responses
 
 * &#x20;

@@ -1,10 +1,10 @@
-# Pydantic model basics
+# 🟢 Pydantic model basics
 
-* We define a pydantic model class
-  * We define all the fields and their types&#x20;
-  * We can also define if any field is optional
-  * For int field we can also specify its range
-* If input json contains more fields than present in pydantic model, then it won't give error
+* <mark style="color:purple;background-color:purple;">**We define a pydantic model class**</mark>
+  * <mark style="color:purple;background-color:purple;">**We define all the fields and their types**</mark>&#x20;
+  * <mark style="color:purple;background-color:purple;">**We can also define if any field is optional**</mark>
+  * <mark style="color:purple;background-color:purple;">**For int field we can also specify its range**</mark>
+* <mark style="color:purple;background-color:purple;">**If input json contains more fields than present in pydantic model, then it won't give error**</mark>
 * it handles data coercion as well
   * If a field has been defined as character in model , and if we pass it as int then it will give error
   * If a field has been defined as int in model, and if pass it is character then it wont give error

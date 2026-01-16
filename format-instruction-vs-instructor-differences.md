@@ -1,4 +1,8 @@
-# Format Instruction vs Instructor - Differences
+---
+hidden: true
+---
+
+# ✈️ Format Instruction vs Instructor - Differences
 
 | Feature               | Format Instructions / PydanticOutputParser | Instructor API            |
 | --------------------- | ------------------------------------------ | ------------------------- |

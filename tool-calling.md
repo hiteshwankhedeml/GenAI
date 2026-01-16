@@ -1,4 +1,8 @@
-# Tool Calling
+---
+hidden: true
+---
+
+# ✈️ Tool Calling
 
 * We pass our query and make it generate a structured output
 * That output is passed to LLM

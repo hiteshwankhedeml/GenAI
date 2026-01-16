@@ -1,19 +1,19 @@
-# Introduction to Pydantic for LLM Workflows
+# 🟢 Introduction to Pydantic for LLM Workflows
 
 * The simplest way to get structured output is to ask for it in the prompt
 * This can be specified in json format
 * It can come pretty close to the specification, but not always perfect
-* With pydantic, we define data models, that specifies the structure and type of data expected
-* Emailstr is a special data type for email
-* Literal can only take one of the specified values
-* We can pass pydantic model along with the prompt to the LLM
+* <mark style="color:purple;background-color:purple;">**With pydantic, we define data models, that specifies the structure and type of data expected**</mark>
+* <mark style="color:purple;background-color:purple;">**Emailstr is a special data type for email**</mark>
+* <mark style="color:purple;background-color:purple;">**Literal can only take one of the specified values**</mark>
+* <mark style="color:purple;background-color:purple;">**We can pass pydantic model along with the prompt to the LLM**</mark>
 *
 
     <figure><img src=".gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
 
 
-There are 2 ways to validate the output:
+<mark style="color:purple;background-color:purple;">**There are 2 ways to validate the output:**</mark>
 
-* We get the LLM output ⇒ Pass to Pydantic model for validation ⇒ If there is an error, then it is passed to LLM for correction
-* We can also pass Prompt + Pydantic model to LLM, so that it knows what output is expected
+* <mark style="color:purple;background-color:purple;">**We get the LLM output ⇒ Pass to Pydantic model for validation ⇒ If there is an error, then it is passed to LLM for correction**</mark>
+* <mark style="color:purple;background-color:purple;">**We can also pass Prompt + Pydantic model to LLM, so that it knows what output is expected**</mark>

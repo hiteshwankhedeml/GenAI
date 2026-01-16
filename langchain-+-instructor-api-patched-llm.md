@@ -1,6 +1,6 @@
-# LangChain + Instructor API (Patched LLM)
+# 🟢 LangChain + Instructor API (Patched LLM)
 
-* &#x20;
+* <mark style="color:purple;background-color:purple;">**While initializing the llm we just need to use patch here, that's all**</mark>
 
 ```python
 from instructor import patch
