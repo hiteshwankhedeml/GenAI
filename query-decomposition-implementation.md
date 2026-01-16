@@ -1,4 +1,4 @@
-# Query Decomposition - Implementation
+# 🟢 Query Decomposition - Implementation
 
 Steps:
 

@@ -1,6 +1,6 @@
-# Query Expansion Technique
+# 🟢 Query Expansion Technique
 
-* To improve or reformulate the query to retrieve better, more relevant documents from the knowledge base
+* <mark style="color:purple;background-color:purple;">**To improve or reformulate the query to retrieve better, more relevant documents from the knowledge base**</mark>
 * Useful when:
   * The original query is short, ambiguous or under-specified
   * You want to broaden the scope to catch synonyms, related phrases or spelling variants

@@ -1,4 +1,8 @@
-# HyDE
+---
+hidden: true
+---
+
+# ✈️ HyDE
 
 * Hypothetical document embedding
 * Instead of embedding the users query directly, you first generate a hypothetical answer to the query using an LLM, and then embed that hypothetical document to search your vector store

@@ -8,7 +8,7 @@
 * <mark style="color:purple;background-color:purple;">**This can let go back to that state and resume in that state in future interactions**</mark>
 * <mark style="color:purple;background-color:purple;">**This is very important for long running applications**</mark>
 * <mark style="color:purple;background-color:purple;">**This has been achieved using checkpointer**</mark>
-* <mark style="color:purple;background-color:purple;">**Checkpointer checks the state after and between every nide**</mark>
+* <mark style="color:purple;background-color:purple;">**Checkpointer checks the state after and between every node**</mark>
 
 <mark style="color:purple;background-color:purple;">**Streaming:**</mark>
 

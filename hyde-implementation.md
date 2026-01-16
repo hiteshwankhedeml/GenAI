@@ -1,4 +1,8 @@
-# HyDE - Implementation
+---
+hidden: true
+---
+
+# ✈️ HyDE - Implementation
 
 Steps:
 

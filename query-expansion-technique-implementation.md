@@ -1,4 +1,4 @@
-# Query Expansion Technique Implementation
+# 🟢 Query Expansion Technique Implementation
 
 Steps:
 

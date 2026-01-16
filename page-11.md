@@ -1,4 +1,8 @@
-# End to End Project using Pinecone and LangChain
+---
+hidden: true
+---
+
+# ✈️ End to End Project using Pinecone and LangChain
 
 * Signup on pinecone
 * Initial 2 to 3 instances are free
