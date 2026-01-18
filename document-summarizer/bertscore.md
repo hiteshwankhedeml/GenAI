@@ -1,4 +1,8 @@
-# BERTScore
+---
+hidden: true
+---
+
+# ✈️ BERTScore
 
 BERTScore evaluates summaries by computing **semantic similarity** between candidate and reference using **contextual embeddings** from transformer models (e.g., BERT, RoBERTa).
 

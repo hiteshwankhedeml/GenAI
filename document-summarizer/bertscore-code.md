@@ -1,4 +1,8 @@
-# BERTScore - Code
+---
+hidden: true
+---
+
+# ✈️ BERTScore - Code
 
 * It uses bert-base-uncased by default
 * It uses transformer api for getting embeddings

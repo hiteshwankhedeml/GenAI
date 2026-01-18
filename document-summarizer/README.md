@@ -1,2 +1,2 @@
-# Document Summarizer
+# 🟢 Document Summarizer
 

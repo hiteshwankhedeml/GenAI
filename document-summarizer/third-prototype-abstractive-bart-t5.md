@@ -1,9 +1,9 @@
-# Third Prototype (Abstractive - BART/T5)
+# 🟢 Third Prototype (Abstractive - BART/T5)
 
 * **Generates new sentences**, rephrases, merges, shortens → closer to how humans summarize
 * Encoder–Decoder (like a seq2seq transformer)
 * Its pre-trained, we not fine tuned coz it requires GPU
-* **BART-large** → max **1024 tokens**
+* <mark style="color:purple;background-color:purple;">**BART-large**</mark> <mark style="color:purple;background-color:purple;"></mark><mark style="color:purple;background-color:purple;">→ max</mark> <mark style="color:purple;background-color:purple;"></mark><mark style="color:purple;background-color:purple;">**1024 tokens**</mark>
 * **T5-base** → max **512 tokens**
 * If your document > limit → you must **chunk** it
 * Break text into overlapping **chunks of 400–800 tokens**
