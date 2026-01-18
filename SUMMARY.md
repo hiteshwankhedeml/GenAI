@@ -31,6 +31,8 @@
 * [🟢 Prompt Engineering vs Fine Tuning vs RAG](prompt-engineering-vs-fine-tuning-vs-rag.md)
 * [🏁 ---------- 20 ----------](20.md)
 * [🟢 LangSmith](langsmith.md)
+* [🟢 LangServe](langserve.md)
+* [🟢 LangServe Code - 1](langserve-code-1.md)
 * [🟢 LangChain - Load Model](langchain-load-model.md)
 * [🟢 Document Structure](document-structure.md)
 * [🟢 Data Ingestion with Document Loaders](data-ingestion-with-document-loaders.md)
