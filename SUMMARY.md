@@ -84,6 +84,7 @@
 * [🟢 Simple GenAI app using Ollama](simple-genai-app-using-ollama.md)
 * [✈️ Tracking GenAI App using LangSmith](tracking-genai-app-using-langsmith.md)
 * [🟢 Basic RAG](basic-rag.md)
+* [🟢 Evaluate RAG](evaluate-rag.md)
 * [✈️ Difference between simple AI assistant and RAG](difference-between-simple-ai-assistant-and-rag.md)
 * [🟢 Components of RAG](components-of-rag.md)
 * [✈️ RAG Architecture](rag-architecture.md)
