@@ -7,7 +7,7 @@
 * Different tools will be given to the users
 *   &#x20;
 
-    <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 * We did not have to decide the sequence in which to call the tools
 *
 

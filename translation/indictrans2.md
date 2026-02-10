@@ -7,4 +7,4 @@
 * <mark style="color:purple;background-color:purple;">**It comes in multiple sizes, including a distilled 320M parameter version and larger high-capacity versions (\~1B+).**</mark>
 *
 
-    <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>

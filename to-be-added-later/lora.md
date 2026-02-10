@@ -25,7 +25,7 @@ Llama ⇒ Trained on transformer architecture
 * We add additional weights
 *
 
-    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * In self attention, we have 3 matrix - Query, Key and Value
 * Suppose we want to change on Qproj and Kproj
 * So on top of this we will add extra weights
