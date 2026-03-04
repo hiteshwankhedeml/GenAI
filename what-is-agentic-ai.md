@@ -1,4 +1,9 @@
-# What is Agentic AI
+# 🟢 What is Agentic AI
+
+* <mark style="color:purple;background-color:purple;">**AI systems that can act autonomously to achieve goals, not just respond to prompts**</mark>
+* <mark style="color:purple;background-color:purple;">**It can plan, decide, act, observe results, and iterate without constant human input**</mark>
+
+
 
 **Non Agentic workflow:**
 
@@ -8,7 +13,7 @@
 
 **Agentic workflow:**
 
-* Process where an LLM based app executes multiple steps to complete a task&#x20;
+* <mark style="color:purple;background-color:purple;">**Process where an LLM based app executes multiple steps to complete a task**</mark>&#x20;
 * Write an essay outline on topic X ⇒ LLM
 * Do you need any web research ⇒ LLM + Websearch
 * Write a first draft ⇒ LLM

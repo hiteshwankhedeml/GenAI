@@ -1,4 +1,8 @@
-# Task Decomposition
+# 🟢 Task Decomposition
+
+<mark style="color:purple;background-color:purple;">**Decompose the task to be achieved into multiple steps**</mark>
+
+
 
 **Writing an Essay:**
 

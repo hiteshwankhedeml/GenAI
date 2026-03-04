@@ -1,4 +1,4 @@
-# Agentic AI Applications
+# 🟢 Agentic AI Applications
 
 **Invoice Processing workflow:**
 
@@ -44,4 +44,3 @@
 * Flight search
 * It navigates the site
 * It can also go to google to check different sites
-*
