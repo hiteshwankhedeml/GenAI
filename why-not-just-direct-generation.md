@@ -1,4 +1,8 @@
-# Why not just Direct Generation
+---
+hidden: true
+---
+
+# ✈️ Why not just Direct Generation
 
 * Direct Generation:
   *

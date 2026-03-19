@@ -1,4 +1,8 @@
-# Multi Agentic Workflows
+---
+hidden: true
+---
+
+# ✈️ Multi Agentic Workflows
 
 * Some tasks require more than 1 person!
 *

@@ -1,5 +1,6 @@
-# Tips for Error Analysis
+# 🟢 Tips for Error Analysis
 
-* Develop a habit of looking at traces
-* Carry out error analysis to figure out what components performed poorly, leading to a poor final output
-* Use error analysis output to decide where to focus effort
+* <mark style="color:purple;background-color:purple;">**Develop a habit of looking at traces**</mark>
+* <mark style="color:purple;background-color:purple;">**Carry out error analysis to figure out what components performed poorly, leading to a poor final output**</mark>
+* <mark style="color:purple;background-color:purple;">**Use error analysis output to decide where to focus effort**</mark>
+

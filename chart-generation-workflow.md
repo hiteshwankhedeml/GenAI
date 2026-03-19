@@ -1,4 +1,4 @@
-# Chart Generation Workflow
+# 🟢 Chart Generation Workflow
 
 * Data having date, price, coffee
 *

@@ -1,11 +1,11 @@
 # 🟢 Agentic AI Applications
 
-**Invoice Processing workflow:**
+<mark style="color:purple;background-color:purple;">**Invoice Processing workflow:**</mark>
 
 * Business might require fields like Billers, Billers Address, Amount Due, Due Date
 * **Steps:**
   * PDF to Text
-  * LLM will look at pdf and check if its invoice or not and then extract the fields
+  * <mark style="color:purple;background-color:purple;">**LLM will look at pdf and check if its invoice or not and then extract the fields**</mark>
   * Save in DB
   *   Here there is a clear workflow to be followed
 
@@ -13,7 +13,7 @@
 
 
 
-**Responding to Customer email:**
+<mark style="color:purple;background-color:purple;">**Responding to Customer email:**</mark>
 
 * Extract key information
 * Find relevant customer records

@@ -1,4 +1,8 @@
-# Code - Email Assistant Workflow
+---
+hidden: true
+---
+
+# ✈️ Code - Email Assistant Workflow
 
 * &#x20;email\_tools.py ⇒ contains function related to mail sending
 

@@ -1,6 +1,10 @@
-# Tool Call
+---
+hidden: true
+---
 
-* &#x20;The function get\_current\_time is automatically described to the LLM to enable it to decide when to use it
+# ✈️ Tool Call
+
+* The function get\_current\_time is automatically described to the LLM to enable it to decide when to use it
 *   &#x20;
 
     <figure><img src=".gitbook/assets/{ADA307E9-3CA9-4F19-B97A-4D0E88DD380F} (1).png" alt=""><figcaption></figcaption></figure>

@@ -1,4 +1,8 @@
-# Code - Customer Service Agent
+---
+hidden: true
+---
+
+# ✈️ Code - Customer Service Agent
 
 * &#x20;
 

@@ -1,4 +1,8 @@
-# Code - Marketing Research Agent
+---
+hidden: true
+---
+
+# ✈️ Code - Marketing Research Agent
 
 * &#x20;
 

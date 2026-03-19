@@ -1,6 +1,10 @@
-# Code - Chart Generation
+---
+hidden: true
+---
 
-* &#x20;Notice that the code is wrapped between `<execute_python>` tags. These tags make it easy to automatically extract and run the code
+# ✈️ Code - Chart Generation
+
+* Notice that the code is wrapped between `<execute_python>` tags. These tags make it easy to automatically extract and run the code
 * Reflection ⇒ Provide the chart to the LLM, Analyze the chart visually, Generate feedback
 *
 

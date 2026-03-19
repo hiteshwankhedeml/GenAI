@@ -1,4 +1,4 @@
-# Communication patterns for multi agents system
+# 🟢 Communication patterns for multi agents system
 
 * **Linear pattern:**
 *

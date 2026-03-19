@@ -1,4 +1,8 @@
-# Error Analysis and prioritizing next steps
+---
+hidden: true
+---
+
+# ✈️ Error Analysis and prioritizing next steps
 
 * Research agent was missing some points were missing points which human would have made
 * Possible causes

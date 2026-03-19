@@ -1,4 +1,8 @@
-# Code - Improving SQL Generation with Reflection
+---
+hidden: true
+---
+
+# ✈️ Code - Improving SQL Generation with Reflection
 
 * &#x20;[aisuite repository](https://github.com/andrewyng/aisuite) that makes it easy to call LLMs hosted by different model providers
 *

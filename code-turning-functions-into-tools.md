@@ -1,4 +1,8 @@
-# Code - Turning Functions into Tools
+---
+hidden: true
+---
+
+# ✈️ Code - Turning Functions into Tools
 
 * &#x20;
 

@@ -1,4 +1,8 @@
-# Creating and executing LLM plans
+---
+hidden: true
+---
+
+# ✈️ Creating and executing LLM plans
 
 * Formatting plan as json
 * It allows downstream code to parse what exactly are the steps of the plan in relatively clear and unambiguous ways

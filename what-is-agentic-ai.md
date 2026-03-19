@@ -1,7 +1,7 @@
 # 🟢 What is Agentic AI
 
-* <mark style="color:purple;background-color:purple;">**AI systems that can act autonomously to achieve goals, not just respond to prompts**</mark>
-* <mark style="color:purple;background-color:purple;">**It can plan, decide, act, observe results, and iterate without constant human input**</mark>
+* <mark style="color:$danger;background-color:purple;">**AI systems that can act autonomously to achieve goals, not just respond to prompts**</mark>
+* <mark style="color:$danger;background-color:purple;">**It can plan, decide, act, observe results, and iterate without constant human input**</mark>
 
 
 

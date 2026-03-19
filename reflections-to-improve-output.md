@@ -1,11 +1,11 @@
-# Reflections to improve output
+# 🟢 Reflections to improve output
 
-* Reflect output to improve the output
-* We can use the same LLM with different prompt to reflect the work
+* <mark style="color:purple;background-color:purple;">**Reflect output to improve the output**</mark>
+* <mark style="color:purple;background-color:purple;">**We can use the same LLM with different prompt to reflect the work**</mark>
 *
 
     <figure><img src=".gitbook/assets/{8A01A11B-64E5-46A0-A102-D4D1246D4D09}.png" alt=""><figcaption></figcaption></figure>
-* We can also use different models for reflection
+* <mark style="color:purple;background-color:purple;">**We can also use different models for reflection**</mark>
 * We can use a reasoning model
 *
 
