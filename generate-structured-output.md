@@ -1,4 +1,8 @@
-# 🟢 Generate Structured Output
+---
+hidden: true
+---
+
+# ✈️ Generate Structured Output
 
 * To have control over the generated output json structure
 

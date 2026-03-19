@@ -1,4 +1,8 @@
-# 🟢 Pydantic Output parser
+---
+hidden: true
+---
+
+# ✈️ Pydantic Output parser
 
 * For Validation
 * <mark style="color:purple;background-color:purple;">**We want to apply more structured output with conditions**</mark>

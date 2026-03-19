@@ -1,4 +1,8 @@
-# Tool Calling Code - LangChain
+---
+hidden: true
+---
+
+# ✈️ Tool Calling Code - LangChain
 
 **Pydantic’s role**
 

@@ -1,4 +1,8 @@
-# 🔴 Tool Calling Code
+---
+hidden: true
+---
+
+# ✈️ Tool Calling Code
 
 * &#x20;Study this code later
 

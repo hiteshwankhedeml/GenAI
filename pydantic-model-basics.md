@@ -1,4 +1,8 @@
-# 🟢 Pydantic model basics
+---
+hidden: true
+---
+
+# ✈️ Pydantic model basics
 
 * <mark style="color:purple;background-color:purple;">**We define a pydantic model class**</mark>
   * <mark style="color:purple;background-color:purple;">**We define all the fields and their types**</mark>&#x20;

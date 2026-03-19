@@ -1,6 +1,10 @@
-# Tool Calling
+---
+hidden: true
+---
 
-* &#x20;We will be taking user input and validate against UserInput model
+# ✈️ Tool Calling
+
+* We will be taking user input and validate against UserInput model
 * We will pass this to LLM and ask it to return valid instance of CustomerQuery Model
 * This will be passed to another LLM with tool definitions
   *

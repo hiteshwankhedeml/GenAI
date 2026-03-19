@@ -1,6 +1,6 @@
 # 🟢 Code - Research and write article
 
-* &#x20;<mark style="color:purple;background-color:purple;">**We can use different LLM, bydefault it use openai gpt 4**</mark>
+* <mark style="color:purple;background-color:purple;">**We can use different LLM, bydefault it use openai gpt 4**</mark>
 * Crew puts agents and tasks together so that they operate as an unit
 * <mark style="color:purple;background-color:purple;">**Bydefault crew executes tasks sequentially, so we need to give the correct order**</mark>
 * You should focus on goals and expectations
@@ -12,12 +12,12 @@ Creating Agent:
 * Define your Agents, and provide them a `role`, `goal` and `backstory`.
 * It has been seen that LLMs perform better when they are role playing
 
-<mark style="color:purple;background-color:purple;">**Steps:**</mark>
+<mark style="color:$danger;background-color:purple;">**Steps:**</mark>
 
-* <mark style="color:purple;background-color:purple;">We define an agent, we specify it's role, goal and backstory, we also specify if it can delegate</mark>
-* <mark style="color:purple;background-color:purple;">We create Task by specifying Task description and expected output</mark>
-* <mark style="color:purple;background-color:purple;">We define crew by specifying agents and their tasks</mark>
-* <mark style="color:purple;background-color:purple;">Crew kick off</mark>
+* <mark style="color:$danger;background-color:purple;">We define an agent, we specify it's role, goal and backstory, we also specify if it can delegate</mark>
+* <mark style="color:$danger;background-color:purple;">We create Task by specifying Task description and expected output</mark>
+* <mark style="color:$danger;background-color:purple;">We define crew by specifying agents and their tasks</mark>
+* <mark style="color:$danger;background-color:purple;">Crew kick off</mark>
 
 ```python
 !pip install crewai==0.28.8 crewai_tools==0.1.6 langchain_community==0.0.29
