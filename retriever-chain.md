@@ -1,4 +1,8 @@
-# 🟢 Retriever Chain
+---
+hidden: true
+---
+
+# ✈️ Retriever Chain
 
 * An interface to ask vector store anything
 * <mark style="color:purple;background-color:purple;">**Create retrieval chain will combine retriever and document chain together**</mark>

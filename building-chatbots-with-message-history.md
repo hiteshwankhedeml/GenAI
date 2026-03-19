@@ -1,4 +1,8 @@
-# 🟢 Building Chatbots with Message History
+---
+hidden: true
+---
+
+# ✈️ Building Chatbots with Message History
 
 * We will be using Groq API here
 * Human message means its a user message

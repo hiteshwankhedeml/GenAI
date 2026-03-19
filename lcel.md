@@ -1,4 +1,8 @@
-# 🟢 LCEL
+---
+hidden: true
+---
+
+# ✈️ LCEL
 
 * <mark style="color:purple;background-color:purple;">**Chain is a pipeline that connects components like Prompt → LLM → Output.**</mark>
 * It defines how input flows through the system to produce an output.

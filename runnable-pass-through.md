@@ -1,4 +1,8 @@
-# 🟢 Runnable Pass Through
+---
+hidden: true
+---
+
+# ✈️ Runnable Pass Through
 
 * <mark style="color:purple;background-color:purple;">**`RunnablePassthrough`**</mark><mark style="color:purple;background-color:purple;">**&#x20;**</mark><mark style="color:purple;background-color:purple;">**simply returns the input as the output without modification.**</mark>
 * <mark style="color:purple;background-color:purple;">**Useful when you want to forward data through a chain without changing it.**</mark>

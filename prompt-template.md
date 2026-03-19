@@ -1,4 +1,8 @@
-# 🟢 Prompt Template
+---
+hidden: true
+---
+
+# ✈️ Prompt Template
 
 * <mark style="color:purple;background-color:purple;">**We define template with {placeholders} and also specify this placeholders in input\_varoables**</mark>
 * <mark style="color:purple;background-color:purple;">**When invoking, we pass the values of this placeholders**</mark>

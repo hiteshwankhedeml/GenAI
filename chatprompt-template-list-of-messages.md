@@ -1,4 +1,8 @@
-# 🟢 ChatPrompt Template - List of Messages
+---
+hidden: true
+---
+
+# ✈️ ChatPrompt Template - List of Messages
 
 * <mark style="color:purple;background-color:purple;">**In this we pass list of messages to chatprompt template**</mark>
 * <mark style="color:purple;background-color:purple;">**When we invoke the prompt we pass the values of the placeholders**</mark>

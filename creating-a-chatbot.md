@@ -1,4 +1,8 @@
-# 🟢 Creating a Chatbot
+---
+hidden: true
+---
+
+# ✈️ Creating a Chatbot
 
 * <mark style="color:purple;background-color:purple;">**Notice how chathistory is getting saved here in list and also how entire history is being passed to LLM in invoke**</mark>
 

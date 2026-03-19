@@ -1,4 +1,8 @@
-# 🟢 Types of RAG
+---
+hidden: true
+---
+
+# ✈️ Types of RAG
 
 * <mark style="color:purple;background-color:purple;">**Simple RAG**</mark>
 * <mark style="color:purple;background-color:purple;">**Multimodal RAG**</mark>

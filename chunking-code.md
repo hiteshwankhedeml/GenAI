@@ -1,4 +1,8 @@
-# 🟢 Chunking - Code
+---
+hidden: true
+---
+
+# ✈️ Chunking - Code
 
 <mark style="color:purple;background-color:purple;">**Steps:**</mark>
 

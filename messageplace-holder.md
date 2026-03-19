@@ -1,4 +1,8 @@
-# 🟢 MessagePlace Holder
+---
+hidden: true
+---
+
+# ✈️ MessagePlace Holder
 
 * <mark style="color:purple;background-color:purple;">**`MessagePlaceholder`**</mark><mark style="color:purple;background-color:purple;">**&#x20;**</mark><mark style="color:purple;background-color:purple;">**= placeholder inside prompt templates**</mark>
 * <mark style="color:purple;background-color:purple;">**Used to inject runtime messages (e.g., chat history, context)**</mark>

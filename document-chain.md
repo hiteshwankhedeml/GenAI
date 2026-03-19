@@ -1,4 +1,8 @@
-# 🟢 Document Chain
+---
+hidden: true
+---
+
+# ✈️ Document Chain
 
 * [https://api.python.langchain.com/en/latest/chains/langchain.chains.combine\_documents.stuff.create\_stuff\_documents\_chain.html](https://api.python.langchain.com/en/latest/chains/langchain.chains.combine_documents.stuff.create_stuff_documents_chain.html)
 * <mark style="color:purple;background-color:purple;">**Retriever queries the VectorDB to get the most relevant documents for your query.**</mark>

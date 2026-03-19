@@ -1,4 +1,8 @@
-# 🟢 LangServe Code - 1
+---
+hidden: true
+---
+
+# ✈️ LangServe Code - 1
 
 * uvicorn app:app --reload
 * endpoints exposed

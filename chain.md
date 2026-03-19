@@ -1,6 +1,6 @@
 # 🟢 Chain
 
-* <mark style="color:purple;background-color:purple;">**A Chain is a modular pipeline that combines multiple components (like prompts, LLMs, retrievers) into a sequential flow.**</mark>
+* <mark style="color:purple;background-color:purple;">**A Chain is a modular pipeline that**</mark>**&#x20;**<mark style="color:$danger;background-color:purple;">**combines multiple components**</mark>**&#x20;**<mark style="color:purple;background-color:purple;">**(like prompts, LLMs, retrievers) into a sequential flow.**</mark>
 * <mark style="color:purple;background-color:purple;">**Chains manage how input data passes through each step to produce the final output.**</mark>
 * Commonly used to structure complex workflows in LLM applications (e.g., question answering, summarization, translation).
 * Enables reusability and easier debugging by breaking tasks into smaller steps.

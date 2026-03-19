@@ -1,4 +1,8 @@
-# 🟢 Basic RAG
+---
+hidden: true
+---
+
+# ✈️ Basic RAG
 
 * We design prompt ⇒ Here we are using chatprompttemplate
 * We need to add context to it

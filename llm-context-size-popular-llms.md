@@ -1,4 +1,8 @@
-# 🟢 LLM Context Size - Popular LLMs
+---
+hidden: true
+---
+
+# ✈️ LLM Context Size - Popular LLMs
 
 * <mark style="color:purple;background-color:purple;">**Varies from 4k till 1M (Gemini)**</mark>
 

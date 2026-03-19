@@ -1,4 +1,8 @@
-# 🟢 Building important Components of LangChain
+---
+hidden: true
+---
+
+# ✈️ Building important Components of LangChain
 
 * <mark style="color:purple;background-color:purple;">**Notice how values of placeholders has been passed in invoke using chaining**</mark>
 * Since we have already set environment variables, so we dont need to explicity pass key for calling the API

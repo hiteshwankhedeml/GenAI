@@ -1,4 +1,8 @@
-# 🟢 HF - LangChain - Simple Chain
+---
+hidden: true
+---
+
+# ✈️ HF - LangChain - Simple Chain
 
 * <mark style="color:purple;background-color:purple;">**We need to initiate huggingface pipeline**</mark>
 * <mark style="color:purple;background-color:purple;">**We can pass this pipeline to langchain-huggingface interface**</mark>

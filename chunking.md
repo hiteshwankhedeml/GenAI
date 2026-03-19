@@ -1,4 +1,4 @@
-# 🔴 Chunking
+# 🟢 Chunking
 
 * Very important preprocessing technique
 * We can store entire data in vectorDB without chunking

@@ -1,4 +1,8 @@
-# 🟢 Getting started with Groq API
+---
+hidden: true
+---
+
+# ✈️ Getting started with Groq API
 
 * <mark style="color:purple;background-color:purple;">**Nothing much here, just we have used groq in this exercise**</mark>
 * LCEL is used to chain components together

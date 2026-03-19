@@ -1,4 +1,8 @@
-# 🟢 LangServe
+---
+hidden: true
+---
+
+# ✈️ LangServe
 
 * <mark style="color:purple;background-color:purple;">**Deploys LangChain chains and agents as REST APIs**</mark>
 * <mark style="color:purple;background-color:purple;">**Built on FastAPI with production-ready endpoints**</mark>

@@ -1,8 +1,4 @@
----
-hidden: true
----
-
-# 🔴 Conversational QnA Chatbot with message history
+# ✈️ Conversational QnA Chatbot with message history
 
 * In many Q\&A applications we want to allow the user to have a back-and-forth conversation, meaning the application needs some sort of "memory" of past questions and answers, and some logic for incorporating those into its current thinking.
 * 2 approaches:

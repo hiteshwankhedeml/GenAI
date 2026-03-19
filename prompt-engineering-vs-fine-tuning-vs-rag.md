@@ -1,4 +1,8 @@
-# 🟢 Prompt Engineering vs Fine Tuning vs RAG
+---
+hidden: true
+---
+
+# ✈️ Prompt Engineering vs Fine Tuning vs RAG
 
 <figure><img src=".gitbook/assets/{027927BE-EEE1-4BAB-8A8B-B3B41DCD24B7}.png" alt=""><figcaption></figcaption></figure>
 
