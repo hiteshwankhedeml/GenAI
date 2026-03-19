@@ -1,4 +1,8 @@
-# 🟢 HuggingFace
+---
+hidden: true
+---
+
+# ✈️ HuggingFace
 
 * [https://huggingface.co/](https://huggingface.co/)
 * In Docs

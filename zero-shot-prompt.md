@@ -1,4 +1,8 @@
-# 🟢 Zero Shot Prompt
+---
+hidden: true
+---
+
+# ✈️ Zero Shot Prompt
 
 * <mark style="color:purple;background-color:purple;">**In zero-shot prompting, the model receives no examples — only a clear instruction.**</mark>
 * <mark style="color:purple;background-color:purple;">**Relies on the model’s pretraining to understand and complete the task.**</mark>

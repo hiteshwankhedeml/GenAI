@@ -1,4 +1,8 @@
-# 🟢 Chain of Thoughts
+---
+hidden: true
+---
+
+# ✈️ Chain of Thoughts
 
 * <mark style="color:purple;background-color:purple;">**CoT prompting is a technique where you prompt a language model to reason step-by-step before giving the final answer.**</mark>
 * This is done by adding a **simple cue phrase** like "Let's think step by step," which encourages the model to **break down the problem logically**.
@@ -60,8 +64,6 @@ So the train travels 120 km.
 | ❌ Without CoT | “If a pen costs $2 and I buy 3 pens and a notebook for $5, what’s the total?” | “11”                                 |
 | ✅ With CoT    | “Let’s solve this step by step.”                                              | “3 pens at $2 = $6. $6 + $5 = $11.”  |
 
-
-
 ***
 
 #### 🔁 Summary: Why Use CoT?
@@ -70,4 +72,3 @@ So the train travels 120 km.
 * Improves accuracy on **multi-step problems**.
 * Makes outputs more **interpretable and trustworthy**.
 * Simple to implement by **adding a reasoning cue** in the prompt.
-

@@ -1,4 +1,8 @@
-# 🟢 Few- Shot Prompt
+---
+hidden: true
+---
+
+# ✈️ Few- Shot Prompt
 
 * <mark style="color:purple;background-color:purple;">**Few-shot prompting involves giving a few input-output examples to the language model inside the prompt.**</mark>
 * <mark style="color:purple;background-color:purple;">**The model learns the pattern from these examples and completes a new input accordingly.**</mark>
