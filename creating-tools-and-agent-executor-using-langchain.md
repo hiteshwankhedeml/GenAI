@@ -1,4 +1,8 @@
-# 🟢 Creating tools and Agent Executor using LangChain
+---
+hidden: true
+---
+
+# ✈️ Creating tools and Agent Executor using LangChain
 
 * Tool will be doing some functionality
 * When we want to use we need to use API wrapper

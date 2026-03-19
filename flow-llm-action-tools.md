@@ -1,4 +1,8 @@
-# 🟢 Flow - LLM, Action, Tools
+---
+hidden: true
+---
+
+# ✈️ Flow - LLM, Action, Tools
 
 ```sql
 User Query

@@ -1,4 +1,8 @@
-# 🟢 List of different tools
+---
+hidden: true
+---
+
+# ✈️ List of different tools
 
 <mark style="color:purple;background-color:purple;">**There are 100s of different tools for search, database, finance, productivity**</mark>
 

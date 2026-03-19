@@ -1,4 +1,8 @@
-# 🟢 SQL Toolkit - Flow
+---
+hidden: true
+---
+
+# ✈️ SQL Toolkit - Flow
 
 ```
 User

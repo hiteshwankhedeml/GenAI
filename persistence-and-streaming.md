@@ -2,12 +2,12 @@
 
 * <mark style="color:purple;background-color:purple;">**For longer running tasks, persistence and streaming are very important**</mark>
 
-<mark style="color:purple;background-color:purple;">**Persistence:**</mark>
+<mark style="color:$danger;background-color:purple;">**Persistence:**</mark>
 
-* <mark style="color:purple;background-color:purple;">**Keep around the state of an agent at a particular point in time**</mark>
-* <mark style="color:purple;background-color:purple;">**This can let go back to that state and resume in that state in future interactions**</mark>
+* <mark style="color:$danger;background-color:purple;">**Keep around the state of an agent at a particular point in time**</mark>
+* <mark style="color:$danger;background-color:purple;">**This can let go back to that state and resume in that state in future interactions**</mark>
 * <mark style="color:purple;background-color:purple;">**This is very important for long running applications**</mark>
-* <mark style="color:purple;background-color:purple;">**This has been achieved using checkpointer**</mark>
+* <mark style="color:$danger;background-color:purple;">**This has been achieved using checkpointer**</mark>
 * <mark style="color:purple;background-color:purple;">**Checkpointer checks the state after and between every node**</mark>
 
 <mark style="color:purple;background-color:purple;">**Streaming:**</mark>
@@ -18,8 +18,8 @@
 
 <mark style="color:purple;background-color:purple;">**Code:**</mark>
 
-* <mark style="color:purple;background-color:purple;">**Create a checkpoint of sqlite with inmemory**</mark>
-* <mark style="color:purple;background-color:purple;">**When you compile add checkpointer**</mark>
+* <mark style="color:$danger;background-color:purple;">**Create a checkpoint of sqlite with inmemory**</mark>
+* <mark style="color:$danger;background-color:purple;">**When you compile add checkpointer**</mark>
 * <mark style="color:purple;background-color:purple;">**During graph.stream ⇒ pass human message and thread id**</mark>
 * <mark style="color:purple;background-color:purple;">**using thread different coversation can be managed**</mark>
 * <mark style="color:purple;background-color:purple;">**We can also stream tokens, for that we will have to use async checkpoint and astream**</mark>

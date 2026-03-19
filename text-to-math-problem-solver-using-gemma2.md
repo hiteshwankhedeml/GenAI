@@ -1,4 +1,8 @@
-# 🟢 Text to Math Problem Solver using Gemma2
+---
+hidden: true
+---
+
+# ✈️ Text to Math Problem Solver using Gemma2
 
 <mark style="color:purple;background-color:purple;">**Steps:**</mark>
 

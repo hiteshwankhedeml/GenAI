@@ -1,6 +1,6 @@
 # 🟢 Introduction
 
-* <mark style="color:purple;background-color:purple;">**To generate structured output**</mark>
+* <mark style="color:$danger;background-color:purple;">**To generate structured output**</mark>
 * <mark style="color:purple;background-color:purple;">**Data validation**</mark>
 *
 

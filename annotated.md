@@ -1,4 +1,8 @@
-# 🟢 Annotated
+---
+hidden: true
+---
+
+# ✈️ Annotated
 
 * `Annotated` is from Python’s `typing` module.
 * <mark style="color:purple;background-color:purple;">**Lets you attach metadata to a type without changing the type itself.**</mark>

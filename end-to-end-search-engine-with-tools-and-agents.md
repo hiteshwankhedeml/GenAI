@@ -1,4 +1,8 @@
-# 🟢 End to End search engine with tools and agents
+---
+hidden: true
+---
+
+# ✈️ End to End search engine with tools and agents
 
 <mark style="color:purple;background-color:purple;">**Steps:**</mark>
 

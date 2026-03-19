@@ -1,4 +1,8 @@
-# 🟢 End to End project - SQL
+---
+hidden: true
+---
+
+# ✈️ End to End project - SQL
 
 * We can add instruction for vulnerability for SQL injection
 

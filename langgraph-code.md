@@ -1,4 +1,8 @@
-# 🟢 LangGraph - Code
+---
+hidden: true
+---
+
+# ✈️ LangGraph - Code
 
 *   &#x20;
 

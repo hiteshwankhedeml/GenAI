@@ -13,15 +13,15 @@
 
 <mark style="color:purple;background-color:purple;">**Core Concepts**</mark>
 
-* <mark style="color:purple;background-color:purple;">**Nodes: Agents or functions**</mark>
-* <mark style="color:purple;background-color:purple;">**Edges: connect nodes**</mark>
-* <mark style="color:purple;background-color:purple;">**Conditional edges: Decisions**</mark>
+* <mark style="color:$danger;background-color:purple;">**Nodes: Agents or functions**</mark>
+* <mark style="color:$danger;background-color:purple;">**Edges: connect nodes**</mark>
+* <mark style="color:$danger;background-color:purple;">**Conditional edges: Decisions**</mark>
 *
 
     <figure><img src=".gitbook/assets/{6974601E-7B9D-4780-B5DD-6F70729DBF68}.png" alt=""><figcaption></figcaption></figure>
-* Agent state is accessible to all parts of the graph
-* It is local to the graph
-* Can be stored in a persistent layer
+* <mark style="color:$danger;background-color:purple;">**Agent state is accessible to all parts of the graph**</mark>
+* <mark style="color:purple;background-color:purple;">**It is local to the graph**</mark>
+* <mark style="color:purple;background-color:purple;">**Can be stored in a persistent layer**</mark>
 *
 
     <figure><img src=".gitbook/assets/{84555497-D3BA-4FBC-8DF1-FE1F4C167577}.png" alt=""><figcaption></figcaption></figure>
