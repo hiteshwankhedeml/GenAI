@@ -13,4 +13,4 @@
 11. **Final Response:** Claude formulates a final answer using the repository data
 12. **User Gets Answer:** Your server delivers Claude's response back to the user
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>

@@ -7,7 +7,7 @@ hidden: true
 * Some tasks require more than 1 person!
 *
 
-    <figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * Example: Marketing team
 *
 
