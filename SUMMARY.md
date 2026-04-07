@@ -261,6 +261,8 @@
 * [What is claude](what-is-claude.md)
 * [First conversation with claude](first-conversation-with-claude.md)
 * [Getting better results](getting-better-results.md)
+* [Claude desktop app: Chat, Cowork, Code](claude-desktop-app-chat-cowork-code.md)
+* [Page 2](page-2.md)
 * [End of ----- Claude 101 -----](end-of-claude-101.md)
 * [🏁 ---------- END ----------](end.md)
 * [----- Document AI: From OCR to Agentic Doc Extraction -----](document-ai-from-ocr-to-agentic-doc-extraction.md)
