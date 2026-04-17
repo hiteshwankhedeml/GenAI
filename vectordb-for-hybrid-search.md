@@ -5,5 +5,6 @@
 * Qdrant: Payload scoring + vectors, fast, open-source.
 * Milvus: Scalar filtering + vectors, manual hybrid, open-source.
 * Redis (Redisearch): Vector + BM25, manual hybrid logic, low latency.
-* ElasticSearch (k-NN plugin): BM25 + vectors, text-focused, moderate vector performance.
+* <mark style="color:$danger;">**ElasticSearch (k-NN plugin):**</mark> BM25 + vectors, text-focused, moderate vector performance.
 * OpenSearch: BM25 + vectors, ElasticSearch fork, open-source.
+

@@ -1,4 +1,8 @@
-# LangGraph Introduction - Code
+---
+hidden: true
+---
+
+# 🟡 LangGraph Introduction - Code
 
 * Using LangGraph we can do orchestration
 * Orchestration means to create pipeline, to connect different components

@@ -1,8 +1,8 @@
 # 🟢 Prompt
 
-* <mark style="color:purple;background-color:purple;">**System Message - For the behaviour of the LLM**</mark>
-* <mark style="color:purple;background-color:purple;">**Human Message -**</mark>&#x20;
-* <mark style="color:purple;background-color:purple;">**AI Message -**</mark>&#x20;
+* <mark style="color:$danger;background-color:purple;">**System Message - For the behaviour of the LLM**</mark>
+* <mark style="color:$danger;background-color:purple;">**Human Message -**</mark>&#x20;
+* <mark style="color:$danger;background-color:purple;">**AI Message -**</mark>&#x20;
 
 ```python
 from langchain_core.messages import SystemMessage,HumanMessage,AIMessage

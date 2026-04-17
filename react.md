@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ✈️ ReACT
 
 Act: Let the model call the specific tools

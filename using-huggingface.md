@@ -1,4 +1,8 @@
-# 🟢 Using Huggingface
+---
+hidden: true
+---
+
+# ✈️ Using Huggingface
 
 * We will be using huggingfaces spaces
 * <mark style="color:purple;background-color:purple;">**Create a new space ⇒ Select CPU and done**</mark>

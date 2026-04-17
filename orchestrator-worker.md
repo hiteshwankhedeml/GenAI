@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Orchestrator - Worker
 
 * In the orchestrator-workers workflow, a central LLM dynamically breaks down tasks, delegates them to worker LLMs, and synthesizes their results.

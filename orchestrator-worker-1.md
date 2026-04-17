@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Orchestrator - Worker
 
 * Because orchestrator-worker workflows are common, LangGraph has the Send API to support this.

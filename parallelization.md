@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Parallelization
 
 * With parallelization, LLMs work simultaneously on a task:

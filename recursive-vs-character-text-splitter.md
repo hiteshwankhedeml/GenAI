@@ -1,7 +1,7 @@
 # 🟠 Recursive vs Character Text Splitter
 
-* <mark style="color:purple;background-color:purple;">**RecursiveCharacterTextSplitter respects paragraph and sentence boundaries and packs as much as fits into chunk size without breaking sentences.**</mark>
-* <mark style="color:purple;background-color:purple;">**CharacterTextSplitter splits strictly by character count using the separator, which can split sentences across chunks.**</mark>
+* <mark style="color:purple;background-color:purple;">**R**</mark><mark style="color:$danger;background-color:purple;">**ecursiveCharacterTextSplitter respects paragraph and sentence boundaries and packs as much as fits into chunk size without breaking sentences.**</mark>
+* <mark style="color:$danger;background-color:purple;">**CharacterTextSplitter splits strictly by character count using the separator, which can split sentences across chunks.**</mark>
 
 | Paragraph   | Length (chars) | Notes                         |
 | ----------- | -------------- | ----------------------------- |

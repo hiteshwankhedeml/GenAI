@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ⚔️ Pydantic - Multiple Nodes- Run time validation
 
 * Run-time validation will also work in a multi-node graph. In the example below bad\_node updates a to an integer.

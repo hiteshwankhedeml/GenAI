@@ -1,4 +1,8 @@
-# 🟢 Pinecone - Code
+---
+hidden: true
+---
+
+# ✈️ Pinecone - Code
 
 * <mark style="color:purple;background-color:purple;">**API Key required, can be generated on pinecone site**</mark>
 * <mark style="color:purple;background-color:purple;">**In free plan, you can create only 1 project**</mark>

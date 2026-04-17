@@ -1,4 +1,8 @@
-# 🟢 End to End Project
+---
+hidden: true
+---
+
+# ✈️ End to End Project
 
 <mark style="color:purple;background-color:purple;">**Steps:**</mark>
 

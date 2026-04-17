@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # LangGraph Introduction - Code 2
 
 * We keep adding messages to state

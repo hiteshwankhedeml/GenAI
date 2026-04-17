@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ✈️ Pdf Query RAG with Langchain and AstraDB
 
 * From Cassandra, open source no sql db

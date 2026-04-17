@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Agentic RAG - Code
 
 * &#x20;Using create\_retriever\_tool we convert retriever into tool

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Debugging
 
 * Create a .py file for this

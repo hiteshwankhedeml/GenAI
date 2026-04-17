@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Agentic RAG
 
 1. **Agentic RAG:** Use an Agent to figure out how to retrieve the most relevant information before using the retrieved info to answer the users question

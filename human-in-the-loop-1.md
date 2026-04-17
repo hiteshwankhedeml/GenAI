@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Human in the Loop
 
 * Review For human-in-the-loop, we often want to see our graph outputs as its running.

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Adaptive RAG
 
 * Strategy for RAG that unites 1. Query analysis with 2. active/self corrective RAG

@@ -1,4 +1,8 @@
-# 🟢 Introduction to LangGraph
+---
+hidden: true
+---
+
+# 🟡 Introduction to LangGraph
 
 **Langchain Advantages:**
 

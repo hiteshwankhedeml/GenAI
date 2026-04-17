@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # JD Generation
 
 **User Input:**

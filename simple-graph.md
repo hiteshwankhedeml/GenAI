@@ -1,4 +1,8 @@
-# 🟢 Simple Graph
+---
+hidden: true
+---
+
+# 🟡 Simple Graph
 
 <mark style="color:purple;background-color:purple;">**State:**</mark>
 

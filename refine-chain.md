@@ -1,4 +1,8 @@
-# 🟢 Refine Chain
+---
+hidden: true
+---
+
+# ✈️ Refine Chain
 
 * <mark style="color:purple;background-color:purple;">**We have documents ⇒ This will be divided into chunks**</mark>
 * <mark style="color:purple;background-color:purple;">**We will take the 1st chain and give it to a prompt template and LLM and get summarization**</mark>

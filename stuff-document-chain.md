@@ -1,4 +1,8 @@
-# 🟢 Stuff Document Chain
+---
+hidden: true
+---
+
+# ✈️ Stuff Document Chain
 
 <mark style="color:purple;background-color:purple;">**Steps:**</mark>
 

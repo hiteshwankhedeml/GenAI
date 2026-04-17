@@ -6,11 +6,11 @@
 * Data source can be structured / unstructued
 * Files will be read and then summarization will be done
 * <mark style="color:purple;background-color:purple;">3 approaches for summarization</mark>
-  * <mark style="color:purple;background-color:purple;">Stuff</mark>
-  * <mark style="color:purple;background-color:purple;">Map reduce</mark>
-  * <mark style="color:purple;background-color:purple;">Refine</mark>
+  * <mark style="color:$danger;background-color:purple;">**Stuff**</mark>
+  * <mark style="color:$danger;background-color:purple;">**Map reduce**</mark>
+  * <mark style="color:$danger;background-color:purple;">**Refine**</mark>
 * LLMChain - To combine LLM with prompt
-* <mark style="color:purple;background-color:purple;">**If text is less then we can do using prompt, for large text we need to use text summarization technique**</mark>
+* <mark style="color:$danger;background-color:purple;">**If text is less then we can do using prompt, for large text we need to use text summarization technique**</mark>
 
 ```python
 from langchain_groq import ChatGroq

@@ -1,4 +1,8 @@
-# 🟢 Knowledge Graph
+---
+hidden: true
+---
+
+# ✈️ Knowledge Graph
 
 * <mark style="color:purple;background-color:purple;">**It is a way of storing knowledge, but structured as entities and relationships, not plain text**</mark>
 * <mark style="color:purple;background-color:purple;">**As a GenAI developer, it improves answer accuracy because relationships are explicit, not inferred**</mark>

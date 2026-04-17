@@ -1,4 +1,8 @@
-# 🟢 Map Reduce
+---
+hidden: true
+---
+
+# ✈️ Map Reduce
 
 <mark style="color:purple;background-color:purple;">**Steps:**</mark>
 

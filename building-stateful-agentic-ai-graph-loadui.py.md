@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Building Stateful Agentic AI graph - loadui.py
 
 loadui.py

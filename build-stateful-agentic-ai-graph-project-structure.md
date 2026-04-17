@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Build Stateful Agentic AI graph - Project Structure
 
 {% embed url="https://github.com/krishnaik06/Agentic-Ai-Project" %}

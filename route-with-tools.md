@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Route with tools
 
 * We have start

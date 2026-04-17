@@ -1,4 +1,8 @@
-# 🟢 Creating chatbot using LangGraph
+---
+hidden: true
+---
+
+# 🟡 Creating chatbot using LangGraph
 
 **Code:**
 

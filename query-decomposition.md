@@ -1,4 +1,8 @@
-# 🟢 Query Decomposition
+---
+hidden: true
+---
+
+# ✈️ Query Decomposition
 
 * <mark style="color:purple;background-color:purple;">**Taking a complex multi-part questions and breaking it into simpler, atomic sub-questions that can each be retrieved and answered individually**</mark>
 * <mark style="color:purple;background-color:purple;">**Sub queries will be formed using LLM + Prompt**</mark>

@@ -1,4 +1,8 @@
-# 🟢 Agentic Workflow
+---
+hidden: true
+---
+
+# 🟡 Agentic Workflow
 
 * We give input to LLM and get output, using this suppose we have created AI assistant application
 * But LLM might generate a wrong response, as it might not have been trained on latest/domain specific data

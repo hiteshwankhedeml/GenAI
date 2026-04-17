@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # LangGraph Agents
 
 * &#x20;Docstring is important for LLM to understand the tool

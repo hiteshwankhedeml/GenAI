@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Tools
 
 * Tools are useful whenever you want a model to interact with external systems.

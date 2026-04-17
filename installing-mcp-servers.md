@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Installing MCP servers
 
 * Install npx or nodejs

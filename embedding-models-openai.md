@@ -1,14 +1,14 @@
 # 🟢 Embedding Models - OpenAI
 
 * Open AI embedding models - [https://platform.openai.com/docs/models](https://platform.openai.com/docs/models)
-* <mark style="color:purple;background-color:purple;">**We can regulate the model dimension by passing the parameter dimension**</mark>
+* <mark style="color:$danger;background-color:purple;">**We can regulate the model dimension by passing the parameter dimension**</mark>
 * OpenAI embeddings are paid
 
 <mark style="color:purple;background-color:purple;">**Steps:**</mark>
 
 * <mark style="color:purple;background-color:purple;">**Initialize the embedding object ⇒ Pass model and can also pass dimensions optionally**</mark>
-* <mark style="color:purple;background-color:purple;">**embed\_query(text) ⇒ To embed text**</mark>
-* <mark style="color:purple;background-color:purple;">**embed\_documents(documents) ⇒ To embed documents**</mark>
+* <mark style="color:$danger;background-color:purple;">**embed\_query(text) ⇒ To embed text**</mark>
+* <mark style="color:$danger;background-color:purple;">**embed\_documents(documents) ⇒ To embed documents**</mark>
 * <mark style="color:purple;background-color:purple;">**Can use cosine similarity on embedded text as well**</mark>
 
 ```python

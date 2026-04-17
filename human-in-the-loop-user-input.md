@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Human in the loop - User input
 
 * &#x20;

@@ -20,4 +20,4 @@ k = 60 commonly.
 | D        | 4         | 2          | 0.01562    | 0.01613     | 0.03175         |
 
 **Final Ranking:** B > A > D > C.\
-Hybrid search ensures both keyword precision and semantic understanding.
+<mark style="color:$danger;">**Hybrid search ensures both keyword precision and semantic understanding.**</mark>

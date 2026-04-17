@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Opik - CrewAI - Code
 
 * Check code

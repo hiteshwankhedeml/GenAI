@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Routing
 
 * Routing classifies an input and directs it to a specialized followup task.&#x20;

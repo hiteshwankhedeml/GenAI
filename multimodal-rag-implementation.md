@@ -1,8 +1,12 @@
+---
+hidden: true
+---
+
 # ✈️ MultiModal RAG - Implementation
 
 *
 
-    <figure><img src="../.gitbook/assets/{2FD80A52-12C4-4B74-AE47-ED30CB7D03AD} (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/{2FD80A52-12C4-4B74-AE47-ED30CB7D03AD} (1).png" alt=""><figcaption></figcaption></figure>
 
 Steps:
 

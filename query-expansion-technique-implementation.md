@@ -1,4 +1,8 @@
-# 🟢 Query Expansion Technique Implementation
+---
+hidden: true
+---
+
+# ✈️ Query Expansion Technique Implementation
 
 Steps:
 

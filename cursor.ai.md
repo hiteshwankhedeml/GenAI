@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Cursor.ai
 
 * Settings ⇒ mcp.json ⇒ Install mcp servers

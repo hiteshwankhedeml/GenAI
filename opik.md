@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Opik
 
 * Product by CometML

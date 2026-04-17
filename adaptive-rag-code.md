@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Adaptive RAG - Code
 
 * &#x20;

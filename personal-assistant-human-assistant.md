@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Personal Assistant - Human Assistant
 
 * &#x20;

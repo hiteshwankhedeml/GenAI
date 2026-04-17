@@ -1,4 +1,8 @@
-# Creating chatbots with External Tools Workflow
+---
+hidden: true
+---
+
+# 🟡 Creating chatbots with External Tools Workflow
 
 * When we query and if chatbot/llm is not able to answer then it will call the external tool
 

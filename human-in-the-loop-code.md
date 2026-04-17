@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Human in the loop - Code
 
 * We can interrupt before as well as after for human input

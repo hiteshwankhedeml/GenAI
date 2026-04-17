@@ -1,4 +1,8 @@
-# 🟢 Query Decomposition - Implementation
+---
+hidden: true
+---
+
+# ✈️ Query Decomposition - Implementation
 
 Steps:
 

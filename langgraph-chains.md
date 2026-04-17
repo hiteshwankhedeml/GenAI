@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # LangGraph Chains
 
 * &#x20;Qwen is model from Alibaba

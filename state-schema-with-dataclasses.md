@@ -1,4 +1,8 @@
-# State Schema with DataClasses
+---
+hidden: true
+---
+
+# 🟡 State Schema with DataClasses
 
 * When we define a LangGraph StateGraph, we use a state schema.
 * The state schema represents the structure and types of data that our graph will use.

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ✈️ Preparing the Data for SQLite3
 
 ```python

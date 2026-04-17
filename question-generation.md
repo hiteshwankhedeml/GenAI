@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Question Generation
 
 Same as that done for JD generation

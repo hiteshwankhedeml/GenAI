@@ -1,6 +1,7 @@
 # 🟢 Huggingface Embeddings
 
 * <mark style="color:purple;background-color:purple;">**Huggingface also has lot of open source embeddings**</mark>
+* <mark style="color:$danger;background-color:purple;">**minilm**</mark>
 
 <mark style="color:purple;background-color:purple;">**Steps:**</mark>
 

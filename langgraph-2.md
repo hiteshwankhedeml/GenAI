@@ -1,4 +1,8 @@
-# 🟢 LangGraph
+---
+hidden: true
+---
+
+# 🟡 LangGraph
 
 * Langchain is framework providing us chat models, embedding model, chaining, prompt templates, vectorDB, loaders, tools etc
 * <mark style="color:purple;background-color:purple;">**LangGraph has been creating for agentic workflow**</mark>

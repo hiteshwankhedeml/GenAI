@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🔴 Pydantic - Data Type Validation
 
 * Here class state with return dictionary of 2 variables of str

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Agent
 
 * If we ask questions like - what is 2 + 2 multiply 7
