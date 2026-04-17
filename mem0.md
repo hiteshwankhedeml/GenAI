@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Mem0
 
 * We use this when personalized memory is required&#x20;

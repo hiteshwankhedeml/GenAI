@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ✈️ What is CrewAI
 
 * It is framework and platform

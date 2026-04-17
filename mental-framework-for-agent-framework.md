@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Mental framework for Agent Framework
 
 * Very high correlation between a good manager and being able to create great multi agent systems

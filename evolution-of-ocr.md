@@ -1,4 +1,4 @@
-# Evolution of OCR
+# 🟢 Evolution of OCR
 
 **Tesseract:**
 
@@ -16,4 +16,3 @@
 * 2 step pipeline using deep learning
   * **Text detection model:** find regions that contain text
   * **Text recognition model:** Read the content of each text region
-*

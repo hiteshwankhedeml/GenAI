@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Pydantic - GuardRails
 
 * &#x20;

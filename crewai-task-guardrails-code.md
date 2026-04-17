@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # CrewAI - Task Guardrails - Code
 
 * &#x20;

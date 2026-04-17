@@ -1,4 +1,8 @@
-# Claude desktop app: Chat, Cowork, Code
+---
+hidden: true
+---
+
+# 🟡 Claude desktop app: Chat, Cowork, Code
 
 **Claude desktop app: Chat, Cowork, Code:**
 

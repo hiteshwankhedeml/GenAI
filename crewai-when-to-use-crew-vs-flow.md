@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # CrewAI - When to use Crew vs Flow
 
 | Use Case                | Recommended Approach                                        | Why?                                                                                                                                                                                      |

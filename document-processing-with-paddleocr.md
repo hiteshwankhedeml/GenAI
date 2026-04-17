@@ -1,5 +1,8 @@
-# Document Processing with PaddleOCR
+# 🟢 Document Processing with PaddleOCR
 
+* <mark style="color:$danger;background-color:purple;">**Here we created a tool for ocr**</mark>
+* <mark style="color:$danger;background-color:purple;">**Then created agent and have it this tool**</mark>
+* <mark style="color:$danger;background-color:purple;">**Invoke the agent by passing the document**</mark>
 * Handwriting remained challenging
 * **\_DET**: Text detection model (locates text regions)
 * **\_REC**: Text recognition model (reads characters)

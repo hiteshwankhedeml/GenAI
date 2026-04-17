@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # CrewAI - Flow Components
 
 | Component        | Description                       | Key Features                                                                                                                                                          |

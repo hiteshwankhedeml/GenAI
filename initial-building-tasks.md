@@ -1,4 +1,8 @@
-# 🟢 Initial Building Tasks
+---
+hidden: true
+---
+
+# ✈️ Initial Building Tasks
 
 * <mark style="color:purple;background-color:purple;">**Agents**</mark>&#x20;
 * <mark style="color:purple;background-color:purple;">**Tasks**</mark>

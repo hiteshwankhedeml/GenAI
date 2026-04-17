@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # MCP
 
 * [https://modelcontextprotocol.io/introduction](https://modelcontextprotocol.io/introduction)

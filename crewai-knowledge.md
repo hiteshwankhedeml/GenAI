@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # CrewAI - Knowledge
 
 * Knowledge in CrewAI is a powerful system that allows AI agents to access and utilize external information sources during their tasks

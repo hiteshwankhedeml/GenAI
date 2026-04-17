@@ -1,6 +1,6 @@
 # 🟢 TypedDict
 
-* <mark style="color:purple;background-color:purple;">**It lets you define dictionaries with fixed keys and specific value types**</mark>
+* <mark style="color:$danger;background-color:purple;">**It lets you define dictionaries with fixed keys and specific value types**</mark>
 
 ```python
 from typing import TypedDict

@@ -1,4 +1,8 @@
-# 🟢 CrewAI - Business Scenario
+---
+hidden: true
+---
+
+# 🟡 CrewAI - Business Scenario
 
 <mark style="color:purple;background-color:purple;">**Old Approach:**</mark>
 

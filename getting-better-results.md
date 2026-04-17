@@ -1,4 +1,8 @@
-# Getting better results
+---
+hidden: true
+---
+
+# 🟡 Getting better results
 
 **Challenges:**
 

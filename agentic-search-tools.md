@@ -6,7 +6,7 @@
 
 <mark style="color:purple;background-color:purple;">**Code:**</mark>
 
-* <mark style="color:purple;background-color:purple;">**The result returned is not how human would want it but its exactly how agents needs it**</mark>
+* <mark style="color:$danger;background-color:purple;">**The result returned is not how human would want it but its exactly how agents needs it ⇒ Tavily**</mark>
 
 ```python
 ### Agentic Search

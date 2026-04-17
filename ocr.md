@@ -1,4 +1,8 @@
-# OCR
+---
+hidden: true
+---
+
+# ✈️ OCR
 
 * It parses text, it doesnt understand the data
 * 2 step process resulting in a digital output containing text

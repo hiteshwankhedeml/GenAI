@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # CrewAI - Knowledge - Custom
 
 * &#x20;Chunking in CrewAI is done using tiktoken

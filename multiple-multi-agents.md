@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ✈️ Multiple Multi Agents
 
 * We can also have multiple multi agents

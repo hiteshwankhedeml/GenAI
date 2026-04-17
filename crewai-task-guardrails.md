@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # CrewAI - Task Guardrails
 
 * &#x20;Task guardrails provide a way to validate and transform task outputs before they are passed to the next task.&#x20;

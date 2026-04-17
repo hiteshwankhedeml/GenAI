@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # CrewAI - Agentic RAG
 
 {% embed url="https://github.com/sourangshupal/agentic_rag_crewai" %}

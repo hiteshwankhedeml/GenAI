@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # CrewAI - Trip Planner
 
 {% embed url="https://github.com/sourangshupal/Trip-Planner-using-CrewAI" %}

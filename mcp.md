@@ -1,4 +1,8 @@
-# 🟢 MCP
+---
+hidden: true
+---
+
+# ✈️ MCP
 
 * Think of MCP (Model Context Protocol) as a plug socket, not the appliance
 * The LLM is the appliance that needs power (data, tools, context)

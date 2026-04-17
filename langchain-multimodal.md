@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # LangChain - MultiModal
 
 * &#x20;We need to enable multimodal parameters

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # CrewAI Introduction
 
 * Build AI agent teams that work together to tackle complex tasks

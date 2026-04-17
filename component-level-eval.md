@@ -1,4 +1,8 @@
-# 🟢 Component Level Eval
+---
+hidden: true
+---
+
+# ✈️ Component Level Eval
 
 * <mark style="color:purple;background-color:purple;">**If we change a component, then to check the results we have to run end to end, which is expensive**</mark>
 * <mark style="color:purple;background-color:purple;">**Create a list of gold standard**</mark>&#x20;

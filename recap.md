@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Recap
 
 * Agents self improve with memory

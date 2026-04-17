@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Building Stateful Agentic AI graph - search\_tool.py
 
 search\_tool.py

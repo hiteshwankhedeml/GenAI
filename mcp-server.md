@@ -1,8 +1,8 @@
-# MCP Server
+# 🟢 MCP Server
 
-* &#x20;from mcp.server.fastmcp import FastMCP ⇒ to create MCP server
-* Use @mcp.tool decorator for creating the tool
-* Use pydantic so that claude can understand what parameters are expected
+* <mark style="color:$danger;background-color:purple;">**from mcp.server.fastmcp import FastMCP ⇒ to create MCP server**</mark>
+* <mark style="color:$danger;background-color:purple;">**Use @mcp.tool decorator for creating the tool**</mark>
+* <mark style="color:$danger;background-color:purple;">**Use pydantic so that claude can understand what parameters are expected**</mark>
 *
 
 ```python

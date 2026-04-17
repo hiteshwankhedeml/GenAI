@@ -1,4 +1,8 @@
-# 🟢 What are Tools?
+---
+hidden: true
+---
+
+# ✈️ What are Tools?
 
 * <mark style="color:purple;background-color:purple;">**Tools are just functions that we provide to the LLM that it can request to call**</mark>
 

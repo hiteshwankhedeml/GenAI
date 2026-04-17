@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # YouTube Videos to Blog using CrewAI Agents
 
 * CrewAI is agent framework

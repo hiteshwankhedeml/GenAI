@@ -1,4 +1,8 @@
-# Code - Document Understanding with ADE
+---
+hidden: true
+---
+
+# ✈️ Code - Document Understanding with ADE
 
 * To parse documents and extract key-value pairs using a single API
 * &#x20;

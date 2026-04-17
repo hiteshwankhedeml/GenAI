@@ -1,4 +1,8 @@
-# 🟢 Agentic AI Applications
+---
+hidden: true
+---
+
+# ✈️ Agentic AI Applications
 
 <mark style="color:purple;background-color:purple;">**Invoice Processing workflow:**</mark>
 

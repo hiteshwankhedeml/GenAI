@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # CrewAI - Demo 2
 
 * &#x20;Serper is a third party tool

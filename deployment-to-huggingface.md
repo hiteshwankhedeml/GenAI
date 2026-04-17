@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🔴 Deployment to HuggingFace
 
 * Signup on huggingface.co

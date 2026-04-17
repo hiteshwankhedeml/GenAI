@@ -1,4 +1,8 @@
-# Beyond OCR with Agentic AI
+---
+hidden: true
+---
+
+# ✈️ Beyond OCR with Agentic AI
 
 * An AI agent is an autonomous system that can perceive its environment, reason about its goal, and take actions to achieve them with limited human supervision
 

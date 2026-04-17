@@ -1,4 +1,8 @@
-# 🟢 Multi Agent System
+---
+hidden: true
+---
+
+# 🟡 Multi Agent System
 
 * <mark style="color:purple;background-color:purple;">**Grow on top of agent behaviour**</mark>
 * <mark style="color:purple;background-color:purple;">**Instead of single agent we can have multiple agents**</mark>

@@ -4,26 +4,26 @@
 
 
 
-<mark style="color:purple;background-color:purple;">**Less Autonomous:**</mark>
+<mark style="color:$danger;background-color:purple;">**Less Autonomous:**</mark>
 
 * <mark style="color:purple;background-color:purple;">**All steps predetermined**</mark>
 * <mark style="color:purple;background-color:purple;">**All tools hardcoded**</mark>
-*   Autonomy is in text generation
+*   <mark style="color:$danger;background-color:purple;">**Autonomy is in text generation**</mark>
 
     <figure><img src=".gitbook/assets/{B481D362-5E57-474F-BE03-748B188B285F}.png" alt=""><figcaption></figcaption></figure>
 
 
 
-<mark style="color:purple;background-color:purple;">**Semi-Autonomous:**</mark>
+<mark style="color:$danger;background-color:purple;">**Semi-Autonomous:**</mark>
 
-* <mark style="color:purple;background-color:purple;">**Agents can make some decisions, choose tools**</mark>
+* <mark style="color:$danger;background-color:purple;">**Agents can make some decisions, choose tools**</mark>
 * All tools predefined
 
 
 
-<mark style="color:purple;background-color:purple;">**More Autonomous:**</mark>
+<mark style="color:$danger;background-color:purple;">**More Autonomous:**</mark>
 
-* <mark style="color:purple;background-color:purple;">**Agent makes decisions autonomously**</mark>
+* <mark style="color:$danger;background-color:purple;">**Agent makes decisions autonomously**</mark>
 * <mark style="color:purple;background-color:purple;">**Can create new agents on the fly**</mark>
 *
 

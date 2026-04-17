@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Agno
 
 * Lightweight library for building multimodal Agents with memory, knowledge and tools

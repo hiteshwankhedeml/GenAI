@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Next Steps with AI Agent Systems
 
 * [https://docs.crewai.com/en/introduction](https://docs.crewai.com/en/introduction)

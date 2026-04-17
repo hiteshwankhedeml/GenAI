@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Code - Tools for Customer Outreach campaign
 
 * &#x20;instruction file has instructions on how to handle companies of different sizes

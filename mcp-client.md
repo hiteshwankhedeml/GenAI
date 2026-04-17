@@ -1,9 +1,9 @@
-# MCP Client
+# 🟢 MCP Client
 
-* The client is what allows our application code to communicate with the MCP server and access its functionality.
-* The MCP client consists of two main components:
-  * **MCP Client** - A custom class we create to make using the session easier
-  * **Client Session** - The actual connection to the server (part of the MCP Python SDK)
+* <mark style="color:$danger;">**The client is what allows our application code to communicate with the MCP server and access its functionality.**</mark>
+* <mark style="color:$danger;">**The MCP client consists of two main components:**</mark>
+  * <mark style="color:$danger;">**MCP Client - A custom class we create to make using the session easier**</mark>
+  * <mark style="color:$danger;">**Client Session - The actual connection to the server (part of the MCP Python SDK)**</mark>
 * It is used for&#x20;
   * Get a list of available tools to send to Claude
   * Execute tools when Claude requests them

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Pydantic - Getting structured output
 
 * &#x20;

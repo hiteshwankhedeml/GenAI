@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # CrewAI - How Flow works
 
 * While Crews excel at autonomous collaboration, Flows provide structured automations, offering granular control over workflow execution.&#x20;

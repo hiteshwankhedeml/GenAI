@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Claude Desktop
 
 * Claude Desktop ⇒ Hammer Icon ⇒ This will show list of all MCP server

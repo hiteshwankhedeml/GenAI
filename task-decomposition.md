@@ -1,6 +1,6 @@
 # 🟢 Task Decomposition
 
-<mark style="color:purple;background-color:purple;">**Decompose the task to be achieved into multiple steps**</mark>
+<mark style="color:$danger;background-color:purple;">**Decompose the task to be achieved into multiple steps**</mark>
 
 
 

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # MCP - Resource
 
 * Expose data and content from your servers to LLMs

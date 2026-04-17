@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # MCP - Architecture
 
 * **MCP Hosts**: Programs like Claude Desktop, IDEs, or AI tools that want to access data through MCP

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Agno - Knowledge
 
 * &#x20;

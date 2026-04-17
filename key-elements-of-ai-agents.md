@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🟢 Key Elements of AI Agents
 
 1. <mark style="color:purple;background-color:purple;">**Roleplaying**</mark>

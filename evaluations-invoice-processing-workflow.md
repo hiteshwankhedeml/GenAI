@@ -1,4 +1,8 @@
-# 🟢 Evaluations - Invoice Processing Workflow
+---
+hidden: true
+---
+
+# ✈️ Evaluations - Invoice Processing Workflow
 
 *   &#x20;
 

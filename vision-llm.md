@@ -1,4 +1,8 @@
-# Vision LLM
+---
+hidden: true
+---
+
+# ✈️ Vision LLM
 
 * For each use case different model is required
 * &#x20;Using VLLM this can be solved&#x20;

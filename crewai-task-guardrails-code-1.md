@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # CrewAI - Task GuardRails - Code
 
 * &#x20;

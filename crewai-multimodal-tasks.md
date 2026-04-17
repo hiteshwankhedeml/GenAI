@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # CrewAI - MultiModal Tasks
 
 * &#x20;

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Custom Tools
 
 1. Application SDK — Example RazorPay

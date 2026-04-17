@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # CrewAI
 
 * Light Packaging ⇒ UV installer ⇒ Built on rust

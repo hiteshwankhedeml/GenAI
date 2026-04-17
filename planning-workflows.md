@@ -1,8 +1,8 @@
 # 🟢 Planning Workflows
 
 * <mark style="color:purple;background-color:purple;">**Different tools will be given**</mark>
-* <mark style="color:purple;background-color:purple;">**For a complex query**</mark>
-*   <mark style="color:purple;background-color:purple;">**We did not have to decide the sequence in which to call the tools**</mark>
+* <mark style="color:$danger;background-color:purple;">**For a complex query**</mark>
+*   <mark style="color:$danger;background-color:purple;">**We did not have to decide the sequence in which to call the tools**</mark>
 
     <figure><img src=".gitbook/assets/{0A252CDC-C97C-4FB8-8A15-A6D11D595087}.png" alt=""><figcaption></figcaption></figure>
 *

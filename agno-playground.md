@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Agno - Playground
 
 * &#x20;python playground.py ⇒ this will give a localendpoint

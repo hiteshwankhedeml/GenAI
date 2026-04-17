@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # CrewAI - Demo
 
 {% embed url="https://colab.research.google.com/drive/1SUyi4GolZJsKeQtj7lgFQlcWds2WxcjN?usp=sharing" %}

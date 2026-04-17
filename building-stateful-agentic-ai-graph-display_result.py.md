@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Building Stateful Agentic AI graph - display\_result.py
 
 display\_result.py

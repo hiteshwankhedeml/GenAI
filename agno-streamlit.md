@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Agno - Streamlit
 
 * Just converted code for streamlit using chatgpt

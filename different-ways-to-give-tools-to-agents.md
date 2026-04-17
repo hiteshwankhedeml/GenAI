@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Different ways to give tools to Agents
 
 * Agent Level: The Agent can use the Tool(s) on any Task it performs.

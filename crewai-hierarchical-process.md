@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # CrewAI - Hierarchical Process
 
 * &#x20;

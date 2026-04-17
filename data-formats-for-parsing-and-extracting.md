@@ -1,4 +1,8 @@
-# Data formats for Parsing and Extracting
+---
+hidden: true
+---
+
+# ✈️ Data formats for Parsing and Extracting
 
 * Markdown is a lighweight formulating language&#x20;
 * Commonly markdown is the output format using in parsing as it preserves document hierarchy like tables etc.

@@ -1,4 +1,8 @@
-# Introduction to projects
+---
+hidden: true
+---
+
+# 🟡 Introduction to projects
 
 * Projects are self-contained workspaces with their own memory, chat histories, knowledge bases, and customized instructions.&#x20;
 * Use when multiple people should work from the same foundation

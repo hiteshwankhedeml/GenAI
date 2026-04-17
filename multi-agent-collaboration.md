@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Multi Agent Collaboration
 
 * With no collaboration, one agent will finish the task and then it will go to the next agent

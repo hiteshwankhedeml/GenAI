@@ -1,2 +1,6 @@
-# End of ----- Claude 101 -----
+---
+hidden: true
+---
+
+# 🏁 End of ----- Claude 101 -----
 

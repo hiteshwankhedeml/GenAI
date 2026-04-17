@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # CrewAI - Streamlit
 
 * &#x20;

@@ -1,4 +1,8 @@
-# 🟢 MCP
+---
+hidden: true
+---
+
+# ✈️ MCP
 
 * Standard proposed by Antropic
 * <mark style="color:purple;background-color:purple;">**Many developer will be developing custom wrapers around same data sources**</mark>

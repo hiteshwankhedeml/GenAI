@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Key Elements of well defined tasks
 
 * When we hire junior person we need to be very precise in their tasks

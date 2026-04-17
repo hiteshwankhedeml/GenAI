@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Code - Multi Agent Customer Support Automation
 
 *   &#x20;Here we have not set delegation = False,  the agent _can_ delegate its work to another agent which is better suited to do a particular task

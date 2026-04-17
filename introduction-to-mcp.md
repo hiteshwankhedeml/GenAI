@@ -1,2 +1,2 @@
-# ----- Introduction to MCP -----
+# 🏁 ----- Introduction to MCP -----
 

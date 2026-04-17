@@ -1,4 +1,8 @@
-# 🟢 Code - Research and write article
+---
+hidden: true
+---
+
+# 🟡 Code - Research and write article
 
 * <mark style="color:purple;background-color:purple;">**We can use different LLM, bydefault it use openai gpt 4**</mark>
 * Crew puts agents and tasks together so that they operate as an unit

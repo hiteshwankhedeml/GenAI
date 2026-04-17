@@ -1,4 +1,8 @@
-# 🟢 AI Agents
+---
+hidden: true
+---
+
+# 🟡 AI Agents - Feedback
 
 * We can get better results from LLM using feedback
 * If we ask GPT about a topic, then it will give output

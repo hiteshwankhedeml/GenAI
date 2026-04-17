@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # MCP - Tools, Resource, Prompt
 
 1. Tools ⇒ Model controlled

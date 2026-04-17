@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # CrewAI - How it all works together
 
 1. The Crew organizes the overall operation

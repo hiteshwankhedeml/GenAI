@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # CrewAI - Short term memory
 
 * &#x20;Short term memory uses RAG

@@ -1,4 +1,8 @@
-# Four Communication Scenarios
+---
+hidden: true
+---
+
+# ✈️ Four Communication Scenarios
 
 * With any transport, you need to handle four different communication patterns
 * **Client → Server request**: Client writes to stdin

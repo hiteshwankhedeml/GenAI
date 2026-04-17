@@ -1,4 +1,8 @@
-# 🟢 Mongo - Cheatsheet
+---
+hidden: true
+---
+
+# ✈️ Mongo - Cheatsheet
 
 * <mark style="color:purple;background-color:purple;">**We use pymongo**</mark>
 * <mark style="color:purple;background-color:purple;">**`_id`**</mark>

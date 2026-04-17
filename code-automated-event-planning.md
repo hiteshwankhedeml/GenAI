@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Code - Automated event planning
 
 * &#x20;Serper will search the website and scrape will scrap them for us

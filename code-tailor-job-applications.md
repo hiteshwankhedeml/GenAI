@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Code - Tailor Job Applications
 
 * FileReadTool is used for agent to read fake resume

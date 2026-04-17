@@ -1,4 +1,8 @@
-# 🟢 Multi Agent Benefits
+---
+hidden: true
+---
+
+# 🟡 Multi Agent Benefits
 
 * <mark style="color:purple;background-color:purple;">**Each agent can be customized to do one single thing and do it well**</mark>
 * <mark style="color:purple;background-color:purple;">**One agent can we writer and another be researcher**</mark>

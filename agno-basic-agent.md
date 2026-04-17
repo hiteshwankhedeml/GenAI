@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Agno - Basic Agent
 
 * &#x20;

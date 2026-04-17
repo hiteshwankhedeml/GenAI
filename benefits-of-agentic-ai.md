@@ -1,4 +1,8 @@
-# 🟢 Benefits of Agentic AI
+---
+hidden: true
+---
+
+# ✈️ Benefits of Agentic AI
 
 * <mark style="color:purple;background-color:purple;">**Performance:**</mark>
   * Benchmark used in HumanEval

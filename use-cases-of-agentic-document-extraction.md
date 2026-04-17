@@ -1,4 +1,8 @@
-# Use Cases of Agentic Document Extraction
+---
+hidden: true
+---
+
+# ✈️ Use Cases of Agentic Document Extraction
 
 **Key value pairs from Documents:**
 

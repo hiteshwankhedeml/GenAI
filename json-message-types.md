@@ -1,6 +1,6 @@
-# JSON message types
+# 🟢 JSON message types
 
-* MCP (Model Context Protocol) uses JSON messages to handle communication between clients and servers
+* <mark style="color:$danger;background-color:purple;">**MCP (Model Context Protocol) uses JSON messages to handle communication between clients and servers**</mark>
 * MCP is designed as a bidirectional protocol - both clients and servers can initiate communication.&#x20;
 *   This becomes crucial when you need to choose the right transport method for your specific use case.
 

@@ -20,9 +20,9 @@
 
 * <mark style="color:$danger;background-color:purple;">**Create a checkpoint of sqlite with inmemory**</mark>
 * <mark style="color:$danger;background-color:purple;">**When you compile add checkpointer**</mark>
-* <mark style="color:purple;background-color:purple;">**During graph.stream ⇒ pass human message and thread id**</mark>
-* <mark style="color:purple;background-color:purple;">**using thread different coversation can be managed**</mark>
-* <mark style="color:purple;background-color:purple;">**We can also stream tokens, for that we will have to use async checkpoint and astream**</mark>
+* <mark style="color:$danger;background-color:purple;">**During graph.stream ⇒ pass human message and thread id**</mark>
+* <mark style="color:$danger;background-color:purple;">**using thread different coversation can be managed**</mark>
+* <mark style="color:$danger;background-color:purple;">**We can also stream tokens, for that we will have to use async checkpoint and astream**</mark>
 
 ```python
 from dotenv import load_dotenv

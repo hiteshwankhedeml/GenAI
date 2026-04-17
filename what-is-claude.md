@@ -1,4 +1,8 @@
-# What is claude
+---
+hidden: true
+---
+
+# 🟡 What is claude
 
 * It's an AI assistant designed to be your thinking partner
 

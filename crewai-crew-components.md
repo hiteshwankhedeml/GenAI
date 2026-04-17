@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # CrewAI - Crew Components
 
 | Component     | Description                | Key Features                                                                                                                       |

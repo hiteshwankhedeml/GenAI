@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # CrewAI - Flows
 
 {% embed url="https://docs.crewai.com/en/guides/flows/first-flow" %}

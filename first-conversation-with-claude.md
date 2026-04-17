@@ -1,4 +1,24 @@
-# First conversation with claude
+---
+hidden: true
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
+# 🟡 First conversation with claude
 
 * Claude brings AI intelligence, but you bring the context and expertise that makes the work meaningful
 * Before your next conversation with Claude, consider: setting the stage (your role, objectives, and context), defining the task (what action you want Claude to take), and specifying rules (style, tone, and examples).

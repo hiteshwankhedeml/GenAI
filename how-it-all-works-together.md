@@ -1,4 +1,4 @@
-# How it all works together
+# 🟢 How it all works together
 
 1. <mark style="color:purple;background-color:purple;">**User Query:**</mark> The user submits their question to your server
 2. <mark style="color:purple;background-color:purple;">**Tool Discovery:**</mark> Your server needs to know what tools are available to send to Claude

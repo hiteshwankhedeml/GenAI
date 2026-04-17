@@ -1,6 +1,6 @@
-# Roots
+# 🟢 Roots
 
-* Roots are a way to grant MCP servers access to specific files and folders on your local machine.
+* <mark style="color:$danger;">**Roots are a way to grant MCP servers access to specific files and folders on your local machine.**</mark>
 
 1. User asks to convert a video file
 2. Claude calls `list_roots` to see what directories it can access

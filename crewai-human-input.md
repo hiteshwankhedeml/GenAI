@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # CrewAI - Human Input
 
 * &#x20;

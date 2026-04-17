@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Code - Multi Agent Collobaration for Financial Analysis
 
 * The `Process` class helps to delegate the workflow to the Agents (kind of like a Manager at work)

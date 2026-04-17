@@ -1,4 +1,8 @@
-# How VLMs differ from LLM
+---
+hidden: true
+---
+
+# ✈️ How VLMs differ from LLM
 
 *
 *

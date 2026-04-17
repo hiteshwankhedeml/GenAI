@@ -1,10 +1,10 @@
-# Document Pre Trained Transformer
+# 🟢 Document Pre Trained Transformer
 
-**DPT Models:**
+<mark style="color:$danger;background-color:purple;">**DPT Models:**</mark>
 
-* DPT - 1
-* DPT - 2
-* DPT - 2 - mini
+* <mark style="color:$danger;background-color:purple;">**DPT - 1**</mark>
+* <mark style="color:$danger;background-color:purple;">**DPT - 2**</mark>
+* <mark style="color:$danger;background-color:purple;">**DPT - 2 - mini**</mark>
 
 
 

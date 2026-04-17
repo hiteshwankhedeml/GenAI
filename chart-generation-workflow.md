@@ -1,4 +1,8 @@
-# 🟢 Chart Generation Workflow
+---
+hidden: true
+---
+
+# ✈️ Chart Generation Workflow
 
 * Data having date, price, coffee
 *

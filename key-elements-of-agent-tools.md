@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Key Elements of Agent Tools
 
 * Tools helps agents to communicate with external world

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🟢 Passing multi strings
 
 *   The benefit of using _multiple strings_ :

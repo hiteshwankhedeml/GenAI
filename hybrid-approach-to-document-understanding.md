@@ -1,4 +1,8 @@
-# Hybrid Approach to Document Understanding
+---
+hidden: true
+---
+
+# ✈️ Hybrid Approach to Document Understanding
 
 *
 
