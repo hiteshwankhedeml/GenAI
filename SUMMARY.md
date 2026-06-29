@@ -1,7 +1,7 @@
 # Table of contents
 
-* [UV Package manager](README.md)
-* [pyproject.toml](pyproject.toml.md)
+* [🟢 UV Package manager](README.md)
+* [🟢 pyproject.toml](pyproject.toml.md)
 * [Agents](agents.md)
 * [Code - Basic Agent](code-basic-agent.md)
 * [Code - Calling Different Models](code-calling-different-models.md)
@@ -10,6 +10,7 @@
 * [Tools](tools.md)
 * [Messages](messages.md)
 * [Text Prompt](text-prompt.md)
+* [---------- 10 ----------](10.md)
 * [Message Prompt](message-prompt.md)
 * [Structured Output](structured-output.md)
 * [🟢 What is GenAI?](<README (1).md>)
@@ -32,7 +33,7 @@
 * [🟢 Ways to Load Model](ways-to-load-model.md)
 * [🟢 HuggingFace - Pipeline](huggingface-pipeline.md)
 * [🟢 HuggingFace - Auto Class](huggingface-auto-class.md)
-* [✈️ ---------- 10 ----------](10.md)
+* [✈️ ---------- 10 ----------](10-1.md)
 * [🟢 HuggingFace - Inference API](huggingface-inference-api.md)
 * [🟢 HuggingFace - LangChain](huggingface-langchain.md)
 * [✈️ HuggingFace - LangChain - DeepSeek](huggingface-langchain-deepseek.md)

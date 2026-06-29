@@ -1,4 +1,8 @@
-# UV Package manager
+# 🟢 UV Package manager
+
+<mark style="color:purple;background-color:purple;">**This is much faster and is written in Rust**</mark>
+
+
 
 **Installation:**
 
@@ -7,23 +11,20 @@
 
 
 
-uv init — To initilaize folder as uv
+<mark style="color:purple;background-color:purple;">**uv init**</mark> — To initilaize folder as uv
 
-uv venv — To create virtual environment
+<mark style="color:purple;background-color:purple;">**uv venv**</mark> — To create virtual environment
 
-.venv/Scripts/activate
+<mark style="color:purple;background-color:purple;">**.venv/Scripts/activate**</mark>
 
-uv add -r requirements.txt ⇒ Once we do this in toml we will be able to see the versions of the package intalled
-
-
+<mark style="color:purple;background-color:purple;">**uv add -r requirements.txt**</mark> ⇒ Once we do this in toml we will be able to see the versions of the package intalled
 
 
 
+As soon as we initialize, few files will get added
 
-
-* As soon as we initialize, few files will get added
-  * .gitignore
-  * main.py
-  * pyproject.toml
-  * README.md
+* .gitignore
+* main.py
+* pyproject.toml
+* README.md
 

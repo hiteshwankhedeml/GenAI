@@ -1,4 +1,7 @@
-# pyproject.toml
+# 🟢 pyproject.toml
+
+* <mark style="color:purple;background-color:purple;">**Declares what your project needs**</mark>
+* <mark style="color:purple;background-color:purple;">**It will contain python version and package needed**</mark>
 
 \[project]\
 name = "langchainupdated"\
